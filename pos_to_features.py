@@ -72,75 +72,78 @@ snd = lambda x: x[1]
 
 
 def process_pos(pos):
-    values = collections.OrderedDict(default_values)
-    pos = pos.strip()
-    first = fst(pos)
+    try:
+        values = collections.OrderedDict(default_values)
+        pos = pos.strip()
+        first = fst(pos)
 
-    if first == 'S':
-        values['slovny_druh_substantivum'] = 1
-        process_substantivum(pos, values)
-    elif first == 'A':
-        values['slovny_druh_adjektivum'] = 1
-        process_adjektivum(pos, values)
-    elif first == 'P':
-        values['slovny_druh_pronominum'] = 1
-        process_pronominum(pos, values)
-    elif first == 'N':
-        values['slovny_druh_numerale'] = 1
-        process_numerale(pos, values)
-    elif first == 'V':
-        values['slovny_druh_verbum'] = 1
-        process_verbum(pos, values)
-    elif first == 'G':
-        values['slovna_trieda_participium'] = 1
-        process_participium(pos, values)
-    elif first == 'D':
-        values['slovny_druh_adverbium'] = 1
-        process_stupen(pos[1], values)
-    elif first == 'E':
-        try:
-            values['slovny_druh_prepozicia'] = 1
-            process_forma(pos[1], values)
-            process_pad(pos[2], values)
-        except AttributeError as e:
-            print('Prepozicia POS: ' + pos)
-            raise e
-    elif first == 'O':
-        values['slovny_druh_konjunkcia'] = 1
-        if len(pos) == 2 and pos[1] == 'Y':
-            values['kondicialnost'] = 1
-    elif first == 'T':
-        values['slovny_druh_partikula'] = 1
-        if len(pos) == 2 and pos[1] == 'Y':
-            values['kondicialnost'] = 1
-    elif first == 'J':
-        values['slovny_druh_interjekcia'] = 1
-    elif first == 'R':
-        values['slovna_trieda_reflexivum'] = 1
-    elif first == 'Y':
-        values['slovna_trieda_kondicionalova_morfema'] = 1
-    elif first == 'W':
-        values['slovna_trieda_abreviacia'] = 1
-    elif first == 'Z':
-        values['slovna_trieda_interpunkcia'] = 1
-    elif first == 'Q':
-        values['slovna_trieda_neurcitelny'] = 1
-    elif first == '#':
-        values['slovna_trieda_neslovny_element'] = 1
-    elif first == '%':
-        values['slovna_trieda_citatovy_vyraz'] = 1
-    elif first == '0':
-        values['slovna_trieda_cislica'] = 1
-    elif pos == '__None__':
-        pass
-    else:
-        raise AttributeError('Unknown POS tag ' + first)
+        if first == 'S':
+            values['slovny_druh_substantivum'] = 1
+            process_substantivum(pos, values)
+        elif first == 'A':
+            values['slovny_druh_adjektivum'] = 1
+            process_adjektivum(pos, values)
+        elif first == 'P':
+            values['slovny_druh_pronominum'] = 1
+            process_pronominum(pos, values)
+        elif first == 'N':
+            values['slovny_druh_numerale'] = 1
+            process_numerale(pos, values)
+        elif first == 'V':
+            values['slovny_druh_verbum'] = 1
+            process_verbum(pos, values)
+        elif first == 'G':
+            values['slovna_trieda_participium'] = 1
+            process_participium(pos, values)
+        elif first == 'D':
+            values['slovny_druh_adverbium'] = 1
+            process_stupen(pos[1], values)
+        elif first == 'E':
+            try:
+                values['slovny_druh_prepozicia'] = 1
+                process_forma(pos[1], values)
+                process_pad(pos[2], values)
+            except AttributeError as e:
+                print('Prepozicia POS: ' + pos)
+                raise e
+        elif first == 'O':
+            values['slovny_druh_konjunkcia'] = 1
+            if len(pos) == 2 and pos[1] == 'Y':
+                values['kondicialnost'] = 1
+        elif first == 'T':
+            values['slovny_druh_partikula'] = 1
+            if len(pos) == 2 and pos[1] == 'Y':
+                values['kondicialnost'] = 1
+        elif first == 'J':
+            values['slovny_druh_interjekcia'] = 1
+        elif first == 'R':
+            values['slovna_trieda_reflexivum'] = 1
+        elif first == 'Y':
+            values['slovna_trieda_kondicionalova_morfema'] = 1
+        elif first == 'W':
+            values['slovna_trieda_abreviacia'] = 1
+        elif first == 'Z':
+            values['slovna_trieda_interpunkcia'] = 1
+        elif first == 'Q':
+            values['slovna_trieda_neurcitelny'] = 1
+        elif first == '#':
+            values['slovna_trieda_neslovny_element'] = 1
+        elif first == '%':
+            values['slovna_trieda_citatovy_vyraz'] = 1
+        elif first == '0':
+            values['slovna_trieda_cislica'] = 1
+        elif pos == '__None__':
+            pass
+        else:
+            raise AttributeError('Unknown POS tag ' + first)
 
-    if pos.endswith(':r'):
-        values['vlastne_meno'] = 1
-    if pos.endswith(':q'):
-        values['chybny_zapis'] = 1
-    return values
+        if pos.endswith(':r'):
+            values['vlastne_meno'] = 1
+        if pos.endswith(':q'):
+            values['chybny_zapis'] = 1
+        return values
+    except Exception as e:
+        raise AttributeError('Vyskytla sa chyba pri POS: {} so znenim {}'.format(pos, e))
 
 
 def process_substantivum(pos, values):
@@ -178,6 +181,8 @@ def process_pronominum(pos, values):
 
 def process_numerale(pos, values):
     process_paradigma(pos[1], values)
+    if len(pos) == 2:
+        return
     process_rod(pos[2], values)
     process_cislo(pos[3], values)
     process_pad(pos[4], values)
@@ -187,7 +192,7 @@ def process_verbum(pos, values):
     try:
         process_slovesna_forma(pos[1], values)
         process_vid(pos[2], values)
-        if pos[1] == 'I':
+        if pos[1] == 'I' or pos[1] == 'H':
             return
         process_cislo(pos[3], values)
         process_osoba(pos[4], values)
