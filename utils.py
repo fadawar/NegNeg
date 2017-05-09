@@ -2,7 +2,6 @@ import os
 import xml.etree.ElementTree as ET
 from pos_to_features import process_pos
 from sklearn import metrics
-import matplotlib.pyplot as plt
 
 
 DATASET_DIR = 'dataset'
@@ -28,7 +27,7 @@ def merge_dataset():
 
 
 def get_datasets():
-    subfolders = [f.path for f in os.scandir(DATASET_DIR) if f.is_dir()]
+    subfolders = [f.path for f in os.scandir(DATASET_DIR) if f.is_dir() and not f.path.endswith('all')]
     return [os.path.join(s, 'merged.xml') for s in subfolders]
 
 
@@ -59,6 +58,7 @@ def print_score_for(model, df2_test, y_true):
 
 
 def show_roc_curve(y_true, y_pred):
+    import matplotlib.pyplot as plt
     fpr, tpr, threshold = metrics.roc_curve(y_true, y_pred)
     roc_auc = metrics.auc(fpr, tpr)
 
@@ -74,4 +74,5 @@ def show_roc_curve(y_true, y_pred):
 
 
 if __name__ == '__main__':
-    print(test_pos_processing())
+    pass
+    # print(merge_dataset())
