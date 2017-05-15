@@ -1,15 +1,23 @@
+import sys
 import random
-from datetime import datetime
-import pandas as pd
+import logging
 import xml.etree.ElementTree as ET
-# import csv
-import unicodecsv as csv
+import pandas as pd
 import numpy as np
-from sklearn.feature_extraction.text import CountVectorizer
 from pos_to_features import default_values, process_pos
+from utils.common import add_prefix, detect_prefixes_and_particles, NONE_REPR
 
 
-NONE_REPR = '__None__'  # representation of none word - at the beginning and end of sentence
+# Create logger
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.DEBUG)
+# Create STDERR handler
+handler = logging.StreamHandler(sys.stderr)
+# Create formatter and add it to the handler
+formatter = logging.Formatter('%(name)s - %(levelname)s - %(message)s')
+handler.setFormatter(formatter)
+# Set STDERR handler as the only handler
+logger.handlers = [handler]
 
 
 def add_nan(token_list, lemma_list, pos_list, is_negation_list):
@@ -58,59 +66,8 @@ def create_semi_dataset(path):
     return X_train, X_test
 
 
-# Prepare sets for features
-prefix_sk = {'ne', 'bez', 'pa', 'roz', 'proti', 'polo', 'tiež', 'akoby', 'trochu', 'truc', 'mimo', }
-prefix_int = {'pseudo', 'i', 'in', 'anti', 'kontra', 'a', 'an', 'ex', 'non', 'kvázi', 'hypo', 'de', 'dez', 'ex',
-              'extra', }
-particles = {'nie', 'figu', 'drevenú', 'figu', 'borovú', 'jalovú', 'figu', 'šušku', 'šušku', 'borovú', 'čerta', 'čerta',
-             'starého', 'čerta', 'rohatého', 'čerta', 'pekelného', 'čerta', 'ušatého', 'čerta', 'strapatého', 'paroma',
-             'paroma', 'starého', 'hroma', 'psiu', 'mater', 'horký', 'horkýtam', 'horkýže', 'horkýžetam', 'aleba',
-             'ale', 'čo', 'kde', 'kdeže', 'kdeby', 'kdežeby', 'kdežetam', 'kdežebytam', 'čo', 'čože', 'čoby', 'čožeby',
-             'ešte', 'čo', 'ešteže', 'čo', 'akurát', 'javeru', 'rozhodne', 'rovno', 'aký', 'akýže', 'akéže', }
-slovak_dict = set(line.strip() for line in open('sk.dic'))
-
-
-def start_with_prefix(word, prefixes):
-    for p in prefixes:
-        if word.startswith(p):
-            return True, p
-    return False, p
-
-
-def detect_prefixes_and_particles(lemma):
-    has_sk_prefix, p_sk = start_with_prefix(lemma, prefix_sk)
-    has_int_prefix, p_int = start_with_prefix(lemma, prefix_int)
-    is_particle = lemma in particles
-    if has_sk_prefix:
-        prefix = p_sk
-    elif has_int_prefix:
-        prefix = p_int
-    else:
-        prefix = None
-    start_with_ne = False
-    word_without_prefix_exist = False
-    if prefix:
-        word_without_prefix_exist = lemma[len(prefix):] in slovak_dict
-        if word_without_prefix_exist and prefix == 'ne':
-            start_with_ne = True
-    return has_sk_prefix, has_int_prefix, is_particle, word_without_prefix_exist, start_with_ne
-
-
-def add_prefix(prefix, iterable):
-    for item in iterable:
-        yield prefix + "_" + item
-
-
-def create_vectorizer(X_train):
-    # learn training data vocabulary, then use it to create a document-term matrix
-    vect_lemma = CountVectorizer()
-    vect_lemma.fit(X_train.lemma)
-    return vect_lemma
-
-
 def create_columns_names(X_train, vect_lemma, add_bow):
     # create list with the names of columns in dataframe
-    lemma_feat_names = list(vect_lemma.get_feature_names())
     pos_feat_names = list(default_values.keys())
     column_names = ['token', 'lemma', 'POS', 'is_negation'] + \
                    ['has_sk_prefix', 'has_int_prefix', 'is_particle',
@@ -122,6 +79,7 @@ def create_columns_names(X_train, vect_lemma, add_bow):
                     list(add_prefix('word5', pos_feat_names))
     # Add bag of words
     if add_bow:
+        lemma_feat_names = list(vect_lemma.get_feature_names())
         column_names += list(add_prefix('word1', lemma_feat_names)) + \
                         list(add_prefix('word2', lemma_feat_names)) + \
                         list(add_prefix('word3', lemma_feat_names)) + \
@@ -175,11 +133,3 @@ def create_features_list(dataframe, vect_lemma, add_bow):
         ])
         feautures_list.append(all_things)
     return feautures_list
-
-
-def save_to_csv(filename, header_row, feautures_list):
-    with open(filename, 'wb') as myfile:
-        wr = csv.writer(myfile, quoting=csv.QUOTE_MINIMAL)
-        wr.writerow(header_row)
-        for row in feautures_list:
-            wr.writerow(row)
