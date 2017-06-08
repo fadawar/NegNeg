@@ -1,9 +1,10 @@
 import random
-import pandas as pd
 import xml.etree.ElementTree as ET
 import numpy as np
+import pandas as pd
 from pos_to_features import default_values, process_pos
-from utils.common import add_prefix, detect_prefixes_and_particles, NONE_REPR
+from utils.common import add_prefix, detect_prefixes_and_particles, NONE_REPR, print_score, show_roc_curve
+from utils.dataset import get_datasets, dataset_name, load_dataset
 
 
 def add_nan(token_list, lemma_list, pos_list, is_in_scope_list, is_negator_list, dist_start_list, dist_end_list,
@@ -32,33 +33,6 @@ def add_nan(token_list, lemma_list, pos_list, is_in_scope_list, is_negator_list,
     comma_between_list.append(False)
     negator_pos_list.append(NONE_REPR)
     negator_pos_list.append(NONE_REPR)
-
-
-def find_element(sentence, text_to_find):
-    for i, el in enumerate(sentence):
-        if el.text == text_to_find:
-            yield i
-
-
-def distance_commas(token, sentence):
-    commas = list(find_element(sentence, ','))
-    position = sentence.getchildren().index(token)
-    if len(commas) == 0:
-        return -1, -1
-    if position <= commas[0]:
-        return 0, commas[0]
-    elif position >= commas[-1]:
-        return commas[-1], len(sentence)-1
-    for first, second in zip(commas, commas[1:]):
-        if first <= position <= second:
-            return first, second
-
-
-def is_in_scope(token, negator):
-    if 'scope' in token.attrib.keys():
-        if negator.attrib['id'] in token.attrib['scope'].split(','):
-            return True
-    return False
 
 
 def create_semi_dataset(path):
@@ -134,9 +108,35 @@ def create_semi_dataset(path):
     return X_train, X_test
 
 
+def find_element(sentence, text_to_find):
+    for i, el in enumerate(sentence):
+        if el.text == text_to_find:
+            yield i
+
+
+def distance_commas(token, sentence):
+    commas = list(find_element(sentence, ','))
+    position = sentence.getchildren().index(token)
+    if len(commas) == 0:
+        return -1, -1
+    if position <= commas[0]:
+        return 0, commas[0]
+    elif position >= commas[-1]:
+        return commas[-1], len(sentence)-1
+    for first, second in zip(commas, commas[1:]):
+        if first <= position <= second:
+            return first, second
+
+
+def is_in_scope(token, negator):
+    if 'scope' in token.attrib.keys():
+        if negator.attrib['id'] in token.attrib['scope'].split(','):
+            return True
+    return False
+
+
 def create_columns_names(X_train, vect_lemma, add_bow):
     # create list with the names of columns in dataframe
-    lemma_feat_names = list(vect_lemma.get_feature_names())
     pos_feat_names = list(default_values.keys())
     column_names = ['token', 'lemma', 'POS'] + \
                    ['has_sk_prefix', 'has_int_prefix', 'is_particle',
@@ -151,6 +151,7 @@ def create_columns_names(X_train, vect_lemma, add_bow):
     column_names += list(add_prefix('negator', pos_feat_names))
     # Add bag of words
     if add_bow:
+        lemma_feat_names = list(vect_lemma.get_feature_names())
         column_names += list(add_prefix('word1', lemma_feat_names)) + \
                         list(add_prefix('word2', lemma_feat_names)) + \
                         list(add_prefix('word3', lemma_feat_names)) + \
@@ -213,3 +214,23 @@ def create_features_list(dataframe, vect_lemma, add_bow):
         ])
         feautures_list.append(all_things)
     return feautures_list
+
+
+def show_metrics_on_all_datasets(model, suffix, algorithm, with_all=False):
+    for dataset in get_datasets(with_all):
+        print('============================================')
+        print(dataset_name(dataset))
+        print('============================================')
+
+        X_train, X_test, Y_train, Y_test = load_dataset(dataset, suffix, ['token', 'lemma', 'POS', 'is_in_scope'])
+        X = pd.concat([X_train, X_test], axis=0)
+        Y = pd.concat([Y_train, Y_test], axis=0)
+        y_predicted = model.predict(X)
+        y_true = Y.is_in_scope
+
+        # Print basic metrics
+        print_score(y_predicted, y_true)
+
+        # Show ROC curve
+        show_roc_curve(y_predicted, y_true, save_name='{}-{}-{}.svg'.format(suffix, dataset_name(dataset), algorithm))
+

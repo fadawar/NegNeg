@@ -79,25 +79,6 @@ def save_model(model, name):
         pickle.dump(model, fout)
 
 
-def show_metrics_on_all_datasets(model, suffix, algorithm, with_all=False):
-    for dataset in get_datasets(with_all):
-        print('============================================')
-        print(dataset_name(dataset))
-        print('============================================')
-
-        X_train, X_test, Y_train, Y_test = load_dataset(dataset, suffix, ['token', 'lemma', 'POS', 'is_negation'])
-        X = pd.concat([X_train, X_test], axis=0)
-        Y = pd.concat([Y_train, Y_test], axis=0)
-        y_predicted = model.predict(X)
-        y_true = Y.is_negation
-
-        # Print basic metrics
-        print_score(y_predicted, y_true)
-
-        # Show ROC curve
-        show_roc_curve(y_predicted, y_true, save_name='{}-{}-{}.svg'.format(suffix, dataset_name(dataset), algorithm))
-
-
 # Prepare sets for features
 prefix_sk = {'ne', 'bez', 'pa', 'roz', 'proti', 'polo', 'tiež', 'akoby', 'trochu', 'truc', 'mimo', }
 prefix_int = {'pseudo', 'i', 'in', 'anti', 'kontra', 'a', 'an', 'ex', 'non', 'kvázi', 'hypo', 'de', 'dez', 'ex',

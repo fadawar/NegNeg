@@ -1,23 +1,10 @@
-import sys
 import random
-import logging
 import xml.etree.ElementTree as ET
 import pandas as pd
 import numpy as np
 from pos_to_features import default_values, process_pos
-from utils.common import add_prefix, detect_prefixes_and_particles, NONE_REPR
-
-
-# Create logger
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.DEBUG)
-# Create STDERR handler
-handler = logging.StreamHandler(sys.stderr)
-# Create formatter and add it to the handler
-formatter = logging.Formatter('%(name)s - %(levelname)s - %(message)s')
-handler.setFormatter(formatter)
-# Set STDERR handler as the only handler
-logger.handlers = [handler]
+from utils.common import add_prefix, detect_prefixes_and_particles, NONE_REPR, print_score, show_roc_curve
+from utils.dataset import get_datasets, dataset_name, load_dataset
 
 
 def add_nan(token_list, lemma_list, pos_list, is_negation_list):
@@ -133,3 +120,22 @@ def create_features_list(dataframe, vect_lemma, add_bow):
         ])
         feautures_list.append(all_things)
     return feautures_list
+
+
+def show_metrics_on_all_datasets(model, suffix, algorithm, with_all=False):
+    for dataset in get_datasets(with_all):
+        print('============================================')
+        print(dataset_name(dataset))
+        print('============================================')
+
+        X_train, X_test, Y_train, Y_test = load_dataset(dataset, suffix, ['token', 'lemma', 'POS', 'is_negation'])
+        X = pd.concat([X_train, X_test], axis=0)
+        Y = pd.concat([Y_train, Y_test], axis=0)
+        y_predicted = model.predict(X)
+        y_true = Y.is_negation
+
+        # Print basic metrics
+        print_score(y_predicted, y_true)
+
+        # Show ROC curve
+        show_roc_curve(y_predicted, y_true, save_name='{}-{}-{}.svg'.format(suffix, dataset_name(dataset), algorithm))
