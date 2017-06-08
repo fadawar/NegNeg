@@ -1,6 +1,7 @@
 import os
 import pickle
 import xml.etree.ElementTree as ET
+import pandas as pd
 from sklearn import metrics
 from sklearn.feature_extraction.text import CountVectorizer
 from pos_to_features import process_pos
@@ -85,8 +86,10 @@ def show_metrics_on_all_datasets(model, suffix, algorithm, with_all=False):
         print('============================================')
 
         X_train, X_test, Y_train, Y_test = load_dataset(dataset, suffix, ['token', 'lemma', 'POS', 'is_negation'])
-        y_predicted = model.predict(X_test)
-        y_true = Y_test.is_negation
+        X = pd.concat([X_train, X_test], axis=0)
+        Y = pd.concat([Y_train, Y_test], axis=0)
+        y_predicted = model.predict(X)
+        y_true = Y.is_negation
 
         # Print basic metrics
         print_score(y_predicted, y_true)
