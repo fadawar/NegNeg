@@ -4,7 +4,7 @@ import requests
 import pandas as pd
 from utils import signal, scope
 from utils.common import NONE_REPR
-from xml.etree.ElementTree import Element, SubElement, tostring
+from xml.etree.ElementTree import Element, SubElement
 
 POS_URL = 'http://nlp.bednarik.top/tagger/json'
 POS_LEMMA_URL = 'http://nlp.bednarik.top/lemmatizer/json'
@@ -12,7 +12,13 @@ POS_LEMMA_URL = 'http://nlp.bednarik.top/lemmatizer/json'
 
 def find_negation(sentence):
     data = get_pos_and_lemma(sentence)
-    # signal
+    find_negation_signal(data)
+    if has_negation_signal(data):
+        find_negation_scope(data)
+    return data
+
+
+def find_negation_signal(data):
     df = create_semi_dataset_sig(data)
     fl = signal.create_features_list(df, None, False)
     df2 = pd.DataFrame(fl, columns=signal.create_columns_names(None, None, False))
@@ -21,8 +27,14 @@ def find_negation(sentence):
         model = pickle.load(f)
     predicted = model.predict(X)
     for i, d in enumerate(data):
-        d['negator'] = predicted[i]
-    # scope
+        d['negator'] = int(predicted[i])
+
+
+def has_negation_signal(data):
+    return any((d['negator'] for d in data))
+
+
+def find_negation_scope(data):
     xml = create_xml_sco(data)
     df = scope.csd_body(xml)
     fl = scope.create_features_list(df, None, False)
@@ -32,8 +44,7 @@ def find_negation(sentence):
         model = pickle.load(f)
     predicted = model.predict(X)
     for i, d in enumerate(data):
-        d['scope'] = predicted[i]
-    return data
+        d['scope'] = int(predicted[i])
 
 
 def get_pos(sentence):
@@ -58,20 +69,6 @@ def create_semi_dataset_sig(data):
     df.loc[i] = [NONE_REPR, NONE_REPR, NONE_REPR, 0]
     df.loc[i+1] = [NONE_REPR, NONE_REPR, NONE_REPR, 0]
     return df
-
-
-# def create_semi_dataset_sco(data):
-#     df = pd.DataFrame(columns=['token', 'lemma', 'POS', 'is_in_scope', 'is_negator', 'dist_start', 'dist_end',
-#                                'dist_comma_left', 'dist_comma_right', 'dist_neg_signal', 'comma_between',
-#                                'negator_pos'])
-#     df.loc[0] = [NONE_REPR, NONE_REPR, NONE_REPR, 0, 0, -1, -1, -1, -1, -1, 0, NONE_REPR]
-#     df.loc[1] = [NONE_REPR, NONE_REPR, NONE_REPR, 0, 0, -1, -1, -1, -1, -1, 0, NONE_REPR]
-#     for i, row in enumerate(data, start=2):
-#         df.loc[i] = [row['word'], row['lemma'], row['pos'], 0, ]
-#     i = 2 + len(data)
-#     df.loc[i] = [NONE_REPR, NONE_REPR, NONE_REPR, 0, 0, -1, -1, -1, -1, -1, 0, NONE_REPR]
-#     df.loc[i+1] = [NONE_REPR, NONE_REPR, NONE_REPR, 0, 0, -1, -1, -1, -1, -1, 0, NONE_REPR]
-#     return df
 
 
 def create_xml_sco(data):
