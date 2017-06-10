@@ -88,7 +88,7 @@ particles = {'nie', 'figu', 'drevenú', 'figu', 'borovú', 'jalovú', 'figu', '�
              'paroma', 'starého', 'hroma', 'psiu', 'mater', 'horký', 'horkýtam', 'horkýže', 'horkýžetam', 'aleba',
              'ale', 'čo', 'kde', 'kdeže', 'kdeby', 'kdežeby', 'kdežetam', 'kdežebytam', 'čo', 'čože', 'čoby', 'čožeby',
              'ešte', 'čo', 'ešteže', 'čo', 'akurát', 'javeru', 'rozhodne', 'rovno', 'aký', 'akýže', 'akéže', }
-slovak_dict = set(line.strip() for line in open('sk.dic'))
+slovak_dict = set(line.strip() for line in open(os.path.join(os.path.dirname(__file__), '..', 'sk.dic')))
 
 
 def start_with_prefix(word, prefixes):
@@ -114,7 +114,7 @@ def detect_prefixes_and_particles(lemma):
         word_without_prefix_exist = lemma[len(prefix):] in slovak_dict
         if word_without_prefix_exist and prefix == 'ne':
             start_with_ne = True
-    return has_sk_prefix, has_int_prefix, is_particle, word_without_prefix_exist, start_with_ne
+    return int(has_sk_prefix), int(has_int_prefix), int(is_particle), int(word_without_prefix_exist), int(start_with_ne)
 
 
 def add_prefix(prefix, iterable):

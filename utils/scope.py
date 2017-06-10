@@ -15,10 +15,10 @@ def add_nan(token_list, lemma_list, pos_list, is_in_scope_list, is_negator_list,
     lemma_list.append(NONE_REPR)
     pos_list.append(NONE_REPR)
     pos_list.append(NONE_REPR)
-    is_in_scope_list.append(False)
-    is_in_scope_list.append(False)
-    is_negator_list.append(False)
-    is_negator_list.append(False)
+    is_in_scope_list.append(0)
+    is_in_scope_list.append(0)
+    is_negator_list.append(0)
+    is_negator_list.append(0)
     dist_start_list.append(-1)
     dist_start_list.append(-1)
     dist_end_list.append(-1)
@@ -29,13 +29,28 @@ def add_nan(token_list, lemma_list, pos_list, is_in_scope_list, is_negator_list,
     dist_comma_right_list.append(-1)
     dist_neg_signal_list.append(-1)
     dist_neg_signal_list.append(-1)
-    comma_between_list.append(False)
-    comma_between_list.append(False)
+    comma_between_list.append(0)
+    comma_between_list.append(0)
     negator_pos_list.append(NONE_REPR)
     negator_pos_list.append(NONE_REPR)
 
 
 def create_semi_dataset(path):
+    root = ET.parse(path).getroot()
+    df_start = csd_body(root)
+
+    # Split dataset into train and test sets
+    split = 0.75
+    train = df_start[:int(split * len(df_start))]
+    test = df_start[int(split * len(df_start)):]
+    X_train = train[['token', 'lemma', 'POS', 'dist_start', 'is_in_scope', 'is_negator', 'dist_end',
+                     'dist_comma_left', 'dist_comma_right', 'dist_neg_signal', 'comma_between', 'negator_pos']]
+    X_test = test[['token', 'lemma', 'POS', 'dist_start', 'is_in_scope', 'is_negator', 'dist_end',
+                   'dist_comma_left', 'dist_comma_right', 'dist_neg_signal', 'comma_between', 'negator_pos']]
+    return X_train, X_test
+
+
+def csd_body(xml):
     token_list = []
     lemma_list = []
     pos_list = []
@@ -49,8 +64,7 @@ def create_semi_dataset(path):
     comma_between_list = []  # is comma between current word and negation signal?
     negator_pos_list = []
 
-    root = ET.parse(path).getroot()
-    sentences = root.getchildren()
+    sentences = xml.getchildren()
     random.shuffle(sentences)
 
     for sentence in sentences:
@@ -96,16 +110,7 @@ def create_semi_dataset(path):
         'comma_between': comma_between_list,
         'negator_pos': negator_pos_list,
     })
-
-    # Split dataset into train and test sets
-    split = 0.75
-    train = df_start[:int(split * len(df_start))]
-    test = df_start[int(split * len(df_start)):]
-    X_train = train[['token', 'lemma', 'POS', 'dist_start', 'is_in_scope', 'is_negator', 'dist_end',
-                     'dist_comma_left', 'dist_comma_right', 'dist_neg_signal', 'comma_between', 'negator_pos']]
-    X_test = test[['token', 'lemma', 'POS', 'dist_start', 'is_in_scope', 'is_negator', 'dist_end',
-                   'dist_comma_left', 'dist_comma_right', 'dist_neg_signal', 'comma_between', 'negator_pos']]
-    return X_train, X_test
+    return df_start
 
 
 def find_element(sentence, text_to_find):
