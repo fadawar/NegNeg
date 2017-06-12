@@ -17,8 +17,13 @@ def home():
 
 
 @app.route('/json', methods=['POST'])
-def negation():
+def json_api():
     return jsonify(find_negation(request.form['content']))
+
+
+@app.route('/about')
+def about():
+    return render_template('about.html')
 
 
 if __name__ == '__main__':

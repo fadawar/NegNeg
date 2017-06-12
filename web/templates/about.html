@@ -1,0 +1,12 @@
+{%extends 'base.html' %}
+{%block content %}
+    <h2>About</h2>
+
+    <p>
+    API vracia JSON. Ukážka volania API v Python:
+    </p>
+    <p>
+        <code>import requests as r</code><br>
+        <code>r.post('http://127.0.0.1:5000/json', data={'content': 'Marta povedala, že Pavol dnes večer nepríde.'})</code>
+    </p>
+{%endblock%}
