@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <sentence text="POPRAD .">
+    <word id="w1" lemma="poprad" pos="SSis1">POPRAD</word>
+    <word id="w2" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Slovenských hokejistov bude vo štvrťfinále majstrovstiev sveta hráčov do 18 rokov proti Rusku opäť podporovať vypredaný štadión .">
+    <word id="w1" lemma="slovenský" pos="AAmp4x">Slovenských</word>
+    <word id="w2" lemma="hokejista" pos="SSmp4">hokejistov</word>
+    <word id="w3" lemma="byť" pos="VBesc+">bude</word>
+    <word id="w4" lemma="v" pos="Ev6">vo</word>
+    <word id="w5" lemma="štvrťfinále" pos="SUns6">štvrťfinále</word>
+    <word id="w6" lemma="majstrovstvo" pos="SSnp2">majstrovstiev</word>
+    <word id="w7" lemma="svet" pos="SSis2">sveta</word>
+    <word id="w8" lemma="hráč" pos="SSmp2">hráčov</word>
+    <word id="w9" lemma="do" pos="Eu2">do</word>
+    <word id="w10" lemma="18" pos="0">18</word>
+    <word id="w11" lemma="rok" pos="SSip2">rokov</word>
+    <word id="w12" lemma="proti" pos="Eu3">proti</word>
+    <word id="w13" lemma="rusko" pos="SSns3">Rusku</word>
+    <word id="w14" lemma="opäť" pos="Dx">opäť</word>
+    <word id="w15" lemma="podporovať" pos="VIe+">podporovať</word>
+    <word id="w16" lemma="vypredaný" pos="Gtis4x">vypredaný</word>
+    <word id="w17" lemma="štadión" pos="SSis4">štadión</word>
+    <word id="w18" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Iba v utorok neskoro večer potvrdil direktoriát turnaja , že Slováci budú hrať proti Rusom vo štvrtok o 17 . 30 .">
+    <word id="w1" lemma="iba" pos="T">Iba</word>
+    <word id="w2" lemma="v" pos="Eu4">v</word>
+    <word id="w3" lemma="utorok" pos="SSis4">utorok</word>
+    <word id="w4" negator="adv" lemma="neskoro" pos="Dx">neskoro</word>
+    <word id="w5" scope="w4" lemma="večer" pos="Dx">večer</word>
+    <word id="w6" lemma="potvrdiť" pos="VLdsci+">potvrdil</word>
+    <word id="w7" lemma="direktoriát" pos="SSis1">direktoriát</word>
+    <word id="w8" lemma="turnaj" pos="SSis2">turnaja</word>
+    <word id="w9" lemma="," pos="Z">,</word>
+    <word id="w10" lemma="že" pos="O">že</word>
+    <word id="w11" lemma="slovák" pos="SSmp1">Slováci</word>
+    <word id="w12" lemma="byť" pos="VBepc+">budú</word>
+    <word id="w13" lemma="hrať" pos="VIe+">hrať</word>
+    <word id="w14" lemma="proti" pos="Eu3">proti</word>
+    <word id="w15" lemma="rus" pos="SSmp3">Rusom</word>
+    <word id="w16" lemma="v" pos="Ev4">vo</word>
+    <word id="w17" lemma="štvrtok" pos="SSis4">štvrtok</word>
+    <word id="w18" lemma="o" pos="Eu6">o</word>
+    <word id="w19" lemma="17" pos="0">17</word>
+    <word id="w20" lemma="." pos="Z">.</word>
+    <word id="w21" lemma="30" pos="0">30</word>
+    <word id="w22" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Ráno už boli všetky vstupenky vypredané .">
+    <word id="w1" lemma="ráno" pos="Dx">Ráno</word>
+    <word id="w2" lemma="už" pos="T">už</word>
+    <word id="w3" lemma="byť" pos="VLepcf+">boli</word>
+    <word id="w4" lemma="všetok" pos="PFfp1">všetky</word>
+    <word id="w5" lemma="vstupenka" pos="SSfp1">vstupenky</word>
+    <word id="w6" lemma="vypredaný" pos="Gtfp1x">vypredané</word>
+    <word id="w7" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Pred desiatou hodinou chodili na štadión v Poprade fanúšikovia a zisťovali , či sa lístky nedajú kúpiť v pokladniach .">
+    <word id="w1" lemma="pred" pos="Eu7">Pred</word>
+    <word id="w2" lemma="desiaty" pos="NAfs7">desiatou</word>
+    <word id="w3" lemma="hodina" pos="SSfs7">hodinou</word>
+    <word id="w4" lemma="chodiť" pos="VLepci+">chodili</word>
+    <word id="w5" lemma="na" pos="Eu4">na</word>
+    <word id="w6" lemma="štadión" pos="SSis4">štadión</word>
+    <word id="w7" lemma="v" pos="Eu6">v</word>
+    <word id="w8" lemma="poprad" pos="SSis6">Poprade</word>
+    <word id="w9" lemma="fanúšik" pos="SSmp1">fanúšikovia</word>
+    <word id="w10" lemma="a" pos="O">a</word>
+    <word id="w11" lemma="zisťovať" pos="VLepcm+">zisťovali</word>
+    <word id="w12" lemma="," pos="Z">,</word>
+    <word id="w13" lemma="či" pos="O">či</word>
+    <word id="w14" scope="w16" lemma="sa" pos="R">sa</word>
+    <word id="w15" scope="w16" lemma="lístok" pos="SSip1">lístky</word>
+    <word id="w16" negator="pre" lemma="nedať" pos="VKjpc-">nedajú</word>
+    <word id="w17" scope="w16" lemma="kúpiť" pos="VId+">kúpiť</word>
+    <word id="w18" scope="w16" lemma="v" pos="Eu6">v</word>
+    <word id="w19" scope="w16" lemma="pokladňa" pos="SSfp6">pokladniach</word>
+    <word id="w20" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Cez internetového predajcu sa už totiž zohnať nedali .">
+    <word id="w1" scope="w8" lemma="cez" pos="Eu4">Cez</word>
+    <word id="w2" scope="w8" lemma="internetový" pos="AAms4x">internetového</word>
+    <word id="w3" scope="w8" lemma="predajca" pos="SSms4">predajcu</word>
+    <word id="w4" scope="w8" lemma="sa" pos="R">sa</word>
+    <word id="w5" scope="w8" lemma="už" pos="T">už</word>
+    <word id="w6" scope="w8" lemma="totiž" pos="T">totiž</word>
+    <word id="w7" scope="w8" lemma="zohnať" pos="VId+">zohnať</word>
+    <word id="w8" negator="pre" lemma="nedať" pos="VLjpcf-">nedali</word>
+    <word id="w9" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Organizačný výbor šampionátu potvrdil , že zápas je vypredaný .">
+    <word id="w1" lemma="organizačný" pos="AAis1x">Organizačný</word>
+    <word id="w2" lemma="výbor" pos="SSis1">výbor</word>
+    <word id="w3" lemma="šampionát" pos="SSis2">šampionátu</word>
+    <word id="w4" lemma="potvrdiť" pos="VLdsci+">potvrdil</word>
+    <word id="w5" lemma="," pos="Z">,</word>
+    <word id="w6" lemma="že" pos="O">že</word>
+    <word id="w7" lemma="zápas" pos="SSis1">zápas</word>
+    <word id="w8" lemma="byť" pos="VKesc+">je</word>
+    <word id="w9" lemma="vypredaný" pos="Gtis1x">vypredaný</word>
+    <word id="w10" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Fanúšikovia ešte majú šancu dostať sa k lístkom , ktoré nevyužijú hostia a partneri šampionátu .">
+    <word id="w1" lemma="fanúšik" pos="SSmp1">Fanúšikovia</word>
+    <word id="w2" lemma="ešte" pos="T">ešte</word>
+    <word id="w3" lemma="mať" pos="VKepc+">majú</word>
+    <word id="w4" lemma="šanca" pos="SSfs4">šancu</word>
+    <word id="w5" lemma="dostať" pos="VId+">dostať</word>
+    <word id="w6" lemma="sa" pos="R">sa</word>
+    <word id="w7" lemma="k" pos="Eu3">k</word>
+    <word id="w8" lemma="lístok" pos="SSip3">lístkom</word>
+    <word id="w9" scope="w11" lemma="," pos="Z">,</word>
+    <word id="w10" scope="w11" lemma="ktorý" pos="PAip1">ktoré</word>
+    <word id="w11" negator="pre" lemma="nevyužiť" pos="VKdpc-">nevyužijú</word>
+    <word id="w12" scope="w11" lemma="hosť" pos="SSmp1">hostia</word>
+    <word id="w13" scope="w11" lemma="a" pos="O">a</word>
+    <word id="w14" scope="w11" lemma="partner" pos="SSmp1">partneri</word>
+    <word id="w15" scope="w11" lemma="šampionát" pos="SSis2">šampionátu</word>
+    <word id="w16" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Podľa odhadov by mohlo ísť o približne sto vstupeniek .">
+    <word id="w1" lemma="podľa" pos="Eu2">Podľa</word>
+    <word id="w2" lemma="odhad" pos="SSip2">odhadov</word>
+    <word id="w3" lemma="by" pos="Y">by</word>
+    <word id="w4" lemma="môcť" pos="VLescn+">mohlo</word>
+    <word id="w5" lemma="ísť" pos="VIe+">ísť</word>
+    <word id="w6" lemma="o" pos="Eu4">o</word>
+    <word id="w7" lemma="približne" pos="T">približne</word>
+    <word id="w8" lemma="sto" pos="NUns4">sto</word>
+    <word id="w9" lemma="vstupenka" pos="SSfp2">vstupeniek</word>
+    <word id="w10" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Ak sa uvoľnia , budú k dispozícii v pokladniach popradského štadióna dve hodiny pred začiatkom zápasu Slovensko - Rusko .">
+    <word id="w1" lemma="ak" pos="O">Ak</word>
+    <word id="w2" lemma="sa" pos="R">sa</word>
+    <word id="w3" lemma="uvoľniť" pos="VKdpc+">uvoľnia</word>
+    <word id="w4" lemma="," pos="Z">,</word>
+    <word id="w5" lemma="byť" pos="VBepc+">budú</word>
+    <word id="w6" lemma="k" pos="Eu3">k</word>
+    <word id="w7" lemma="dispozícia" pos="SSfs3">dispozícii</word>
+    <word id="w8" lemma="v" pos="Eu6">v</word>
+    <word id="w9" lemma="pokladňa" pos="SSfp6">pokladniach</word>
+    <word id="w10" lemma="popradského" pos="AAis2x">popradského</word>
+    <word id="w11" lemma="štadión" pos="SSis2">štadióna</word>
+    <word id="w12" lemma="dva" pos="NNfp1">dve</word>
+    <word id="w13" lemma="hodina" pos="SSfp1">hodiny</word>
+    <word id="w14" lemma="pred" pos="Eu7">pred</word>
+    <word id="w15" lemma="začiatok" pos="SSis7">začiatkom</word>
+    <word id="w16" lemma="zápas" pos="SSis2">zápasu</word>
+    <word id="w17" lemma="slovensko" pos="SSns1">Slovensko</word>
+    <word id="w18" lemma="-" pos="Z">-</word>
+    <word id="w19" lemma="rusko" pos="SSns1">Rusko</word>
+    <word id="w20" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="&quot; Som rád , že ľudí hokej baví .">
+    <word id="w1" lemma="&quot;" pos="Z">"</word>
+    <word id="w2" lemma="byť" pos="VKesa+">Som</word>
+    <word id="w3" lemma="rád" pos="AUms1x">rád</word>
+    <word id="w4" lemma="," pos="Z">,</word>
+    <word id="w5" lemma="že" pos="O">že</word>
+    <word id="w6" lemma="človek" pos="SSmp4">ľudí</word>
+    <word id="w7" lemma="hokej" pos="SSis1">hokej</word>
+    <word id="w8" lemma="baviť" pos="VKesc+">baví</word>
+    <word id="w9" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Pre nás to znamená veľkú podporu , &quot; reagoval tréner slovenskej osemnástky Norbert Javorčík .">
+    <word id="w1" lemma="pre" pos="Eu4">Pre</word>
+    <word id="w2" lemma="my" pos="PPhp4">nás</word>
+    <word id="w3" lemma="to" pos="PFns1">to</word>
+    <word id="w4" lemma="znamenať" pos="VKesc+">znamená</word>
+    <word id="w5" lemma="veľký" pos="AAfs4x">veľkú</word>
+    <word id="w6" lemma="podpora" pos="SSfs4">podporu</word>
+    <word id="w7" lemma="," pos="Z">,</word>
+    <word id="w8" lemma="&quot;" pos="Z">"</word>
+    <word id="w9" lemma="reagovať" pos="VLjscm+">reagoval</word>
+    <word id="w10" lemma="tréner" pos="SSms1">tréner</word>
+    <word id="w11" lemma="slovenský" pos="AAfs2x">slovenskej</word>
+    <word id="w12" lemma="osemnástka" pos="SSfs2">osemnástky</word>
+    <word id="w13" lemma="Norbert" pos="SSms1">Norbert</word>
+    <word id="w14" lemma="Javorčík" pos="SSms1">Javorčík</word>
+    <word id="w15" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Štvrťfinálový zápas Slovenska proti Rusku dostane napokon prednosť aj vo vysielaní RTVS .">
+    <word id="w1" lemma="štvrťfinálový" pos="AAis1x">Štvrťfinálový</word>
+    <word id="w2" lemma="zápas" pos="SSis1">zápas</word>
+    <word id="w3" lemma="slovensko" pos="SSns2">Slovenska</word>
+    <word id="w4" lemma="proti" pos="Eu3">proti</word>
+    <word id="w5" lemma="rusko" pos="SSns3">Rusku</word>
+    <word id="w6" lemma="dostať" pos="VKdsc+">dostane</word>
+    <word id="w7" lemma="napokon" pos="Dx">napokon</word>
+    <word id="w8" lemma="prednosť" pos="SSfs4">prednosť</word>
+    <word id="w9" lemma="aj" pos="T">aj</word>
+    <word id="w10" lemma="v" pos="Ev6">vo</word>
+    <word id="w11" lemma="vysielanie" pos="SSns6">vysielaní</word>
+    <word id="w12" lemma="RTVS" pos="SSms1">RTVS</word>
+    <word id="w13" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Pôvodne mala totiž verejnoprávna televízia prednostne vysielať štvrtý zápas finálovej série Tipsport ligy medzi Nitrou a Banskou Bystricou .">
+    <word id="w1" lemma="pôvodne" pos="Dx">Pôvodne</word>
+    <word id="w2" lemma="mať" pos="VLescf+">mala</word>
+    <word id="w3" lemma="totiž" pos="T">totiž</word>
+    <word id="w4" lemma="verejnoprávny" pos="AAfs1x">verejnoprávna</word>
+    <word id="w5" lemma="televízia" pos="SSfs1">televízia</word>
+    <word id="w6" lemma="prednostne" pos="Dx">prednostne</word>
+    <word id="w7" lemma="vysielať" pos="VIe+">vysielať</word>
+    <word id="w8" lemma="štvrtý" pos="NAis1">štvrtý</word>
+    <word id="w9" lemma="zápas" pos="SSis1">zápas</word>
+    <word id="w10" lemma="finálový" pos="AAfs2x">finálovej</word>
+    <word id="w11" lemma="séria" pos="SSfs2">série</word>
+    <word id="w12" lemma="Tipsport" pos="SSis1">Tipsport</word>
+    <word id="w13" lemma="liga" pos="SSfs2">ligy</word>
+    <word id="w14" lemma="medzi" pos="Eu7">medzi</word>
+    <word id="w15" lemma="nitra" pos="SSfs7">Nitrou</word>
+    <word id="w16" lemma="a" pos="O">a</word>
+    <word id="w17" lemma="banský" pos="AAfs7x">Banskou</word>
+    <word id="w18" lemma="Bystrica" pos="SSfs7">Bystricou</word>
+    <word id="w19" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Osemnástka mala dostať priestor v prestávkach ligového finále .">
+    <word id="w1" lemma="osemnástka" pos="SSfs1">Osemnástka</word>
+    <word id="w2" lemma="mať" pos="VLescf+">mala</word>
+    <word id="w3" lemma="dostať" pos="VId+">dostať</word>
+    <word id="w4" lemma="priestor" pos="SSis4">priestor</word>
+    <word id="w5" lemma="v" pos="Eu6">v</word>
+    <word id="w6" lemma="prestávka" pos="SSfp6">prestávkach</word>
+    <word id="w7" lemma="ligový" pos="AAns2x">ligového</word>
+    <word id="w8" lemma="finále" pos="SUns2">finále</word>
+    <word id="w9" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Napokon to bude presne naopak - prednosť dostanú mladíci .">
+    <word id="w1" lemma="napokon" pos="T">Napokon</word>
+    <word id="w2" lemma="to" pos="PFns1">to</word>
+    <word id="w3" lemma="byť" pos="VBesc+">bude</word>
+    <word id="w4" lemma="presne" pos="Dx">presne</word>
+    <word id="w5" lemma="naopak" pos="Dx">naopak</word>
+    <word id="w6" lemma="-" pos="Z">-</word>
+    <word id="w7" lemma="prednosť" pos="SSfs4">prednosť</word>
+    <word id="w8" lemma="dostať" pos="VKdpc+">dostanú</word>
+    <word id="w9" lemma="mladík" pos="SSmp1">mladíci</word>
+    <word id="w10" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="&quot; Po dohode s riadiacim orgánom našej najvyššej hokejovej súťaže spoločnosťou Pro - Hokej sa RTVS rozhodla vo vysielaní Dvojky uprednostniť štvrťfinálový zápas našej reprezentácie do 18 rokov proti Rusku , &quot; uvádza sa v stanovisku RTVS .">
+    <word id="w1" lemma="&quot;" pos="Z">"</word>
+    <word id="w2" lemma="po" pos="Eu6">Po</word>
+    <word id="w3" lemma="dohoda" pos="SSfs6">dohode</word>
+    <word id="w4" lemma="s" pos="Eu7">s</word>
+    <word id="w5" lemma="riadiaci" pos="Gkis7x">riadiacim</word>
+    <word id="w6" lemma="orgán" pos="SSis7">orgánom</word>
+    <word id="w7" lemma="náš" pos="PFfs2">našej</word>
+    <word id="w8" lemma="vysoký" pos="AAfs2z">najvyššej</word>
+    <word id="w9" lemma="hokejový" pos="AAfs2x">hokejovej</word>
+    <word id="w10" lemma="súťaž" pos="SSfs2">súťaže</word>
+    <word id="w11" lemma="spoločnosť" pos="SSfs7">spoločnosťou</word>
+    <word id="w12" lemma="pro" pos="%">Pro</word>
+    <word id="w13" lemma="-" pos="Z">-</word>
+    <word id="w14" lemma="hokej" pos="%">Hokej</word>
+    <word id="w15" lemma="sa" pos="%">sa</word>
+    <word id="w16" lemma="RTVS" pos="%">RTVS</word>
+    <word id="w17" lemma="rozhodnúť" pos="VLdscf+">rozhodla</word>
+    <word id="w18" lemma="v" pos="Ev6">vo</word>
+    <word id="w19" lemma="vysielanie" pos="SSns6">vysielaní</word>
+    <word id="w20" lemma="dvojka" pos="SSfs2">Dvojky</word>
+    <word id="w21" lemma="uprednostniť" pos="VId+">uprednostniť</word>
+    <word id="w22" lemma="štvrťfinálový" pos="AAis4x">štvrťfinálový</word>
+    <word id="w23" lemma="zápas" pos="SSis4">zápas</word>
+    <word id="w24" lemma="náš" pos="PFfs2">našej</word>
+    <word id="w25" lemma="reprezentácia" pos="SSfs2">reprezentácie</word>
+    <word id="w26" lemma="do" pos="Eu2">do</word>
+    <word id="w27" lemma="18" pos="0">18</word>
+    <word id="w28" lemma="rok" pos="SSip2">rokov</word>
+    <word id="w29" lemma="proti" pos="Eu3">proti</word>
+    <word id="w30" lemma="rusko" pos="SSns3">Rusku</word>
+    <word id="w31" lemma="," pos="Z">,</word>
+    <word id="w32" lemma="&quot;" pos="Z">"</word>
+    <word id="w33" lemma="uvádzať" pos="VKesc+">uvádza</word>
+    <word id="w34" lemma="sa" pos="R">sa</word>
+    <word id="w35" lemma="v" pos="Eu6">v</word>
+    <word id="w36" lemma="stanovisko" pos="SSns6">stanovisku</word>
+    <word id="w37" lemma="RTVS" pos="SSms1">RTVS</word>
+    <word id="w38" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="V prestávkach štvrťfinále mladíkov sa bude vysielať zápas medzi Nitrou a Banskou Bystricou .">
+    <word id="w1" lemma="v" pos="Eu6">V</word>
+    <word id="w2" lemma="prestávka" pos="SSfp6">prestávkach</word>
+    <word id="w3" lemma="štvrťfinále" pos="SUns6">štvrťfinále</word>
+    <word id="w4" lemma="mladík" pos="SSmp2">mladíkov</word>
+    <word id="w5" lemma="sa" pos="R">sa</word>
+    <word id="w6" lemma="byť" pos="VBesc+">bude</word>
+    <word id="w7" lemma="vysielať" pos="VIe+">vysielať</word>
+    <word id="w8" lemma="zápas" pos="SSis4">zápas</word>
+    <word id="w9" lemma="medzi" pos="Eu7">medzi</word>
+    <word id="w10" lemma="nitra" pos="SSfs7">Nitrou</word>
+    <word id="w11" lemma="a" pos="O">a</word>
+    <word id="w12" lemma="banský" pos="AAfs7x">Banskou</word>
+    <word id="w13" lemma="Bystrica" pos="SSfs7">Bystricou</word>
+    <word id="w14" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="&quot; Ak vo finále padne gól , vstúpime do duelu , aby sme divákom mohli sprostredkovať gólovú situáciu , &quot; uvádza RTVS .">
+    <word id="w1" lemma="&quot;" pos="Z">"</word>
+    <word id="w2" lemma="ak" pos="O">Ak</word>
+    <word id="w3" lemma="v" pos="Ev6">vo</word>
+    <word id="w4" lemma="finále" pos="SUns6">finále</word>
+    <word id="w5" lemma="padnúť" pos="VKdsc+">padne</word>
+    <word id="w6" lemma="gól" pos="SSis4">gól</word>
+    <word id="w7" lemma="," pos="Z">,</word>
+    <word id="w8" lemma="vstúpiť" pos="VKdpa+">vstúpime</word>
+    <word id="w9" lemma="do" pos="Eu2">do</word>
+    <word id="w10" lemma="duel" pos="SSis2">duelu</word>
+    <word id="w11" lemma="," pos="Z">,</word>
+    <word id="w12" lemma="aby" pos="OY">aby</word>
+    <word id="w13" lemma="byť" pos="VKepa+">sme</word>
+    <word id="w14" lemma="divák" pos="SSmp3">divákom</word>
+    <word id="w15" lemma="môcť" pos="VLepah+">mohli</word>
+    <word id="w16" lemma="sprostredkovať" pos="VIj+">sprostredkovať</word>
+    <word id="w17" lemma="gólový" pos="AAfs4x">gólovú</word>
+    <word id="w18" lemma="situácia" pos="SSfs4">situáciu</word>
+    <word id="w19" lemma="," pos="Z">,</word>
+    <word id="w20" lemma="&quot;" pos="Z">"</word>
+    <word id="w21" lemma="uvádzať" pos="VKesc+">uvádza</word>
+    <word id="w22" lemma="RTVS" pos="SSms1">RTVS</word>
+    <word id="w23" lemma="." pos="Z">.</word>
+  </sentence>
+</document>
+

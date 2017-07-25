@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <sentence text="Čo sa namáhaš , ty človečie oko ?">
+    <word id="w1" lemma="čo" pos="PFns4">Čo</word>
+    <word id="w2" lemma="sa" pos="R">sa</word>
+    <word id="w3" lemma="namáhať" pos="VKesb+">namáhaš</word>
+    <word id="w4" lemma="," pos="Z">,</word>
+    <word id="w5" lemma="ty" pos="PPhs1">ty</word>
+    <word id="w6" lemma="človečí" pos="AAns1x">človečie</word>
+    <word id="w7" lemma="oko" pos="SSns1">oko</word>
+    <word id="w8" lemma="?" pos="Z">?</word>
+  </sentence>
+  <sentence text="Či chceš preletieť cez nebo širokô ?">
+    <word id="w1" lemma="či" pos="O">Či</word>
+    <word id="w2" lemma="chcieť" pos="VKesb+">chceš</word>
+    <word id="w3" lemma="preletieť" pos="VId+">preletieť</word>
+    <word id="w4" lemma="cez" pos="Eu4">cez</word>
+    <word id="w5" lemma="nebo" pos="SSns4">nebo</word>
+    <word id="w6" lemma="širokô" pos="Q">širokô</word>
+    <word id="w7" lemma="?" pos="Z">?</word>
+  </sentence>
+  <sentence text="Či môžeš ?">
+    <word id="w1" lemma="či" pos="O">Či</word>
+    <word id="w2" lemma="môcť" pos="VKesb+">môžeš</word>
+    <word id="w3" lemma="?" pos="Z">?</word>
+  </sentence>
+  <sentence text="— a či smieš cez svetov milióny ?">
+    <word id="w1" lemma="—" pos="Z">—</word>
+    <word id="w2" lemma="a" pos="O">a</word>
+    <word id="w3" lemma="či" pos="O">či</word>
+    <word id="w4" lemma="smieť" pos="VKesb+">smieš</word>
+    <word id="w5" lemma="cez" pos="Eu4">cez</word>
+    <word id="w6" lemma="svet" pos="SSip2">svetov</word>
+    <word id="w7" lemma="milión" pos="NSip4">milióny</word>
+    <word id="w8" lemma="?" pos="Z">?</word>
+  </sentence>
+  <sentence text="Tam ty zahynieš — tam ťa tajnosť zroní !">
+    <word id="w1" lemma="tam" pos="PD">Tam</word>
+    <word id="w2" lemma="ty" pos="PPhs1">ty</word>
+    <word id="w3" lemma="zahynúť" pos="VKdsb+">zahynieš</word>
+    <word id="w4" lemma="—" pos="Z">—</word>
+    <word id="w5" lemma="tam" pos="PD">tam</word>
+    <word id="w6" lemma="ty" pos="PPhs4">ťa</word>
+    <word id="w7" lemma="tajnosť" pos="SSfs1">tajnosť</word>
+    <word id="w8" lemma="zroniť" pos="VKdsc+">zroní</word>
+    <word id="w9" lemma="!" pos="Z">!</word>
+  </sentence>
+  <sentence text="Darmo sa od sveta silíš lietať k svetu .">
+    <word id="w1" lemma="darmo" pos="Dx">Darmo</word>
+    <word id="w2" lemma="sa" pos="R">sa</word>
+    <word id="w3" lemma="od" pos="Eu2">od</word>
+    <word id="w4" lemma="svet" pos="SSis2">sveta</word>
+    <word id="w5" lemma="siliť" pos="VKesb+">silíš</word>
+    <word id="w6" lemma="lietať" pos="VIe+">lietať</word>
+    <word id="w7" lemma="k" pos="Eu3">k</word>
+    <word id="w8" lemma="svet" pos="SSis3">svetu</word>
+    <word id="w9" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Nemáš , ej , nemáš sily k tomu letu !">
+    <word id="w1" negator="pre" lemma="nemať" pos="VKesb-">Nemáš</word>
+    <word id="w2" lemma="," pos="Z">,</word>
+    <word id="w3" lemma="ej" pos="J">ej</word>
+    <word id="w4" lemma="," pos="Z">,</word>
+    <word id="w5" negator="pre" lemma="nemať" pos="VKesb-">nemáš</word>
+    <word id="w6" scope="w5" lemma="sila" pos="SSfp4">sily</word>
+    <word id="w7" scope="w5" lemma="k" pos="Eu3">k</word>
+    <word id="w8" scope="w5" lemma="to" pos="PFns3">tomu</word>
+    <word id="w9" scope="w5" lemma="leto" pos="SSns3">letu</word>
+    <word id="w10" lemma="!" pos="Z">!</word>
+  </sentence>
+  <sentence text="Bo ťa ich blyskot zaslepí ohnivý , i padneš pred ním sťa mráčok šedivý !">
+    <word id="w1" lemma="bo" pos="O">Bo</word>
+    <word id="w2" lemma="ty" pos="PPhs4">ťa</word>
+    <word id="w3" lemma="ich" pos="PUis1">ich</word>
+    <word id="w4" lemma="blyskot" pos="SSis1">blyskot</word>
+    <word id="w5" lemma="zaslepiť" pos="VKdsc+">zaslepí</word>
+    <word id="w6" lemma="ohnivý" pos="AAis4x">ohnivý</word>
+    <word id="w7" lemma="," pos="Z">,</word>
+    <word id="w8" lemma="i" pos="O">i</word>
+    <word id="w9" lemma="padnúť" pos="VKdsb+">padneš</word>
+    <word id="w10" lemma="pred" pos="Eu7">pred</word>
+    <word id="w11" lemma="on" pos="PFms7">ním</word>
+    <word id="w12" lemma="sťa" pos="O">sťa</word>
+    <word id="w13" lemma="mráčok" pos="SSis4">mráčok</word>
+    <word id="w14" lemma="šedivý" pos="AAis4x">šedivý</word>
+    <word id="w15" lemma="!" pos="Z">!</word>
+  </sentence>
+  <sentence text="Či chceš na nich postihnúť Boha velikého ?">
+    <word id="w1" lemma="či" pos="O">Či</word>
+    <word id="w2" lemma="chcieť" pos="VKesb+">chceš</word>
+    <word id="w3" lemma="na" pos="Eu4">na</word>
+    <word id="w4" lemma="on" pos="PFmp4">nich</word>
+    <word id="w5" lemma="postihnúť" pos="VId+">postihnúť</word>
+    <word id="w6" lemma="boh" pos="SSms4">Boha</word>
+    <word id="w7" lemma="veliký" pos="AAms4x">velikého</word>
+    <word id="w8" lemma="?" pos="Z">?</word>
+  </sentence>
+  <sentence text="A chceš do tej tajnej pozrieť tvári jeho ?">
+    <word id="w1" lemma="a" pos="O">A</word>
+    <word id="w2" lemma="chcieť" pos="VKesb+">chceš</word>
+    <word id="w3" lemma="do" pos="Eu2">do</word>
+    <word id="w4" lemma="tá" pos="PFfs2">tej</word>
+    <word id="w5" lemma="tajný" pos="AAfs2x">tajnej</word>
+    <word id="w6" lemma="pozrieť" pos="VId+">pozrieť</word>
+    <word id="w7" lemma="tvár" pos="SSfs3">tvári</word>
+    <word id="w8" lemma="jeho" pos="PUfs1">jeho</word>
+    <word id="w9" lemma="?" pos="Z">?</word>
+  </sentence>
+  <sentence text="Skapeš — ak si len kus mutné — ak by ťa nebolo !">
+    <word id="w1" lemma="skapať" pos="VKdsb+">Skapeš</word>
+    <word id="w2" lemma="—" pos="Z">—</word>
+    <word id="w3" lemma="ak" pos="O">ak</word>
+    <word id="w4" lemma="si" pos="R">si</word>
+    <word id="w5" lemma="len" pos="T">len</word>
+    <word id="w6" lemma="kus" pos="SSis4">kus</word>
+    <word id="w7" lemma="mutné" pos="VLesbf+">mutné</word>
+    <word id="w8" scope="w12" lemma="—" pos="Z">—</word>
+    <word id="w9" scope="w12" lemma="ak" pos="O">ak</word>
+    <word id="w10" scope="w12" lemma="by" pos="Y">by</word>
+    <word id="w11" scope="w12" lemma="ty" pos="PPhs4">ťa</word>
+    <word id="w12" negator="pre" lemma="nebyť" pos="VLescn-">nebolo</word>
+    <word id="w13" lemma="!" pos="Z">!</word>
+  </sentence>
+  <sentence text="— Až si čisté — čo tam chceš ?">
+    <word id="w1" lemma="—" pos="Z">—</word>
+    <word id="w2" lemma="až" pos="T">Až</word>
+    <word id="w3" lemma="byť" pos="VKesb+">si</word>
+    <word id="w4" lemma="čistý" pos="AAns1x">čisté</word>
+    <word id="w5" lemma="—" pos="Z">—</word>
+    <word id="w6" lemma="čo" pos="PFns4">čo</word>
+    <word id="w7" lemma="tam" pos="PD">tam</word>
+    <word id="w8" lemma="chcieť" pos="VKesb+">chceš</word>
+    <word id="w9" lemma="?" pos="Z">?</word>
+  </sentence>
+  <sentence text="— Boh je tu okolo !">
+    <word id="w1" lemma="—" pos="Z">—</word>
+    <word id="w2" lemma="boh" pos="SSms1">Boh</word>
+    <word id="w3" lemma="byť" pos="VKesc+">je</word>
+    <word id="w4" lemma="tu" pos="PD">tu</word>
+    <word id="w5" lemma="okolo" pos="Dx">okolo</word>
+    <word id="w6" lemma="!" pos="Z">!</word>
+  </sentence>
+  <sentence text="— Či ho nevidíš — to more hlbočné , širšie sťa nad tebou to nebo širočné ?">
+    <word id="w1" scope="w4" lemma="—" pos="Z">—</word>
+    <word id="w2" scope="w4" lemma="či" pos="T">Či</word>
+    <word id="w3" scope="w4" lemma="on" pos="PFms4">ho</word>
+    <word id="w4" negator="pre" lemma="nevidieť" pos="VKesb-">nevidíš</word>
+    <word id="w5" scope="w4" lemma="—" pos="Z">—</word>
+    <word id="w6" scope="w4" lemma="to" pos="PFns1">to</word>
+    <word id="w7" scope="w4" lemma="more" pos="SSns1">more</word>
+    <word id="w8" scope="w4" lemma="hlbočné" pos="AAns1x">hlbočné</word>
+    <word id="w9" scope="w4" lemma="," pos="Z">,</word>
+    <word id="w10" scope="w4" lemma="široký" pos="AAns1y">širšie</word>
+    <word id="w11" scope="w4" lemma="sťa" pos="O">sťa</word>
+    <word id="w12" scope="w4" lemma="nad" pos="Eu7">nad</word>
+    <word id="w13" scope="w4" lemma="ty" pos="PPhs7">tebou</word>
+    <word id="w14" scope="w4" lemma="to" pos="PFns1">to</word>
+    <word id="w15" scope="w4" lemma="nebo" pos="SSns1">nebo</word>
+    <word id="w16" scope="w4" lemma="širočné" pos="Gtns1x">širočné</word>
+    <word id="w17" lemma="?" pos="Z">?</word>
+  </sentence>
+  <sentence text="Nevidíš , ak z neho pary vychádzajú , a po miliónoch svetov ak sa rozsnúvajú ?">
+    <word id="w1" negator="pre" lemma="nevidieť" pos="VKesb-">Nevidíš</word>
+    <word id="w2" scope="w1" lemma="," pos="Z">,</word>
+    <word id="w3" scope="w1" lemma="ak" pos="O">ak</word>
+    <word id="w4" scope="w1" lemma="z" pos="Eu2">z</word>
+    <word id="w5" scope="w1" lemma="on" pos="PFms2">neho</word>
+    <word id="w6" scope="w1" lemma="para" pos="SSfs2">pary</word>
+    <word id="w7" scope="w1" lemma="vychádzať" pos="VKepc+">vychádzajú</word>
+    <word id="w8" lemma="," pos="Z">,</word>
+    <word id="w9" lemma="a" pos="O">a</word>
+    <word id="w10" lemma="po" pos="Eu6">po</word>
+    <word id="w11" lemma="milión" pos="NSip6">miliónoch</word>
+    <word id="w12" lemma="svet" pos="SSip2">svetov</word>
+    <word id="w13" lemma="ak" pos="O">ak</word>
+    <word id="w14" lemma="sa" pos="R">sa</word>
+    <word id="w15" lemma="rozsnúvajú" pos="VKdpc+">rozsnúvajú</word>
+    <word id="w16" lemma="?" pos="Z">?</word>
+  </sentence>
+  <sentence text="Nevidíš — ako z nich tie kvapky padajú — ako verný syn k otci doňho sa vracajú ?">
+    <word id="w1" negator="pre" lemma="nevidieť" pos="VKesb-">Nevidíš</word>
+    <word id="w2" scope="w1" lemma="—" pos="Z">—</word>
+    <word id="w3" scope="w1" lemma="ako" pos="O">ako</word>
+    <word id="w4" scope="w1" lemma="z" pos="Eu2">z</word>
+    <word id="w5" scope="w1" lemma="ona" pos="PFfp2">nich</word>
+    <word id="w6" scope="w1" lemma="tá" pos="PFfp1">tie</word>
+    <word id="w7" scope="w1" lemma="kvapka" pos="SSfp1">kvapky</word>
+    <word id="w8" scope="w1" lemma="padať" pos="VKepc+">padajú</word>
+    <word id="w9" lemma="—" pos="Z">—</word>
+    <word id="w10" lemma="ako" pos="O">ako</word>
+    <word id="w11" lemma="verný" pos="AAms1x">verný</word>
+    <word id="w12" lemma="syn" pos="SSms1">syn</word>
+    <word id="w13" lemma="k" pos="Eu3">k</word>
+    <word id="w14" lemma="otci" pos="SSfp3">otci</word>
+    <word id="w15" lemma="do_on" pos="PFms2g">doňho</word>
+    <word id="w16" lemma="sa" pos="R">sa</word>
+    <word id="w17" lemma="vracať" pos="VKepc+">vracajú</word>
+    <word id="w18" lemma="?" pos="Z">?</word>
+  </sentence>
+  <sentence text="Lež nedozrieš jeho kraj , čo bys ’ čo robilo — ni tmavé dno , čo bys ’ priam slniečkom žiarilo !! — Či ho nevidíš tam ten Zákon Svätý ?">
+    <word id="w1" lemma="lež" pos="O">Lež</word>
+    <word id="w2" negator="pre" lemma="nedozrieť" pos="VKdsb-">nedozrieš</word>
+    <word id="w3" scope="w2" lemma="jeho" pos="PUis4">jeho</word>
+    <word id="w4" scope="w2" lemma="kraj" pos="SSis4">kraj</word>
+    <word id="w5" lemma="," pos="Z">,</word>
+    <word id="w6" lemma="čo" pos="O">čo</word>
+    <word id="w7" lemma="bys" pos="SSis1">bys</word>
+    <word id="w8" lemma="’" pos="Z">’</word>
+    <word id="w9" lemma="čo" pos="PFns1">čo</word>
+    <word id="w10" lemma="robiť" pos="VLescn+">robilo</word>
+    <word id="w11" lemma="—" pos="Z">—</word>
+    <word id="w12" lemma="ni" pos="VHe+">ni</word>
+    <word id="w13" lemma="tmavý" pos="AAns4x">tmavé</word>
+    <word id="w14" lemma="dno" pos="SSns4">dno</word>
+    <word id="w15" lemma="," pos="Z">,</word>
+    <word id="w16" lemma="čo" pos="O">čo</word>
+    <word id="w17" lemma="bys" pos="SSis1">bys</word>
+    <word id="w18" lemma="’" pos="Z">’</word>
+    <word id="w19" lemma="priam" pos="T">priam</word>
+    <word id="w20" lemma="slniečko" pos="SSns7">slniečkom</word>
+    <word id="w21" lemma="žiariť" pos="VLescn+">žiarilo</word>
+    <word id="w22" lemma="!!" pos="%">!!</word>
+    <word id="w23" scope="w26" lemma="—" pos="Z">—</word>
+    <word id="w24" scope="w26" lemma="či" pos="T">Či</word>
+    <word id="w25" scope="w26" lemma="on" pos="PFms4">ho</word>
+    <word id="w26" negator="pre" lemma="nevidieť" pos="VKesb-">nevidíš</word>
+    <word id="w27" scope="w26" lemma="tam" pos="PD">tam</word>
+    <word id="w28" scope="w26" lemma="ten" pos="PFis4">ten</word>
+    <word id="w29" scope="w26" lemma="zákon" pos="SSis4">Zákon</word>
+    <word id="w30" scope="w26" lemma="svätý" pos="AAms1x">Svätý</word>
+    <word id="w31" lemma="?" pos="Z">?</word>
+  </sentence>
+  <sentence text="Čo ho s pokorou svety poslúchajú , čo je po tom nebi širokom rozliaty , čo z neho aj na biednu zem kvapôčky kvapkajú , kvapôčky tie kvapkajú , do nej sa vrývajú — a ňou — ba i tým drobným práškom zatriasajú ?">
+    <word id="w1" lemma="čo" pos="PFns1">Čo</word>
+    <word id="w2" lemma="on" pos="PFms4">ho</word>
+    <word id="w3" lemma="s" pos="Eu7">s</word>
+    <word id="w4" lemma="pokora" pos="SSfs7">pokorou</word>
+    <word id="w5" lemma="svet" pos="SSip1">svety</word>
+    <word id="w6" lemma="poslúchať" pos="VKepc+">poslúchajú</word>
+    <word id="w7" lemma="," pos="Z">,</word>
+    <word id="w8" lemma="čo" pos="PFns1">čo</word>
+    <word id="w9" lemma="byť" pos="VKesc+">je</word>
+    <word id="w10" lemma="po" pos="Eu6">po</word>
+    <word id="w11" lemma="to" pos="PFns6">tom</word>
+    <word id="w12" lemma="nebo" pos="SSns6">nebi</word>
+    <word id="w13" lemma="široký" pos="AAns6x">širokom</word>
+    <word id="w14" lemma="rozliaty" pos="SSfs2">rozliaty</word>
+    <word id="w15" lemma="," pos="Z">,</word>
+    <word id="w16" lemma="čo" pos="O">čo</word>
+    <word id="w17" lemma="z" pos="Eu2">z</word>
+    <word id="w18" lemma="on" pos="PFms2">neho</word>
+    <word id="w19" lemma="aj" pos="T">aj</word>
+    <word id="w20" lemma="na" pos="Eu4">na</word>
+    <word id="w21" lemma="biedny" pos="AAfs4x">biednu</word>
+    <word id="w22" lemma="zem" pos="SSfs4">zem</word>
+    <word id="w23" lemma="kvapôčka" pos="SSfp1">kvapôčky</word>
+    <word id="w24" lemma="kvapkať" pos="VKepc+">kvapkajú</word>
+    <word id="w25" lemma="," pos="Z">,</word>
+    <word id="w26" lemma="kvapôčka" pos="SSfp1">kvapôčky</word>
+    <word id="w27" lemma="to" pos="PFnp4">tie</word>
+    <word id="w28" lemma="kvapkať" pos="VKepc+">kvapkajú</word>
+    <word id="w29" lemma="," pos="Z">,</word>
+    <word id="w30" lemma="do" pos="Eu2">do</word>
+    <word id="w31" lemma="ona" pos="PFfs2">nej</word>
+    <word id="w32" lemma="sa" pos="R">sa</word>
+    <word id="w33" lemma="vrývať" pos="VKepc+">vrývajú</word>
+    <word id="w34" lemma="—" pos="Z">—</word>
+    <word id="w35" lemma="a" pos="O">a</word>
+    <word id="w36" lemma="ona" pos="PFfs7">ňou</word>
+    <word id="w37" lemma="—" pos="Z">—</word>
+    <word id="w38" lemma="ba" pos="O">ba</word>
+    <word id="w39" lemma="i" pos="O">i</word>
+    <word id="w40" lemma="ten" pos="PFis7">tým</word>
+    <word id="w41" lemma="drobný" pos="AAis7x">drobným</word>
+    <word id="w42" lemma="prášok" pos="SSis7">práškom</word>
+    <word id="w43" lemma="zatriasajú" pos="VKdpc+">zatriasajú</word>
+    <word id="w44" lemma="?" pos="Z">?</word>
+  </sentence>
+  <sentence text="Čo slnciam cesty merá , by nezablúdili — a s praskotom celé nebo v prach nerozmrvili ? ! Lež nevidíš konca kraja — márne napínanie !">
+    <word id="w1" lemma="čo" pos="PFns1">Čo</word>
+    <word id="w2" lemma="slnce" pos="SSnp3">slnciam</word>
+    <word id="w3" lemma="cesta" pos="SSfs2">cesty</word>
+    <word id="w4" lemma="merá" pos="VKesc+">merá</word>
+    <word id="w5" scope="w7" lemma="," pos="Z">,</word>
+    <word id="w6" scope="w7" lemma="by" pos="Y">by</word>
+    <word id="w7" negator="pre" lemma="nezablúdiť" pos="VLdpah-">nezablúdili</word>
+    <word id="w8" scope="w7" lemma="—" pos="Z">—</word>
+    <word id="w9" scope="w7" lemma="a" pos="O">a</word>
+    <word id="w10" scope="w7,w16" lemma="s" pos="Eu7">s</word>
+    <word id="w11" scope="w7,w16" lemma="praskot" pos="SSis7">praskotom</word>
+    <word id="w12" scope="w7,w16" lemma="celý" pos="AAns4x">celé</word>
+    <word id="w13" scope="w7,w16" lemma="nebo" pos="SSns4">nebo</word>
+    <word id="w14" scope="w7,w16" lemma="v" pos="Eu4">v</word>
+    <word id="w15" scope="w7,w16" lemma="prach" pos="SSis4">prach</word>
+    <word id="w16" negator="pre" scope="w7" lemma="nerozmrviť" pos="VLdpcm-">nerozmrvili</word>
+    <word id="w17" lemma="?" pos="Z">?</word>
+    <word id="w18" lemma="!" pos="Z">!</word>
+    <word id="w19" scope="w20" lemma="lež" pos="O">Lež</word>
+    <word id="w20" negator="pre" lemma="nevidieť" pos="VKesb-">nevidíš</word>
+    <word id="w21" scope="w20" lemma="koniec" pos="SSis2">konca</word>
+    <word id="w22" scope="w20" lemma="kraj" pos="SSis2">kraja</word>
+    <word id="w23" scope="w20" lemma="—" pos="Z">—</word>
+    <word id="w24" scope="w20" lemma="márny" pos="AAns1x">márne</word>
+    <word id="w25" scope="w20" lemma="napínanie" pos="SSns1">napínanie</word>
+    <word id="w26" lemma="!" pos="Z">!</word>
+  </sentence>
+  <sentence text="Skorej sčítaj po nebi hviezdy rozsypanie !! či ho nevidíš — dušu rozžiarenú , čo nebo bleskom svojím pozlátila ?">
+    <word id="w1" lemma="skoro" pos="Dy">Skorej</word>
+    <word id="w2" lemma="sčítať" pos="VMdsb+">sčítaj</word>
+    <word id="w3" lemma="po" pos="Eu6">po</word>
+    <word id="w4" lemma="nebo" pos="SSns6">nebi</word>
+    <word id="w5" lemma="hviezda" pos="SSfs2">hviezdy</word>
+    <word id="w6" lemma="rozsypanie" pos="VKesc+">rozsypanie</word>
+    <word id="w7" lemma="!!" pos="%">!!</word>
+    <word id="w8" lemma="či" pos="O">či</word>
+    <word id="w9" scope="w10" lemma="ono" pos="PFns4">ho</word>
+    <word id="w10" negator="pre" lemma="nevidieť" pos="VKesb-">nevidíš</word>
+    <word id="w11" lemma="—" pos="Z">—</word>
+    <word id="w12" lemma="duša" pos="SSfs4">dušu</word>
+    <word id="w13" lemma="rozžiarenú" pos="VHd+">rozžiarenú</word>
+    <word id="w14" lemma="," pos="Z">,</word>
+    <word id="w15" lemma="čo" pos="PFns1">čo</word>
+    <word id="w16" lemma="nebo" pos="SSns1">nebo</word>
+    <word id="w17" lemma="bleskom" pos="Dx">bleskom</word>
+    <word id="w18" lemma="svoj" pos="PFis7">svojím</word>
+    <word id="w19" lemma="pozlátiť" pos="VLdscf+">pozlátila</word>
+    <word id="w20" lemma="?" pos="Z">?</word>
+  </sentence>
+  <sentence text="Nevidíš ju plameňmi večne okrídlenú , ako nimi tie svety široké prikryla , čo slnciam blesky dáva , divotvorné sily , tým , čo tak nebo veľké divne vykrášlili — čo svoj ’ silou pohýna nebom so svetami sťa zemskoľudská duša biednymi ideami ? ! Lež nemôžeš tie jej krídla preširoké merať , bo len z tejto nízkej zeme smieš na ňu pozerať !!">
+    <word id="w1" negator="pre" lemma="nevidieť" pos="VKesb-">Nevidíš</word>
+    <word id="w2" scope="w1" lemma="ona" pos="PFfs4">ju</word>
+    <word id="w3" scope="w1" lemma="plameň" pos="SSip7">plameňmi</word>
+    <word id="w4" scope="w1" lemma="večne" pos="Dx">večne</word>
+    <word id="w5" scope="w1" lemma="okrídlený" pos="Gtfs4x">okrídlenú</word>
+    <word id="w6" lemma="," pos="Z">,</word>
+    <word id="w7" lemma="ako" pos="O">ako</word>
+    <word id="w8" lemma="onen" pos="PFnp7">nimi</word>
+    <word id="w9" lemma="ten" pos="PFip1">tie</word>
+    <word id="w10" lemma="svet" pos="SSip1">svety</word>
+    <word id="w11" lemma="široký" pos="AAip1x">široké</word>
+    <word id="w12" lemma="prikryť" pos="VLdscf+">prikryla</word>
+    <word id="w13" lemma="," pos="Z">,</word>
+    <word id="w14" lemma="čo" pos="O">čo</word>
+    <word id="w15" lemma="slnce" pos="SSnp3">slnciam</word>
+    <word id="w16" lemma="blesk" pos="SSip4">blesky</word>
+    <word id="w17" lemma="dávať" pos="VKesc+">dáva</word>
+    <word id="w18" lemma="," pos="Z">,</word>
+    <word id="w19" lemma="divotvorný" pos="AAfp1x">divotvorné</word>
+    <word id="w20" lemma="sila" pos="SSfp1">sily</word>
+    <word id="w21" lemma="," pos="Z">,</word>
+    <word id="w22" lemma="to" pos="PFns7">tým</word>
+    <word id="w23" lemma="," pos="Z">,</word>
+    <word id="w24" lemma="čo" pos="O">čo</word>
+    <word id="w25" lemma="tak" pos="O">tak</word>
+    <word id="w26" lemma="nebo" pos="SSns1">nebo</word>
+    <word id="w27" lemma="veľký" pos="AAns1x">veľké</word>
+    <word id="w28" lemma="divne" pos="Dx">divne</word>
+    <word id="w29" lemma="vykrášlili" pos="VLepcm+">vykrášlili</word>
+    <word id="w30" lemma="—" pos="Z">—</word>
+    <word id="w31" lemma="čo" pos="O">čo</word>
+    <word id="w32" lemma="svoj" pos="PFis4">svoj</word>
+    <word id="w33" lemma="’" pos="Z">’</word>
+    <word id="w34" lemma="sila" pos="SSfs7">silou</word>
+    <word id="w35" lemma="pohýnať" pos="VKesc+">pohýna</word>
+    <word id="w36" lemma="nebo" pos="SSns7">nebom</word>
+    <word id="w37" lemma="s" pos="Ev7">so</word>
+    <word id="w38" lemma="svetami" pos="SSfp7">svetami</word>
+    <word id="w39" lemma="sťa" pos="O">sťa</word>
+    <word id="w40" lemma="zemskoľudská" pos="AAfs1x">zemskoľudská</word>
+    <word id="w41" lemma="duša" pos="SSfs1">duša</word>
+    <word id="w42" lemma="biedny" pos="AAfp7x">biednymi</word>
+    <word id="w43" lemma="idea" pos="SSfp7">ideami</word>
+    <word id="w44" lemma="?" pos="Z">?</word>
+    <word id="w45" lemma="!" pos="Z">!</word>
+    <word id="w46" lemma="lež" pos="O">Lež</word>
+    <word id="w47" negator="pre" lemma="nemôcť" pos="VKesb-">nemôžeš</word>
+    <word id="w48" scope="w47" lemma="to" pos="PFnp4">tie</word>
+    <word id="w49" scope="w47" lemma="jej" pos="PUnp4">jej</word>
+    <word id="w50" scope="w47" lemma="krídlo" pos="SSnp4">krídla</word>
+    <word id="w51" scope="w47" lemma="preširoké" pos="VMepa+">preširoké</word>
+    <word id="w52" scope="w47" lemma="merať" pos="VIe+">merať</word>
+    <word id="w53" lemma="," pos="Z">,</word>
+    <word id="w54" lemma="bo" pos="O">bo</word>
+    <word id="w55" lemma="len" pos="T">len</word>
+    <word id="w56" lemma="z" pos="Eu2">z</word>
+    <word id="w57" lemma="táto" pos="PFfs2">tejto</word>
+    <word id="w58" lemma="nízky" pos="AAfs2x">nízkej</word>
+    <word id="w59" lemma="zem" pos="SSfs2">zeme</word>
+    <word id="w60" lemma="smieť" pos="VKesb+">smieš</word>
+    <word id="w61" lemma="na" pos="Eu4">na</word>
+    <word id="w62" lemma="ona" pos="PFfs4">ňu</word>
+    <word id="w63" lemma="pozerať" pos="VIe+">pozerať</word>
+    <word id="w64" lemma="!!" pos="0">!!</word>
+  </sentence>
+</document>
+

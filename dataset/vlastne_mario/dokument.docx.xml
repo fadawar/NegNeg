@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <sentence text="Samozrejme ma zamrzelo , že som sa gólovo nepresadil , ale dôležité je víťazstvo . “">
+    <word id="w1" lemma="samozrejme" pos="T">Samozrejme</word>
+    <word id="w2" lemma="ja" pos="PPhs4">ma</word>
+    <word id="w3" lemma="zamrzieť" pos="VLdscn+">zamrzelo</word>
+    <word id="w4" lemma="," pos="Z">,</word>
+    <word id="w5" lemma="že" pos="O">že</word>
+    <word id="w6" scope="w9" lemma="byť" pos="VKesa+">som</word>
+    <word id="w7" scope="w9" lemma="sa" pos="R">sa</word>
+    <word id="w8" scope="w9" lemma="gólovo" pos="Dx">gólovo</word>
+    <word id="w9" negator="pre" lemma="nepresadiť" pos="VLdscm-">nepresadil</word>
+    <word id="w10" lemma="," pos="Z">,</word>
+    <word id="w11" lemma="ale" pos="O">ale</word>
+    <word id="w12" lemma="dôležitý" pos="AAns1x">dôležité</word>
+    <word id="w13" lemma="byť" pos="VKesc+">je</word>
+    <word id="w14" lemma="víťazstvo" pos="SSns1">víťazstvo</word>
+    <word id="w15" lemma="." pos="Z">.</word>
+    <word id="w16" lemma="“" pos="Z">“</word>
+  </sentence>
+  <sentence text="Produkcia síce nie je zvýšená , ale náklady sú .">
+    <word id="w1" scope="w4" lemma="produkcia" pos="SSfs1">Produkcia</word>
+    <word id="w2" scope="w4" lemma="síce" pos="O">síce</word>
+    <word id="w3" negator="nie" lemma="nie" pos="T">nie</word>
+    <word id="w4" negator="pre" scope="w3" lemma="byť" pos="VKesc+">je</word>
+    <word id="w5" scope="w4" lemma="zvýšený" pos="Gtfs1x">zvýšená</word>
+    <word id="w6" lemma="," pos="Z">,</word>
+    <word id="w7" lemma="ale" pos="O">ale</word>
+    <word id="w8" lemma="náklad" pos="SSip1">náklady</word>
+    <word id="w9" lemma="byť" pos="VKepc+">sú</word>
+    <word id="w10" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Svätopluk neodišiel nepresvedčený .">
+    <word id="w1" scope="w2,w3" lemma="svätopluk" pos="SSms1">Svätopluk</word>
+    <word id="w2" negator="pre" lemma="neodísť" pos="VLdscm-">neodišiel</word>
+    <word id="w3" negator="sub" scope="w2" lemma="nepresvedčený" pos="VId-">nepresvedčený</word>
+    <word id="w4" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Karol neskúsený požiarnik chcel zahasiť oheň .">
+    <word id="w1" lemma="karol" pos="SSms1">Karol</word>
+    <word id="w2" negator="atr" lemma="neskúsený" pos="AAms1x">neskúsený</word>
+    <word id="w3" scope="w2" lemma="požiarnik" pos="SSms1">požiarnik</word>
+    <word id="w4" lemma="chcieť" pos="VLescm+">chcel</word>
+    <word id="w5" lemma="zahasiť" pos="VId+">zahasiť</word>
+    <word id="w6" lemma="oheň" pos="SSis4">oheň</word>
+    <word id="w7" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Na križovatke dejín sa neriaďme pokynmi dopravných strážnikov .">
+    <word id="w1" scope="w5" lemma="na" pos="Eu6">Na</word>
+    <word id="w2" scope="w5" lemma="križovatka" pos="SSfs6">križovatke</word>
+    <word id="w3" scope="w5" lemma="dejiny" pos="SSfp2">dejín</word>
+    <word id="w4" scope="w5" lemma="sa" pos="R">sa</word>
+    <word id="w5" negator="pre" lemma="neriadiť" pos="VMepa-">neriaďme</word>
+    <word id="w6" scope="w5" lemma="pokyn" pos="SSip7">pokynmi</word>
+    <word id="w7" scope="w5" lemma="dopravný" pos="AAmp2x">dopravných</word>
+    <word id="w8" scope="w5" lemma="strážnik" pos="SSmp2">strážnikov</word>
+    <word id="w9" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Takýto postup je nevhodný na riešenie problému .">
+    <word id="w1" lemma="takýto" pos="PAis1">Takýto</word>
+    <word id="w2" scope="w4" lemma="postup" pos="SSis1">postup</word>
+    <word id="w3" lemma="byť" pos="VKesc+">je</word>
+    <word id="w4" negator="sub" lemma="nevhodný" pos="AAis1x">nevhodný</word>
+    <word id="w5" lemma="na" pos="Eu4">na</word>
+    <word id="w6" lemma="riešenie" pos="SSns4">riešenie</word>
+    <word id="w7" lemma="problém" pos="SSis2">problému</word>
+    <word id="w8" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Šťastie bez závisti nebýva .">
+    <word id="w1" scope="w4" lemma="šťastie" pos="SSns1">Šťastie</word>
+    <word id="w2" negator="gen" scope="w4" lemma="bez" pos="Eu2">bez</word>
+    <word id="w3" scope="w2,w4" lemma="závisť" pos="SSfs2">závisti</word>
+    <word id="w4" negator="pre" lemma="nebývať" pos="VKesc-">nebýva</word>
+    <word id="w5" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Vyše tisíc rokov sme žili bez vlastných kráľov .">
+    <word id="w1" lemma="vyše" pos="T">Vyše</word>
+    <word id="w2" lemma="tisíc" pos="NUns4">tisíc</word>
+    <word id="w3" lemma="rok" pos="SSip2">rokov</word>
+    <word id="w4" lemma="byť" pos="VKepa+">sme</word>
+    <word id="w5" lemma="žiť" pos="VLepah+">žili</word>
+    <word id="w6" negator="gen" lemma="bez" pos="Eu2">bez</word>
+    <word id="w7" lemma="vlastný" pos="AAmp2x">vlastných</word>
+    <word id="w8" scope="w6" lemma="kráľ" pos="SSmp2">kráľov</word>
+    <word id="w9" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Peter zjedol polievku bez kúska chleba .">
+    <word id="w1" lemma="peter" pos="SSms1">Peter</word>
+    <word id="w2" lemma="zjesť" pos="VLdscm+">zjedol</word>
+    <word id="w3" lemma="polievka" pos="SSfs4">polievku</word>
+    <word id="w4" negator="gen" lemma="bez" pos="Eu2">bez</word>
+    <word id="w5" scope="w4" lemma="kúsok" pos="SSis2">kúska</word>
+    <word id="w6" lemma="chlieb" pos="SSis2">chleba</word>
+    <word id="w7" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Ľudia kričali bez zmyslov .">
+    <word id="w1" lemma="človek" pos="SSmp1">Ľudia</word>
+    <word id="w2" lemma="kričať" pos="VLepcm+">kričali</word>
+    <word id="w3" negator="gen" lemma="bez" pos="Eu2">bez</word>
+    <word id="w4" scope="w3" lemma="zmysel" pos="SSip2">zmyslov</word>
+    <word id="w5" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Človek nebude dielom náhody a okamihu .">
+    <word id="w1" scope="w2" lemma="človek" pos="SSms1">Človek</word>
+    <word id="w2" negator="pre" lemma="nebyť" pos="VBesc-">nebude</word>
+    <word id="w3" scope="w2" lemma="dielo" pos="SSns7">dielom</word>
+    <word id="w4" scope="w2" lemma="náhoda" pos="SSfs2">náhody</word>
+    <word id="w5" scope="w2" lemma="a" pos="O">a</word>
+    <word id="w6" scope="w2" lemma="okamih" pos="SSis2">okamihu</word>
+    <word id="w7" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Vstupný súbor má nevhodný formát .">
+    <word id="w1" lemma="vstupný" pos="AAis1x">Vstupný</word>
+    <word id="w2" lemma="súbor" pos="SSis1">súbor</word>
+    <word id="w3" lemma="mať" pos="VKesc+">má</word>
+    <word id="w4" negator="atr" lemma="nevhodný" pos="AAis1x">nevhodný</word>
+    <word id="w5" scope="w4" lemma="formát" pos="SSis1">formát</word>
+    <word id="w6" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Stav potrubia je na prevádzku nevyhovujúci .">
+    <word id="w1" scope="w6" lemma="stav" pos="SSis1">Stav</word>
+    <word id="w2" lemma="potrubie" pos="SSns2">potrubia</word>
+    <word id="w3" lemma="byť" pos="VKesc+">je</word>
+    <word id="w4" lemma="na" pos="Eu4">na</word>
+    <word id="w5" lemma="prevádzka" pos="SSfs4">prevádzku</word>
+    <word id="w6" negator="sub" lemma="nevyhovujúci" pos="Gkis1x">nevyhovujúci</word>
+    <word id="w7" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Prídu všetci okrem Petra a Pavla .">
+    <word id="w1" lemma="prísť" pos="VKdpc+">Prídu</word>
+    <word id="w2" lemma="všetok" pos="PFmp1">všetci</word>
+    <word id="w3" negator="gen" lemma="okrem" pos="Eu2">okrem</word>
+    <word id="w4" scope="w3" lemma="peter" pos="SSms2">Petra</word>
+    <word id="w5" lemma="a" pos="O">a</word>
+    <word id="w6" scope="w3" lemma="pavel" pos="SSms2">Pavla</word>
+    <word id="w7" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Dokázali to bez neho .">
+    <word id="w1" lemma="dokázať" pos="VLdpcm+">Dokázali</word>
+    <word id="w2" lemma="to" pos="PFns4">to</word>
+    <word id="w3" negator="gen" lemma="bez" pos="Eu2">bez</word>
+    <word id="w4" scope="w3" lemma="on" pos="PFms2">neho</word>
+    <word id="w5" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Dokázali to bez jeho pomoci .">
+    <word id="w1" lemma="dokázať" pos="VLdpcm+">Dokázali</word>
+    <word id="w2" lemma="to" pos="PFns4">to</word>
+    <word id="w3" negator="gen" lemma="bez" pos="Eu2">bez</word>
+    <word id="w4" lemma="jeho" pos="PUfs2">jeho</word>
+    <word id="w5" scope="w3" lemma="pomoc" pos="SSfs2">pomoci</word>
+    <word id="w6" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Takýto algoritmus je na vyriešenie problému nevhodný .">
+    <word id="w1" lemma="takýto" pos="PAis1">Takýto</word>
+    <word id="w2" scope="w7" lemma="algoritmus" pos="SSis1">algoritmus</word>
+    <word id="w3" lemma="byť" pos="VKesc+">je</word>
+    <word id="w4" lemma="na" pos="Eu4">na</word>
+    <word id="w5" lemma="vyriešenie" pos="SSns4">vyriešenie</word>
+    <word id="w6" lemma="problém" pos="SSis2">problému</word>
+    <word id="w7" negator="sub" lemma="nevhodný" pos="AAis1x">nevhodný</word>
+    <word id="w8" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Každý nie je Slovák .">
+    <word id="w1" scope="w3" lemma="každý" pos="PAms1">Každý</word>
+    <word id="w2" negator="nie" lemma="nie" pos="T">nie</word>
+    <word id="w3" negator="pre" scope="w2" lemma="byť" pos="VKesc+">je</word>
+    <word id="w4" scope="w3" lemma="slovák" pos="SSms1">Slovák</word>
+    <word id="w5" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Nie každý je Slovák .">
+    <word id="w1" negator="nie" lemma="nie" pos="T">Nie</word>
+    <word id="w2" scope="w1" lemma="každý" pos="PAis4">každý</word>
+    <word id="w3" lemma="byť" pos="VKesc+">je</word>
+    <word id="w4" lemma="slovák" pos="SSms1">Slovák</word>
+    <word id="w5" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Nikto nie je Slovák .">
+    <word id="w1" scope="w3" lemma="nikto" pos="PFms1">Nikto</word>
+    <word id="w2" negator="nie" lemma="nie" pos="T">nie</word>
+    <word id="w3" negator="pre" scope="w2" lemma="byť" pos="VKesc+">je</word>
+    <word id="w4" scope="w3" lemma="slovák" pos="SSms1">Slovák</word>
+    <word id="w5" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Urobili to nie z lenivosti .">
+    <word id="w1" lemma="urobiť" pos="VLdpcm+">Urobili</word>
+    <word id="w2" lemma="to" pos="PFns1">to</word>
+    <word id="w3" negator="nie" lemma="nie" pos="T">nie</word>
+    <word id="w4" lemma="z" pos="Eu2">z</word>
+    <word id="w5" scope="w3" lemma="lenivosť" pos="SSfs2">lenivosti</word>
+    <word id="w6" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Užite si dovolenku bez stresu , nie bez peňazí .">
+    <word id="w1" lemma="užiť" pos="VMdpb+">Užite</word>
+    <word id="w2" lemma="si" pos="R">si</word>
+    <word id="w3" lemma="dovolenka" pos="SSfs4">dovolenku</word>
+    <word id="w4" negator="gen" lemma="bez" pos="Eu2">bez</word>
+    <word id="w5" scope="w4" lemma="stres" pos="SSis2">stresu</word>
+    <word id="w6" lemma="," pos="Z">,</word>
+    <word id="w7" negator="nie" lemma="nie" pos="T">nie</word>
+    <word id="w8" negator="gen" lemma="bez" pos="Eu2">bez</word>
+    <word id="w9" scope="w7,w8" lemma="peniaze" pos="SSip2">peňazí</word>
+    <word id="w10" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Peter prišiel bez ohlásenia a Lucia nemala čas .">
+    <word id="w1" lemma="peter" pos="SSms1">Peter</word>
+    <word id="w2" lemma="prísť" pos="VLdscm+">prišiel</word>
+    <word id="w3" negator="gen" lemma="bez" pos="Eu2">bez</word>
+    <word id="w4" scope="w3" lemma="ohlásenia" pos="SSns2">ohlásenia</word>
+    <word id="w5" lemma="a" pos="O">a</word>
+    <word id="w6" scope="w7" lemma="lucia" pos="SSfs1">Lucia</word>
+    <word id="w7" negator="pre" lemma="nemať" pos="VLescf-">nemala</word>
+    <word id="w8" scope="w7" lemma="čas" pos="SSis4">čas</word>
+    <word id="w9" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Dokázali to bez matkinej pomoci .">
+    <word id="w1" lemma="dokázať" pos="VLdpcm+">Dokázali</word>
+    <word id="w2" lemma="to" pos="PFns4">to</word>
+    <word id="w3" negator="gen" lemma="bez" pos="Eu2">bez</word>
+    <word id="w4" lemma="matkin" pos="AFfs2x">matkinej</word>
+    <word id="w5" scope="w3" lemma="pomoc" pos="SSfs2">pomoci</word>
+    <word id="w6" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Chytili sme všetkých páchateľov okrem mafiánskeho bosa , ktorý ich riadil .">
+    <word id="w1" lemma="chytiť" pos="VLdpah+">Chytili</word>
+    <word id="w2" lemma="byť" pos="VKepa+">sme</word>
+    <word id="w3" lemma="všetok" pos="PFmp4">všetkých</word>
+    <word id="w4" lemma="páchateľ" pos="SSmp4">páchateľov</word>
+    <word id="w5" negator="gen" lemma="okrem" pos="Eu2">okrem</word>
+    <word id="w6" lemma="mafiánsky" pos="AAms2x">mafiánskeho</word>
+    <word id="w7" scope="w5" lemma="bos" pos="SSms2">bosa</word>
+    <word id="w8" lemma="," pos="Z">,</word>
+    <word id="w9" lemma="ktorý" pos="PAms1">ktorý</word>
+    <word id="w10" lemma="on" pos="PFmp4">ich</word>
+    <word id="w11" lemma="riadiť" pos="VLescm+">riadil</word>
+    <word id="w12" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Profitovať budú všetci spolumajitelia okrem jedného .">
+    <word id="w1" lemma="profitovať" pos="VIe+">Profitovať</word>
+    <word id="w2" lemma="byť" pos="VBepc+">budú</word>
+    <word id="w3" lemma="všetok" pos="PFmp1">všetci</word>
+    <word id="w4" lemma="spolumajiteľ" pos="SSmp1">spolumajitelia</word>
+    <word id="w5" negator="gen" lemma="okrem" pos="Eu2">okrem</word>
+    <word id="w6" lemma="jeden" pos="NFis2">jedného</word>
+    <word id="w7" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Všetky tieto problémy sú mimo môjho chápania .">
+    <word id="w1" lemma="všetok" pos="PFip1">Všetky</word>
+    <word id="w2" lemma="tento" pos="PFip1">tieto</word>
+    <word id="w3" lemma="problém" pos="SSip1">problémy</word>
+    <word id="w4" lemma="byť" pos="VKepc+">sú</word>
+    <word id="w5" negator="gen" lemma="mimo" pos="Eu2">mimo</word>
+    <word id="w6" lemma="môj" pos="PFns2">môjho</word>
+    <word id="w7" scope="w5" lemma="chápanie" pos="SSns2">chápania</word>
+    <word id="w8" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Akékoľvek otázky idú mimo mňa .">
+    <word id="w1" lemma="akýkoľvek" pos="PAfp1">Akékoľvek</word>
+    <word id="w2" lemma="otázka" pos="SSfp1">otázky</word>
+    <word id="w3" lemma="ísť" pos="VKepc+">idú</word>
+    <word id="w4" negator="gen" lemma="mimo" pos="Eu2">mimo</word>
+    <word id="w5" scope="w4" lemma="ja" pos="PPhs2">mňa</word>
+    <word id="w6" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Návšteva mala prísť bez Petra a Pavla , preto sme čakali všetkých okrem nich .">
+    <word id="w1" lemma="návšteva" pos="SSfs1">Návšteva</word>
+    <word id="w2" lemma="mať" pos="VLescf+">mala</word>
+    <word id="w3" lemma="prísť" pos="VId+">prísť</word>
+    <word id="w4" negator="gen" lemma="bez" pos="Eu2">bez</word>
+    <word id="w5" scope="w4" lemma="peter" pos="SSms2">Petra</word>
+    <word id="w6" lemma="a" pos="O">a</word>
+    <word id="w7" scope="w4" lemma="pavel" pos="SSms2">Pavla</word>
+    <word id="w8" lemma="," pos="Z">,</word>
+    <word id="w9" lemma="preto" pos="PD">preto</word>
+    <word id="w10" lemma="byť" pos="VKepa+">sme</word>
+    <word id="w11" lemma="čakať" pos="VLepah+">čakali</word>
+    <word id="w12" lemma="všetok" pos="PFmp4">všetkých</word>
+    <word id="w13" negator="gen" lemma="okrem" pos="Eu2">okrem</word>
+    <word id="w14" scope="w13" lemma="on" pos="PFmp2">nich</word>
+    <word id="w15" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Tri krát tri je deväť , a nikto to nemôže poprieť .">
+    <word id="w1" lemma="tri" pos="NNip1">Tri</word>
+    <word id="w2" lemma="krát" pos="SUns1">krát</word>
+    <word id="w3" lemma="tri" pos="NNnp4">tri</word>
+    <word id="w4" lemma="byť" pos="VKesc+">je</word>
+    <word id="w5" lemma="deväť" pos="NUns1">deväť</word>
+    <word id="w6" lemma="," pos="Z">,</word>
+    <word id="w7" lemma="a" pos="O">a</word>
+    <word id="w8" scope="w10" lemma="nikto" pos="PFms1">nikto</word>
+    <word id="w9" scope="w10" lemma="to" pos="PFns4">to</word>
+    <word id="w10" negator="pre" lemma="nemôcť" pos="VKesc-">nemôže</word>
+    <word id="w11" scope="w10" lemma="poprieť" pos="VId+">poprieť</word>
+    <word id="w12" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Mačky momentálne nežerú myši .">
+    <word id="w1" scope="w3" lemma="mačka" pos="SSfp1">Mačky</word>
+    <word id="w2" scope="w3" lemma="momentálne" pos="Dx">momentálne</word>
+    <word id="w3" negator="pre" lemma="nežrať" pos="VKepc-">nežerú</word>
+    <word id="w4" scope="w3" lemma="myš" pos="SSfp4">myši</word>
+    <word id="w5" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Popevok , ktorým si Ľuboš rád spríjemňoval cesty , odrazu neznel dolinou .">
+    <word id="w1" scope="w11" lemma="popevok" pos="SSis1">Popevok</word>
+    <word id="w2" lemma="," pos="Z">,</word>
+    <word id="w3" lemma="ktorý" pos="PAis7">ktorým</word>
+    <word id="w4" lemma="si" pos="R">si</word>
+    <word id="w5" lemma="ľuboš" pos="SSms1">Ľuboš</word>
+    <word id="w6" lemma="rád" pos="AUms1x">rád</word>
+    <word id="w7" lemma="spríjemňovať" pos="VLescm+">spríjemňoval</word>
+    <word id="w8" lemma="cesta" pos="SSfp4">cesty</word>
+    <word id="w9" lemma="," pos="Z">,</word>
+    <word id="w10" scope="w11" lemma="odrazu" pos="Dx">odrazu</word>
+    <word id="w11" negator="pre" lemma="neznieť" pos="VLescm-">neznel</word>
+    <word id="w12" scope="w11" lemma="dolina" pos="SSfs7">dolinou</word>
+    <word id="w13" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Popevok , ktorým si Ľuboš nikdy nespríjemňoval cesty , odrazu znel dolinou .">
+    <word id="w1" lemma="popevok" pos="SSis1">Popevok</word>
+    <word id="w2" lemma="," pos="Z">,</word>
+    <word id="w3" lemma="ktorý" pos="PAis7">ktorým</word>
+    <word id="w4" scope="w7" lemma="si" pos="R">si</word>
+    <word id="w5" scope="w7" lemma="ľuboš" pos="SSms1">Ľuboš</word>
+    <word id="w6" scope="w7" lemma="nikdy" pos="PD">nikdy</word>
+    <word id="w7" negator="pre" lemma="nespríjemňovať" pos="VLescm-">nespríjemňoval</word>
+    <word id="w8" scope="w7" lemma="cesta" pos="SSfp4">cesty</word>
+    <word id="w9" lemma="," pos="Z">,</word>
+    <word id="w10" lemma="odrazu" pos="Dx">odrazu</word>
+    <word id="w11" lemma="znieť" pos="VLesci+">znel</word>
+    <word id="w12" lemma="dolina" pos="SSfs7">dolinou</word>
+    <word id="w13" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Tá recituje , raz sa nepomýli !">
+    <word id="w1" lemma="tá" pos="PFfs1">Tá</word>
+    <word id="w2" lemma="recitovať" pos="VKesc+">recituje</word>
+    <word id="w3" lemma="," pos="Z">,</word>
+    <word id="w4" scope="w6" lemma="raz" pos="Dx">raz</word>
+    <word id="w5" scope="w6" lemma="sa" pos="R">sa</word>
+    <word id="w6" negator="pre" lemma="nepomýliť" pos="VKdsc-">nepomýli</word>
+    <word id="w7" lemma="!" pos="Z">!</word>
+  </sentence>
+  <sentence text="Ani jedno nemá šancu na prežitie .">
+    <word id="w1" scope="w3" lemma="ani" pos="T">Ani</word>
+    <word id="w2" scope="w3" lemma="jedno" pos="Dx">jedno</word>
+    <word id="w3" negator="pre" lemma="nemať" pos="VKesc-">nemá</word>
+    <word id="w4" scope="w3" lemma="šanca" pos="SSfs4">šancu</word>
+    <word id="w5" scope="w3" lemma="na" pos="Eu4">na</word>
+    <word id="w6" scope="w3" lemma="prežitie" pos="SSns4">prežitie</word>
+    <word id="w7" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Nezostane na nich nedotknutý ani chlp .">
+    <word id="w1" negator="pre" lemma="nezostať" pos="VKdsc-">Nezostane</word>
+    <word id="w2" scope="w1" lemma="na" pos="Eu6">na</word>
+    <word id="w3" scope="w1" lemma="ona" pos="PFfp6">nich</word>
+    <word id="w4" negator="atr" scope="w1" lemma="nedotknutý" pos="Gtms1x">nedotknutý</word>
+    <word id="w5" scope="w1" lemma="ani" pos="T">ani</word>
+    <word id="w6" scope="w1,w4" lemma="chlp" pos="SSis4">chlp</word>
+    <word id="w7" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Ani vlastná mater si ju nespozná .">
+    <word id="w1" scope="w6" lemma="ani" pos="T">Ani</word>
+    <word id="w2" scope="w6" lemma="vlastný" pos="AAfs1x">vlastná</word>
+    <word id="w3" scope="w6" lemma="mater" pos="SSfs1">mater</word>
+    <word id="w4" scope="w6" lemma="si" pos="R">si</word>
+    <word id="w5" scope="w6" lemma="ona" pos="PFfs4">ju</word>
+    <word id="w6" negator="pre" lemma="nespoznať" pos="VKdsc-">nespozná</word>
+    <word id="w7" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Bez kvetu za ňou nechoď .">
+    <word id="w1" negator="gen" lemma="bez" pos="Eu2">Bez</word>
+    <word id="w2" scope="w1" lemma="kvet" pos="SSis2">kvetu</word>
+    <word id="w3" lemma="za" pos="Eu7">za</word>
+    <word id="w4" lemma="ona" pos="PFfs7">ňou</word>
+    <word id="w5" lemma="nechodiť" pos="VMesb-">nechoď</word>
+    <word id="w6" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Krikom nič nevyriešiš .">
+    <word id="w1" scope="w3" lemma="krik" pos="SSis7">Krikom</word>
+    <word id="w2" scope="w3" lemma="nič" pos="PFns4">nič</word>
+    <word id="w3" negator="pre" lemma="nevyriešiť" pos="VKdsb-">nevyriešiš</word>
+    <word id="w4" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Samozrejme , za mojich mladých čias nás učili ničomu nerozumieť .">
+    <word id="w1" lemma="samozrejme" pos="T">Samozrejme</word>
+    <word id="w2" lemma="," pos="Z">,</word>
+    <word id="w3" lemma="za" pos="Eu2">za</word>
+    <word id="w4" lemma="môj" pos="PFip2">mojich</word>
+    <word id="w5" lemma="mladý" pos="AAip2x">mladých</word>
+    <word id="w6" lemma="čas" pos="SSip2">čias</word>
+    <word id="w7" lemma="my" pos="PPhp4">nás</word>
+    <word id="w8" lemma="učiť" pos="VLepcm+">učili</word>
+    <word id="w9" scope="w10" lemma="nič" pos="PFns3">ničomu</word>
+    <word id="w10" negator="pre" lemma="nerozumieť" pos="VIe-">nerozumieť</word>
+    <word id="w11" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Predmety bez milej pozornosti človeka sa stávajú takými , akými sú v skutočnosti , teda úplne mŕtvymi .">
+    <word id="w1" lemma="predmet" pos="SSip1">Predmety</word>
+    <word id="w2" negator="gen" lemma="bez" pos="Eu2">bez</word>
+    <word id="w3" lemma="milý" pos="AAfs2x">milej</word>
+    <word id="w4" scope="w2" lemma="pozornosť" pos="SSfs2">pozornosti</word>
+    <word id="w5" lemma="človek" pos="SSms2">človeka</word>
+    <word id="w6" lemma="sa" pos="R">sa</word>
+    <word id="w7" lemma="stávať" pos="VKepc+">stávajú</word>
+    <word id="w8" lemma="taký" pos="PAnp7">takými</word>
+    <word id="w9" lemma="," pos="Z">,</word>
+    <word id="w10" lemma="aký" pos="PAfp7">akými</word>
+    <word id="w11" lemma="byť" pos="VKepc+">sú</word>
+    <word id="w12" lemma="v" pos="Eu6">v</word>
+    <word id="w13" lemma="skutočnosť" pos="SSfs6">skutočnosti</word>
+    <word id="w14" lemma="," pos="Z">,</word>
+    <word id="w15" lemma="teda" pos="O">teda</word>
+    <word id="w16" lemma="úplne" pos="Dx">úplne</word>
+    <word id="w17" lemma="mŕtvy" pos="AAmp7x">mŕtvymi</word>
+    <word id="w18" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Bez tvojej lásky a starostlivosti som už dávno pod zemou .">
+    <word id="w1" negator="gen" lemma="bez" pos="Eu2">Bez</word>
+    <word id="w2" lemma="tvoj" pos="PFfs2">tvojej</word>
+    <word id="w3" scope="w1" lemma="láska" pos="SSfs2">lásky</word>
+    <word id="w4" lemma="a" pos="O">a</word>
+    <word id="w5" scope="w1" lemma="starostlivosť" pos="SSfs2">starostlivosti</word>
+    <word id="w6" lemma="byť" pos="VKesa+">som</word>
+    <word id="w7" lemma="už" pos="T">už</word>
+    <word id="w8" lemma="dávno" pos="Dx">dávno</word>
+    <word id="w9" lemma="pod" pos="Eu7">pod</word>
+    <word id="w10" lemma="zem" pos="SSfs7">zemou</word>
+    <word id="w11" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Peter na vojne nesmie nepracovať .">
+    <word id="w1" scope="w4" lemma="peter" pos="SSms1">Peter</word>
+    <word id="w2" scope="w4" lemma="na" pos="Eu6">na</word>
+    <word id="w3" scope="w4" lemma="vojna" pos="SSfs6">vojne</word>
+    <word id="w4" negator="pre" lemma="nesmieť" pos="VKesc-">nesmie</word>
+    <word id="w5" negator="pre" scope="w4" lemma="nepracovať" pos="VIe-">nepracovať</word>
+    <word id="w6" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Nemusíš netrafiť cieľ , skús to ešte raz .">
+    <word id="w1" negator="pre" lemma="nemusieť" pos="VKesb-">Nemusíš</word>
+    <word id="w2" negator="pre" scope="w1" lemma="netrafiť" pos="VId-">netrafiť</word>
+    <word id="w3" scope="w1,w2" lemma="cieľ" pos="SSis4">cieľ</word>
+    <word id="w4" lemma="," pos="Z">,</word>
+    <word id="w5" lemma="skúsiť" pos="VMdsb+">skús</word>
+    <word id="w6" lemma="to" pos="PFns4">to</word>
+    <word id="w7" lemma="ešte" pos="T">ešte</word>
+    <word id="w8" lemma="raz" pos="NSis4">raz</word>
+    <word id="w9" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Nechceš , aby som ti dostal dcéru na zdravotnícku školu ?">
+    <word id="w1" negator="pre" lemma="nechcieť" pos="VKesb-">Nechceš</word>
+    <word id="w2" scope="w1" lemma="," pos="Z">,</word>
+    <word id="w3" scope="w1" lemma="aby" pos="OY">aby</word>
+    <word id="w4" scope="w1" lemma="byť" pos="VKesa+">som</word>
+    <word id="w5" scope="w1" lemma="ty" pos="PPhs3">ti</word>
+    <word id="w6" scope="w1" lemma="dostať" pos="VLdsam+">dostal</word>
+    <word id="w7" scope="w1" lemma="dcéra" pos="SSfs4">dcéru</word>
+    <word id="w8" scope="w1" lemma="na" pos="Eu4">na</word>
+    <word id="w9" scope="w1" lemma="zdravotnícky" pos="AAfs4x">zdravotnícku</word>
+    <word id="w10" scope="w1" lemma="škola" pos="SSfs4">školu</word>
+    <word id="w11" lemma="?" pos="Z">?</word>
+  </sentence>
+  <sentence text="Nie kráča , ale letí .">
+    <word id="w1" negator="nie" lemma="nie" pos="T">Nie</word>
+    <word id="w2" scope="w1" lemma="kráčať" pos="VKesc+">kráča</word>
+    <word id="w3" lemma="," pos="Z">,</word>
+    <word id="w4" lemma="ale" pos="O">ale</word>
+    <word id="w5" lemma="letieť" pos="VKesc+">letí</word>
+    <word id="w6" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Nedá sa nepoložiť si takéto otázky .">
+    <word id="w1" negator="pre" lemma="nedať" pos="VKjsc-">Nedá</word>
+    <word id="w2" scope="w1" lemma="sa" pos="R">sa</word>
+    <word id="w3" negator="pre" scope="w1" lemma="nepoložiť" pos="VId-">nepoložiť</word>
+    <word id="w4" scope="w1,w3" lemma="si" pos="R">si</word>
+    <word id="w5" scope="w1,w3" lemma="takýto" pos="PAfp4">takéto</word>
+    <word id="w6" scope="w1,w3" lemma="otázka" pos="SSfp4">otázky</word>
+    <word id="w7" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Spiaceho psa nie je vhodné budiť .">
+    <word id="w1" scope="w4" lemma="spiaci" pos="Gkms2x">Spiaceho</word>
+    <word id="w2" scope="w4" lemma="pes" pos="SSms4">psa</word>
+    <word id="w3" negator="nie" lemma="nie" pos="T">nie</word>
+    <word id="w4" negator="pre" scope="w3" lemma="byť" pos="VKesc+">je</word>
+    <word id="w5" scope="w4" lemma="vhodný" pos="AAns1x">vhodné</word>
+    <word id="w6" scope="w4" lemma="budiť" pos="VIe+">budiť</word>
+    <word id="w7" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Nečudujem sa , že odpoveď mu uletela .">
+    <word id="w1" negator="pre" lemma="nečudovať" pos="VKesa-">Nečudujem</word>
+    <word id="w2" scope="w1" lemma="sa" pos="R">sa</word>
+    <word id="w3" scope="w1" lemma="," pos="Z">,</word>
+    <word id="w4" scope="w1" lemma="že" pos="O">že</word>
+    <word id="w5" scope="w1" lemma="odpoveď" pos="SSfs1">odpoveď</word>
+    <word id="w6" scope="w1" lemma="on" pos="PFms3">mu</word>
+    <word id="w7" scope="w1" lemma="uletieť" pos="VLdscf+">uletela</word>
+    <word id="w8" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Nemecký neandertálec nechal nektár nedotknutý .">
+    <word id="w1" lemma="nemecký" pos="AAms1x">Nemecký</word>
+    <word id="w2" lemma="neandertálec" pos="SSms1">neandertálec</word>
+    <word id="w3" lemma="nechať" pos="VLdscm+">nechal</word>
+    <word id="w4" scope="w5" lemma="nektár" pos="SSis4">nektár</word>
+    <word id="w5" negator="sub" lemma="nedotknutý" pos="Gtis4x">nedotknutý</word>
+    <word id="w6" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Kúpila starému otcovi bicykel , aby nemusel chodiť na železnicu pešo .">
+    <word id="w1" lemma="kúpiť" pos="VLdscf+">Kúpila</word>
+    <word id="w2" lemma="starý" pos="AAms3x">starému</word>
+    <word id="w3" lemma="otec" pos="SSms3">otcovi</word>
+    <word id="w4" lemma="bicykel" pos="SSis4">bicykel</word>
+    <word id="w5" lemma="," pos="Z">,</word>
+    <word id="w6" lemma="aby" pos="OY">aby</word>
+    <word id="w7" negator="pre" lemma="nemusieť" pos="VLescm-">nemusel</word>
+    <word id="w8" scope="w7" lemma="chodiť" pos="VIe+">chodiť</word>
+    <word id="w9" scope="w7" lemma="na" pos="Eu4">na</word>
+    <word id="w10" scope="w7" lemma="železnica" pos="SSfs4">železnicu</word>
+    <word id="w11" scope="w7" lemma="pešo" pos="Dx">pešo</word>
+    <word id="w12" lemma="." pos="Z">.</word>
+  </sentence>
+</document>
+

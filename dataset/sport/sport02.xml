@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <sentence text="V prvej tretine kládli obe mužstvá veľký dôraz na defenzívu .">
+    <word id="w1" lemma="v" pos="Eu6">V</word>
+    <word id="w2" lemma="prvý" pos="NAfs6">prvej</word>
+    <word id="w3" lemma="tretina" pos="SSfs6">tretine</word>
+    <word id="w4" lemma="klásť" pos="VLepcn+">kládli</word>
+    <word id="w5" lemma="oba" pos="NNnp1">obe</word>
+    <word id="w6" lemma="mužstvo" pos="SSnp1">mužstvá</word>
+    <word id="w7" lemma="veľký" pos="AAis4x">veľký</word>
+    <word id="w8" lemma="dôraz" pos="SSis4">dôraz</word>
+    <word id="w9" lemma="na" pos="Eu4">na</word>
+    <word id="w10" lemma="defenzíva" pos="SSfs4">defenzívu</word>
+    <word id="w11" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Jednotlivé formácie sa nepúšťali do bezhlavého útočenia , naopak , skôr vyčkávali na chybu súpera .">
+    <word id="w1" scope="w4" lemma="jednotlivý" pos="AAfp1x">Jednotlivé</word>
+    <word id="w2" scope="w4" lemma="formácia" pos="SSfp1">formácie</word>
+    <word id="w3" scope="w4" lemma="sa" pos="R">sa</word>
+    <word id="w4" negator="pre" lemma="nepúšťať" pos="VLepcf-">nepúšťali</word>
+    <word id="w5" scope="w4" lemma="do" pos="Eu2">do</word>
+    <word id="w6" scope="w4" lemma="bezhlavý" pos="AAns2x">bezhlavého</word>
+    <word id="w7" scope="w4" lemma="útočenia" pos="SSns2">útočenia</word>
+    <word id="w8" lemma="," pos="Z">,</word>
+    <word id="w9" lemma="naopak" pos="T">naopak</word>
+    <word id="w10" lemma="," pos="Z">,</word>
+    <word id="w11" lemma="skôr" pos="Dx">skôr</word>
+    <word id="w12" lemma="vyčkávať" pos="VLepcm+">vyčkávali</word>
+    <word id="w13" lemma="na" pos="Eu4">na</word>
+    <word id="w14" lemma="chyba" pos="SSfs4">chybu</word>
+    <word id="w15" lemma="súper" pos="SSms4">súpera</word>
+    <word id="w16" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Slováci prvýkrát zamestnali brankára Schmida v 5 . minúte , keď sa k strele dostal obranca Kupec , ale nenamieril presne .">
+    <word id="w1" lemma="slovák" pos="SSmp1">Slováci</word>
+    <word id="w2" lemma="prvýkrát" pos="ND">prvýkrát</word>
+    <word id="w3" lemma="zamestnať" pos="VLdpcm+">zamestnali</word>
+    <word id="w4" lemma="brankár" pos="SSms4">brankára</word>
+    <word id="w5" lemma="Schmida" pos="SSms2">Schmida</word>
+    <word id="w6" lemma="v" pos="Eu6">v</word>
+    <word id="w7" lemma="5" pos="0">5</word>
+    <word id="w8" lemma="." pos="Z">.</word>
+    <word id="w9" lemma="minúta" pos="SSfs6">minúte</word>
+    <word id="w10" lemma="," pos="Z">,</word>
+    <word id="w11" lemma="keď" pos="O">keď</word>
+    <word id="w12" lemma="sa" pos="R">sa</word>
+    <word id="w13" lemma="k" pos="Eu3">k</word>
+    <word id="w14" lemma="strela" pos="SSfs3">strele</word>
+    <word id="w15" lemma="dostať" pos="VLdscm+">dostal</word>
+    <word id="w16" lemma="obranca" pos="SSms1">obranca</word>
+    <word id="w17" lemma="kupec" pos="SSms1">Kupec</word>
+    <word id="w18" lemma="," pos="Z">,</word>
+    <word id="w19" lemma="ale" pos="O">ale</word>
+    <word id="w20" negator="pre" lemma="nenamieriť" pos="VLdscm-">nenamieril</word>
+    <word id="w21" scope="w20" lemma="presne" pos="Dx">presne</word>
+    <word id="w22" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Krátko na to si Urbánek vytvoril sľubnú streleckú pozíciu , no v nej namiesto strely zvolil nepresnú prihrávku .">
+    <word id="w1" lemma="krátko" pos="Dx">Krátko</word>
+    <word id="w2" lemma="na" pos="Eu4">na</word>
+    <word id="w3" lemma="to" pos="PFns4">to</word>
+    <word id="w4" lemma="si" pos="R">si</word>
+    <word id="w5" lemma="Urbánek" pos="SSms1">Urbánek</word>
+    <word id="w6" lemma="vytvoriť" pos="VLdscm+">vytvoril</word>
+    <word id="w7" lemma="sľubný" pos="AAfs4x">sľubnú</word>
+    <word id="w8" lemma="strelecký" pos="AAfs4x">streleckú</word>
+    <word id="w9" lemma="pozícia" pos="SSfs4">pozíciu</word>
+    <word id="w10" lemma="," pos="Z">,</word>
+    <word id="w11" lemma="no" pos="O">no</word>
+    <word id="w12" lemma="v" pos="Eu6">v</word>
+    <word id="w13" lemma="ona" pos="PFfs6">nej</word>
+    <word id="w14" negator="gen" lemma="namiesto" pos="Eu2">namiesto</word>
+    <word id="w15" scope="w14" lemma="strela" pos="SSfs2">strely</word>
+    <word id="w16" lemma="zvoliť" pos="VLdsci+">zvolil</word>
+    <word id="w17" negator="atr" lemma="nepresný" pos="AAfs4x">nepresnú</word>
+    <word id="w18" lemma="prihrávka" pos="SSfs4">prihrávku</word>
+    <word id="w19" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="V bránke slovenského tímu dostal príležitosť Sklenár , ktorý v 9 . minúte zmaril nebezpečnú šancu Sigrista .">
+    <word id="w1" lemma="v" pos="Eu6">V</word>
+    <word id="w2" lemma="bránka" pos="SSfs6">bránke</word>
+    <word id="w3" lemma="slovenský" pos="AAis2x">slovenského</word>
+    <word id="w4" lemma="tím" pos="SSis2">tímu</word>
+    <word id="w5" lemma="dostať" pos="VLdscm+">dostal</word>
+    <word id="w6" lemma="príležitosť" pos="SSfs4">príležitosť</word>
+    <word id="w7" lemma="Sklenár" pos="SSis1">Sklenár</word>
+    <word id="w8" lemma="," pos="Z">,</word>
+    <word id="w9" lemma="ktorý" pos="PAis1">ktorý</word>
+    <word id="w10" lemma="v" pos="Eu6">v</word>
+    <word id="w11" lemma="9" pos="0">9</word>
+    <word id="w12" lemma="." pos="Z">.</word>
+    <word id="w13" lemma="minúta" pos="SSfs6">minúte</word>
+    <word id="w14" lemma="zmariť" pos="VLdscm+">zmaril</word>
+    <word id="w15" negator="atr" lemma="nebezpečný" pos="AAfs4x">nebezpečnú</word>
+    <word id="w16" scope="w15" lemma="šanca" pos="SSfs4">šancu</word>
+    <word id="w17" lemma="Sigrista" pos="SSms2">Sigrista</word>
+    <word id="w18" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Hokej plný nasadenia a aktívneho korčuľovania vydržal až do konca prvej tretiny , brankári však nemuseli riešiť vážnejšie situácie .">
+    <word id="w1" lemma="hokej" pos="SSis1">Hokej</word>
+    <word id="w2" lemma="plný" pos="AAis1x">plný</word>
+    <word id="w3" lemma="nasadenie" pos="SSns2">nasadenia</word>
+    <word id="w4" lemma="a" pos="O">a</word>
+    <word id="w5" lemma="aktívny" pos="AAns2x">aktívneho</word>
+    <word id="w6" lemma="korčuľovanie" pos="SSns2">korčuľovania</word>
+    <word id="w7" lemma="vydržať" pos="VLdsci+">vydržal</word>
+    <word id="w8" lemma="až" pos="T">až</word>
+    <word id="w9" lemma="do" pos="Eu2">do</word>
+    <word id="w10" lemma="koniec" pos="SSis2">konca</word>
+    <word id="w11" lemma="prvý" pos="NAfs2">prvej</word>
+    <word id="w12" lemma="tretina" pos="NSfs2">tretiny</word>
+    <word id="w13" lemma="," pos="Z">,</word>
+    <word id="w14" scope="w16" lemma="brankár" pos="SSmp1">brankári</word>
+    <word id="w15" scope="w16" lemma="však" pos="T">však</word>
+    <word id="w16" negator="pre" lemma="nemusieť" pos="VLepcm-">nemuseli</word>
+    <word id="w17" scope="w16" lemma="riešiť" pos="VIe+">riešiť</word>
+    <word id="w18" scope="w16" lemma="vážny" pos="AAfp4y">vážnejšie</word>
+    <word id="w19" scope="w16" lemma="situácia" pos="SSfp4">situácie</word>
+    <word id="w20" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Aj preto bol po prvej časti pomer striel 5 : 4 .">
+    <word id="w1" lemma="aj" pos="T">Aj</word>
+    <word id="w2" lemma="preto" pos="PD">preto</word>
+    <word id="w3" lemma="byť" pos="VLescm+">bol</word>
+    <word id="w4" lemma="po" pos="Eu6">po</word>
+    <word id="w5" lemma="prvý" pos="NAfs6">prvej</word>
+    <word id="w6" lemma="časť" pos="SSfs6">časti</word>
+    <word id="w7" lemma="pomer" pos="SSis1">pomer</word>
+    <word id="w8" lemma="strela" pos="SSfp2">striel</word>
+    <word id="w9" lemma="5" pos="0">5</word>
+    <word id="w10" lemma=":" pos="Z">:</word>
+    <word id="w11" lemma="4" pos="0">4</word>
+    <word id="w12" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Druhá časť priniesla ofenzívnejší hokej v podaní oboch tímov .">
+    <word id="w1" lemma="druhý" pos="NAfs1">Druhá</word>
+    <word id="w2" lemma="časť" pos="SSfs1">časť</word>
+    <word id="w3" lemma="priniesť" pos="VLdscf+">priniesla</word>
+    <word id="w4" lemma="ofenzívny" pos="AAis4y">ofenzívnejší</word>
+    <word id="w5" lemma="hokej" pos="SSis4">hokej</word>
+    <word id="w6" lemma="v" pos="Eu6">v</word>
+    <word id="w7" lemma="podanie" pos="SSns6">podaní</word>
+    <word id="w8" lemma="oba" pos="NNip2">oboch</word>
+    <word id="w9" lemma="tím" pos="SSip2">tímov</word>
+    <word id="w10" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="V 21 . minúte dostal Švajčiar Hischier krížnu prihrávku pred Sklenárovu bránku , ale tiesnený nezakončil ideálne .">
+    <word id="w1" lemma="v" pos="Eu6">V</word>
+    <word id="w2" lemma="21" pos="0">21</word>
+    <word id="w3" lemma="." pos="Z">.</word>
+    <word id="w4" lemma="minúta" pos="SSfs6">minúte</word>
+    <word id="w5" lemma="dostať" pos="VLdscm+">dostal</word>
+    <word id="w6" lemma="Švajčiar" pos="SSms1">Švajčiar</word>
+    <word id="w7" lemma="Hischier" pos="SSms1">Hischier</word>
+    <word id="w8" lemma="krížny" pos="AAfs4x">krížnu</word>
+    <word id="w9" lemma="prihrávka" pos="SSfs4">prihrávku</word>
+    <word id="w10" lemma="pre" pos="Eu4">pred</word>
+    <word id="w11" lemma="Sklenárovu" pos="AFfs4x">Sklenárovu</word>
+    <word id="w12" lemma="bránka" pos="SSfs4">bránku</word>
+    <word id="w13" lemma="," pos="Z">,</word>
+    <word id="w14" lemma="ale" pos="O">ale</word>
+    <word id="w15" scope="w16" lemma="tiesnený" pos="VKesa+">tiesnený</word>
+    <word id="w16" negator="pre" lemma="nezakončiť" pos="VLdsam-">nezakončil</word>
+    <word id="w17" scope="w16" lemma="ideálne" pos="Dx">ideálne</word>
+    <word id="w18" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="V 27 . minúte sa do šance dostal aj Fafrák , ale narazil na pripraveného Schmida .">
+    <word id="w1" lemma="v" pos="Eu6">V</word>
+    <word id="w2" lemma="27" pos="0">27</word>
+    <word id="w3" lemma="." pos="Z">.</word>
+    <word id="w4" lemma="minúta" pos="SSfs6">minúte</word>
+    <word id="w5" lemma="sa" pos="R">sa</word>
+    <word id="w6" lemma="do" pos="Eu2">do</word>
+    <word id="w7" lemma="šanca" pos="SSfs2">šance</word>
+    <word id="w8" lemma="dostať" pos="VLdscm+">dostal</word>
+    <word id="w9" lemma="aj" pos="T">aj</word>
+    <word id="w10" lemma="Fafrák" pos="SSms1">Fafrák</word>
+    <word id="w11" lemma="," pos="Z">,</word>
+    <word id="w12" lemma="ale" pos="O">ale</word>
+    <word id="w13" lemma="naraziť" pos="VLdscm+">narazil</word>
+    <word id="w14" lemma="na" pos="Eu4">na</word>
+    <word id="w15" lemma="pripravený" pos="Gtms4x">pripraveného</word>
+    <word id="w16" lemma="Schmida" pos="SSms4">Schmida</word>
+    <word id="w17" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="V čase , keď sa hra prelievala z jednej strany na druhú , gólovo udrel slovenský tím .">
+    <word id="w1" lemma="v" pos="Eu6">V</word>
+    <word id="w2" lemma="čas" pos="SSis6">čase</word>
+    <word id="w3" lemma="," pos="Z">,</word>
+    <word id="w4" lemma="keď" pos="O">keď</word>
+    <word id="w5" lemma="sa" pos="R">sa</word>
+    <word id="w6" lemma="hra" pos="SSfs1">hra</word>
+    <word id="w7" lemma="prelievať" pos="VLescf+">prelievala</word>
+    <word id="w8" lemma="z" pos="Eu2">z</word>
+    <word id="w9" lemma="jeden" pos="NFfs2">jednej</word>
+    <word id="w10" lemma="strana" pos="SSfs2">strany</word>
+    <word id="w11" lemma="na" pos="Eu4">na</word>
+    <word id="w12" lemma="druhý" pos="NAfs4">druhú</word>
+    <word id="w13" lemma="," pos="Z">,</word>
+    <word id="w14" lemma="gólovo" pos="Dx">gólovo</word>
+    <word id="w15" lemma="udrieť" pos="VLdsci+">udrel</word>
+    <word id="w16" lemma="slovenský" pos="AAis1x">slovenský</word>
+    <word id="w17" lemma="tím" pos="SSis1">tím</word>
+    <word id="w18" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Liška v útočnom pásme obetavo získal puk , Ružička ho následne posunul pred bránku a tam Fafrák zblízka prekonal Schmida - 0 : 1 .">
+    <word id="w1" lemma="Liška" pos="SSfs1">Liška</word>
+    <word id="w2" lemma="v" pos="Eu6">v</word>
+    <word id="w3" lemma="útočný" pos="AAns6x">útočnom</word>
+    <word id="w4" lemma="pásmo" pos="SSns6">pásme</word>
+    <word id="w5" lemma="obetavo" pos="Dx">obetavo</word>
+    <word id="w6" lemma="získať" pos="VLdscm+">získal</word>
+    <word id="w7" lemma="puk" pos="SSis4">puk</word>
+    <word id="w8" lemma="," pos="Z">,</word>
+    <word id="w9" lemma="ružička" pos="SSfs5">Ružička</word>
+    <word id="w10" lemma="on" pos="PFms4">ho</word>
+    <word id="w11" lemma="následne" pos="Dx">následne</word>
+    <word id="w12" lemma="posunúť" pos="VLdscm+">posunul</word>
+    <word id="w13" lemma="pre" pos="Eu4">pred</word>
+    <word id="w14" lemma="bránka" pos="SSfs4">bránku</word>
+    <word id="w15" lemma="a" pos="O">a</word>
+    <word id="w16" lemma="tam" pos="PD">tam</word>
+    <word id="w17" lemma="Fafrák" pos="SSms1">Fafrák</word>
+    <word id="w18" lemma="zblízka" pos="Dx">zblízka</word>
+    <word id="w19" lemma="prekonať" pos="VLdscm+">prekonal</word>
+    <word id="w20" lemma="Schmida" pos="SSms1">Schmida</word>
+    <word id="w21" lemma="-" pos="Z">-</word>
+    <word id="w22" lemma="0" pos="0">0</word>
+    <word id="w23" lemma=":" pos="Z">:</word>
+    <word id="w24" lemma="1" pos="0">1</word>
+    <word id="w25" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Náskok slovenského tímu však nemal dlhé trvanie .">
+    <word id="w1" scope="w5" lemma="náskok" pos="SSis1">Náskok</word>
+    <word id="w2" scope="w5" lemma="slovenský" pos="AAis2x">slovenského</word>
+    <word id="w3" scope="w5" lemma="tím" pos="SSis2">tímu</word>
+    <word id="w4" scope="w5" lemma="však" pos="T">však</word>
+    <word id="w5" negator="pre" lemma="nemať" pos="VLesam-">nemal</word>
+    <word id="w6" scope="w5" lemma="dlhý" pos="AAns4x">dlhé</word>
+    <word id="w7" scope="w5" lemma="trvanie" pos="SSns4">trvanie</word>
+    <word id="w8" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Už o 44 sekúnd ukázal Švajčiar Nico Hischier , prečo patrí k najväčším švajčiarskym talentom .">
+    <word id="w1" lemma="už" pos="T">Už</word>
+    <word id="w2" lemma="o" pos="Eu4">o</word>
+    <word id="w3" lemma="44" pos="0">44</word>
+    <word id="w4" lemma="sekunda" pos="SSfp2">sekúnd</word>
+    <word id="w5" lemma="ukázať" pos="VLdscm+">ukázal</word>
+    <word id="w6" lemma="Švajčiar" pos="SSms1">Švajčiar</word>
+    <word id="w7" lemma="Nico" pos="SSms1">Nico</word>
+    <word id="w8" lemma="Hischier" pos="SSms1">Hischier</word>
+    <word id="w9" lemma="," pos="Z">,</word>
+    <word id="w10" lemma="prečo" pos="PD">prečo</word>
+    <word id="w11" lemma="patriť" pos="VKesc+">patrí</word>
+    <word id="w12" lemma="k" pos="Eu3">k</word>
+    <word id="w13" lemma="veľký" pos="AAmp3z">najväčším</word>
+    <word id="w14" lemma="švajčiarsky" pos="AAip3x">švajčiarskym</word>
+    <word id="w15" lemma="talent" pos="SSip3">talentom</word>
+    <word id="w16" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="V útočnom pásme si poradil s dvojicou slovenských obrancov a jeho ponuku pred odkrytú bránku nemohol Kurashev premrhať - 1 : 1 .">
+    <word id="w1" lemma="v" pos="Eu6">V</word>
+    <word id="w2" lemma="útočný" pos="AAns6x">útočnom</word>
+    <word id="w3" lemma="pásmo" pos="SSns6">pásme</word>
+    <word id="w4" lemma="si" pos="R">si</word>
+    <word id="w5" lemma="poradiť" pos="VLdscm+">poradil</word>
+    <word id="w6" lemma="s" pos="Eu7">s</word>
+    <word id="w7" lemma="dvojica" pos="SSfs7">dvojicou</word>
+    <word id="w8" lemma="slovenský" pos="AAmp2x">slovenských</word>
+    <word id="w9" lemma="obranca" pos="SSmp2">obrancov</word>
+    <word id="w10" lemma="a" pos="O">a</word>
+    <word id="w11" scope="w16" lemma="jeho" pos="PUfs4">jeho</word>
+    <word id="w12" scope="w16" lemma="ponuka" pos="SSfs4">ponuku</word>
+    <word id="w13" scope="w16" lemma="pre" pos="Eu4">pred</word>
+    <word id="w14" scope="w16" lemma="odkrytú" pos="AAfs4x">odkrytú</word>
+    <word id="w15" scope="w16" lemma="bránka" pos="SSfs4">bránku</word>
+    <word id="w16" negator="pre" lemma="nemôcť" pos="VLescm-">nemohol</word>
+    <word id="w17" scope="w16" lemma="Kurashev" pos="AAms1x">Kurashev</word>
+    <word id="w18" scope="w16" lemma="premrhať" pos="VId+">premrhať</word>
+    <word id="w19" lemma="-" pos="Z">-</word>
+    <word id="w20" lemma="1" pos="0">1</word>
+    <word id="w21" lemma=":" pos="Z">:</word>
+    <word id="w22" lemma="1" pos="0">1</word>
+    <word id="w23" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Zápas nabral na obrátkach a bolo sa na čo pozerať .">
+    <word id="w1" lemma="zápas" pos="SSis1">Zápas</word>
+    <word id="w2" lemma="nabrať" pos="VLdsci+">nabral</word>
+    <word id="w3" lemma="na" pos="Eu6">na</word>
+    <word id="w4" lemma="obrátka" pos="SSfp6">obrátkach</word>
+    <word id="w5" lemma="a" pos="O">a</word>
+    <word id="w6" lemma="byť" pos="VLescn+">bolo</word>
+    <word id="w7" lemma="sa" pos="R">sa</word>
+    <word id="w8" lemma="na" pos="Eu4">na</word>
+    <word id="w9" lemma="čo" pos="PFns4">čo</word>
+    <word id="w10" lemma="pozerať" pos="VIe+">pozerať</word>
+    <word id="w11" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="V 34 . minúte sa v dvoch sľubných príležitostiach ocitol Švajčiar Patry , Slováci kontrovali šancou Fafráka i pokusom Ružičku .">
+    <word id="w1" lemma="v" pos="Eu6">V</word>
+    <word id="w2" lemma="34" pos="0">34</word>
+    <word id="w3" lemma="." pos="Z">.</word>
+    <word id="w4" lemma="minúta" pos="SSfs6">minúte</word>
+    <word id="w5" lemma="sa" pos="R">sa</word>
+    <word id="w6" lemma="v" pos="Eu6">v</word>
+    <word id="w7" lemma="dva" pos="NNfp6">dvoch</word>
+    <word id="w8" lemma="sľubný" pos="AAfp6x">sľubných</word>
+    <word id="w9" lemma="príležitosť" pos="SSfp6">príležitostiach</word>
+    <word id="w10" lemma="ocitnúť" pos="VLdscm+">ocitol</word>
+    <word id="w11" lemma="Švajčiar" pos="SSms1">Švajčiar</word>
+    <word id="w12" lemma="Patry" pos="SFms1">Patry</word>
+    <word id="w13" lemma="," pos="Z">,</word>
+    <word id="w14" lemma="slovák" pos="SSmp1">Slováci</word>
+    <word id="w15" lemma="kontrovať" pos="VLepcm+">kontrovali</word>
+    <word id="w16" lemma="šanca" pos="SSfs7">šancou</word>
+    <word id="w17" lemma="Fafráka" pos="SSms2">Fafráka</word>
+    <word id="w18" lemma="i" pos="O">i</word>
+    <word id="w19" lemma="pokus" pos="SSis7">pokusom</word>
+    <word id="w20" lemma="ružička" pos="SSfs4">Ružičku</word>
+    <word id="21" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Druhá prestávka rozdelila prvú slovenskú presilovku na dve takmer rovnaké polovice .">
+    <word id="w1" lemma="druhý" pos="NAfs1">Druhá</word>
+    <word id="w2" lemma="prestávka" pos="SSfs1">prestávka</word>
+    <word id="w3" lemma="rozdeliť" pos="VLdscf+">rozdelila</word>
+    <word id="w4" lemma="prvý" pos="NAfs4">prvú</word>
+    <word id="w5" lemma="slovenský" pos="AAfs4x">slovenskú</word>
+    <word id="w6" lemma="presilovka" pos="SSfs4">presilovku</word>
+    <word id="w7" lemma="na" pos="Eu4">na</word>
+    <word id="w8" lemma="dva" pos="NNnp4">dve</word>
+    <word id="w9" lemma="takmer" pos="T">takmer</word>
+    <word id="w10" lemma="rovnaký" pos="AAfp4x">rovnaké</word>
+    <word id="w11" lemma="polovica" pos="SSfp4">polovice</word>
+    <word id="w12" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="V jej druhej časti si Ružička vytvoril dobrú pozíciu , ale spomedzi kruhov namieril nad bránku .">
+    <word id="w1" lemma="v" pos="Eu6">V</word>
+    <word id="w2" lemma="jej" pos="PUfs6">jej</word>
+    <word id="w3" lemma="druhý" pos="NAfs6">druhej</word>
+    <word id="w4" lemma="časť" pos="SSfs6">časti</word>
+    <word id="w5" lemma="si" pos="R">si</word>
+    <word id="w6" lemma="Ružička" pos="SSms1">Ružička</word>
+    <word id="w7" lemma="vytvoriť" pos="VLdscm+">vytvoril</word>
+    <word id="w8" lemma="dobrý" pos="AAfs4x">dobrú</word>
+    <word id="w9" lemma="pozícia" pos="SSfs4">pozíciu</word>
+    <word id="w10" lemma="," pos="Z">,</word>
+    <word id="w11" lemma="ale" pos="O">ale</word>
+    <word id="w12" lemma="spomedzi" pos="Eu2">spomedzi</word>
+    <word id="w13" lemma="kruh" pos="SSip2">kruhov</word>
+    <word id="w14" lemma="namieriť" pos="VLdscm+">namieril</word>
+    <word id="w15" lemma="na" pos="Eu4">nad</word>
+    <word id="w16" lemma="bránka" pos="SSfs4">bránku</word>
+    <word id="w17" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Čo sa nepodarilo jemu , vyšlo v 42 . minúte Jozefovi Balážovi .">
+    <word id="w1" scope="w3" lemma="čo" pos="PFns1">Čo</word>
+    <word id="w2" scope="w3" lemma="sa" pos="R">sa</word>
+    <word id="w3" negator="pre" lemma="nepodariť" pos="VLdscn-">nepodarilo</word>
+    <word id="w4" scope="w3" lemma="on" pos="PFms3">jemu</word>
+    <word id="w5" lemma="," pos="Z">,</word>
+    <word id="w6" lemma="vyjsť" pos="VLdscn+">vyšlo</word>
+    <word id="w7" lemma="v" pos="Eu6">v</word>
+    <word id="w8" lemma="42" pos="0">42</word>
+    <word id="w9" lemma="." pos="Z">.</word>
+    <word id="w10" lemma="minúta" pos="SSfs6">minúte</word>
+    <word id="w11" lemma="jozef" pos="SSms3">Jozefovi</word>
+    <word id="w12" lemma="baláž" pos="SSms3">Balážovi</word>
+    <word id="w13" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Útočník , ktorý sa v prvých dvoch zápasoch nezmestil do zostavy , dokorčuľoval puk do rohu klziska , odkiaľ nastrelil puk na bránku a Schmid bol na Korenčíkov teč bezmocný - 1 : 2 .">
+    <word id="w1" lemma="útočník" pos="SSms1">Útočník</word>
+    <word id="w2" scope="w9" lemma="," pos="Z">,</word>
+    <word id="w3" scope="w9" lemma="ktorý" pos="PAms1">ktorý</word>
+    <word id="w4" scope="w9" lemma="sa" pos="R">sa</word>
+    <word id="w5" scope="w9" lemma="v" pos="Eu6">v</word>
+    <word id="w6" scope="w9" lemma="prvý" pos="NAip6">prvých</word>
+    <word id="w7" scope="w9" lemma="dva" pos="NNip6">dvoch</word>
+    <word id="w8" scope="w9" lemma="zápas" pos="SSip6">zápasoch</word>
+    <word id="w9" negator="pre" lemma="nezmestiť" pos="VLdscm-">nezmestil</word>
+    <word id="w10" scope="w9" lemma="do" pos="Eu2">do</word>
+    <word id="w11" scope="w9" lemma="zostava" pos="SSfs2">zostavy</word>
+    <word id="w12" lemma="," pos="Z">,</word>
+    <word id="w13" lemma="dokorčuľoval" pos="VLdscm+">dokorčuľoval</word>
+    <word id="w14" lemma="puk" pos="SSis4">puk</word>
+    <word id="w15" lemma="do" pos="Eu2">do</word>
+    <word id="w16" lemma="roh" pos="SSis2">rohu</word>
+    <word id="w17" lemma="klzisko" pos="SSns2">klziska</word>
+    <word id="w18" lemma="," pos="Z">,</word>
+    <word id="w19" lemma="odkiaľ" pos="PD">odkiaľ</word>
+    <word id="w20" lemma="nastreliť" pos="VLdscm+">nastrelil</word>
+    <word id="w21" lemma="puk" pos="SSis4">puk</word>
+    <word id="w22" lemma="na" pos="Eu4">na</word>
+    <word id="w23" lemma="bránka" pos="SSfs4">bránku</word>
+    <word id="w24" lemma="a" pos="O">a</word>
+    <word id="w25" scope="w30" lemma="Schmid" pos="SSms1">Schmid</word>
+    <word id="w26" lemma="byť" pos="VLescm+">bol</word>
+    <word id="w27" lemma="na" pos="Eu4">na</word>
+    <word id="w28" lemma="Korenčíkov" pos="SSmp4">Korenčíkov</word>
+    <word id="w29" lemma="tiecť" pos="VMesb+">teč</word>
+    <word id="w30" negator="sub" lemma="bezmocný" pos="AAms1x">bezmocný</word>
+    <word id="w31" lemma="-" pos="Z">-</word>
+    <word id="w32" lemma="1" pos="0">1</word>
+    <word id="w33" lemma=":" pos="Z">:</word>
+    <word id="w34" lemma="2" pos="0">2</word>
+    <word id="w35" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Švajčiari pridali v ofenzíve , zodpovednosť sa na seba snažil vziať najmä Hischier , ktorý v 45 . minúte dvakrát strieľal nepresne .">
+    <word id="w1" lemma="švajčiar" pos="SSmp1">Švajčiari</word>
+    <word id="w2" lemma="pridať" pos="VLdpcm+">pridali</word>
+    <word id="w3" lemma="v" pos="Eu6">v</word>
+    <word id="w4" lemma="ofenzíva" pos="SSfs6">ofenzíve</word>
+    <word id="w5" lemma="," pos="Z">,</word>
+    <word id="w6" lemma="zodpovednosť" pos="SSfs4">zodpovednosť</word>
+    <word id="w7" lemma="sa" pos="R">sa</word>
+    <word id="w8" lemma="na" pos="Eu4">na</word>
+    <word id="w9" lemma="seba" pos="PPhs4">seba</word>
+    <word id="w10" lemma="snažiť" pos="VLescm+">snažil</word>
+    <word id="w11" lemma="vziať" pos="VId+">vziať</word>
+    <word id="w12" lemma="najmä" pos="T">najmä</word>
+    <word id="w13" lemma="Hischier" pos="SSms4">Hischier</word>
+    <word id="w14" lemma="," pos="Z">,</word>
+    <word id="w15" lemma="ktorý" pos="PAms1">ktorý</word>
+    <word id="w16" lemma="v" pos="Eu6">v</word>
+    <word id="w17" lemma="45" pos="0">45</word>
+    <word id="w18" lemma="." pos="Z">.</word>
+    <word id="w19" lemma="minúta" pos="SSfs6">minúte</word>
+    <word id="w20" lemma="dvakrát" pos="ND">dvakrát</word>
+    <word id="w21" scope="w22" lemma="strieľať" pos="VLescm+">strieľal</word>
+    <word id="w22" negator="adv" lemma="nepresne" pos="Dx">nepresne</word>
+    <word id="w23" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Náskok Slovákov sa v 48 . minúte snažil zvýšiť Liška , jeho strela spomedzi kruhov sa však iba obtrela o ľavú žrď .">
+    <word id="w1" lemma="náskok" pos="SSis1">Náskok</word>
+    <word id="w2" lemma="slovák" pos="SSmp2">Slovákov</word>
+    <word id="w3" lemma="sa" pos="R">sa</word>
+    <word id="w4" lemma="v" pos="Eu6">v</word>
+    <word id="w5" lemma="48" pos="0">48</word>
+    <word id="w6" lemma="." pos="Z">.</word>
+    <word id="w7" lemma="minúta" pos="SSfs6">minúte</word>
+    <word id="w8" lemma="snažiť" pos="VLescm+">snažil</word>
+    <word id="w9" lemma="zvýšiť" pos="VId+">zvýšiť</word>
+    <word id="w10" lemma="Liška" pos="SSms4">Liška</word>
+    <word id="w11" lemma="," pos="Z">,</word>
+    <word id="w12" lemma="jeho" pos="PUfs1">jeho</word>
+    <word id="w13" lemma="strela" pos="SSfs1">strela</word>
+    <word id="w14" lemma="spomedzi" pos="Eu2">spomedzi</word>
+    <word id="w15" lemma="kruh" pos="SSip2">kruhov</word>
+    <word id="w16" lemma="sa" pos="R">sa</word>
+    <word id="w17" lemma="však" pos="T">však</word>
+    <word id="w18" lemma="iba" pos="T">iba</word>
+    <word id="w19" lemma="obtrieť" pos="VLdscf+">obtrela</word>
+    <word id="w20" lemma="o" pos="Eu4">o</word>
+    <word id="w21" lemma="ľavý" pos="AAfs4x">ľavú</word>
+    <word id="w22" lemma="žrď" pos="SSfs4">žrď</word>
+    <word id="w23" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Slováci sa v zostávajúcich minútach sústredili na ubránenie tesného náskoku a do ofenzívy sa príliš nepúšťali .">
+    <word id="w1" lemma="slovák" pos="SSmp1">Slováci</word>
+    <word id="w2" lemma="sa" pos="R">sa</word>
+    <word id="w3" lemma="v" pos="Eu6">v</word>
+    <word id="w4" lemma="zostávajúci" pos="Gkfp6x">zostávajúcich</word>
+    <word id="w5" lemma="minúta" pos="SSfp6">minútach</word>
+    <word id="w6" lemma="sústrediť" pos="VLdpcm+">sústredili</word>
+    <word id="w7" lemma="na" pos="Eu4">na</word>
+    <word id="w8" lemma="ubránenie" pos="SSns4">ubránenie</word>
+    <word id="w9" lemma="tesný" pos="AAis2x">tesného</word>
+    <word id="w10" lemma="náskok" pos="SSis2">náskoku</word>
+    <word id="w11" lemma="a" pos="O">a</word>
+    <word id="w12" scope="w16" lemma="do" pos="Eu2">do</word>
+    <word id="w13" scope="w16" lemma="ofenzíva" pos="SSfs2">ofenzívy</word>
+    <word id="w14" scope="w16" lemma="sa" pos="R">sa</word>
+    <word id="w15" scope="w16" lemma="príliš" pos="Dx">príliš</word>
+    <word id="w16" negator="pre" lemma="nepúšťať" pos="VLepcm-">nepúšťali</word>
+    <word id="w17" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Zároveň sa im však darilo držať Švajčiarov v dostatočnej vzdialenosti od brankára Sklenára .">
+    <word id="w1" lemma="zároveň" pos="Dx">Zároveň</word>
+    <word id="w2" lemma="sa" pos="R">sa</word>
+    <word id="w3" lemma="on" pos="PFmp3">im</word>
+    <word id="w4" lemma="však" pos="T">však</word>
+    <word id="w5" lemma="dariť" pos="VLescn+">darilo</word>
+    <word id="w6" lemma="držať" pos="VIe+">držať</word>
+    <word id="w7" lemma="švajčiar" pos="SSmp4">Švajčiarov</word>
+    <word id="w8" lemma="v" pos="Eu6">v</word>
+    <word id="w9" lemma="dostatočný" pos="AAfs6x">dostatočnej</word>
+    <word id="w10" lemma="vzdialenosť" pos="SSfs6">vzdialenosti</word>
+    <word id="w11" lemma="od" pos="Eu2">od</word>
+    <word id="w12" lemma="brankár" pos="SSms2">brankára</word>
+    <word id="w13" lemma="Sklenára" pos="SSms2">Sklenára</word>
+    <word id="w14" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Napokon si zverenci Norberta Javorčíka pripísali druhé víťazstvo na turnaji a do štvťfinále postúpili z tretieho miesta v A - skupine .">
+    <word id="w1" lemma="napokon" pos="Dx">Napokon</word>
+    <word id="w2" lemma="si" pos="R">si</word>
+    <word id="w3" lemma="zverenec" pos="SSmp1">zverenci</word>
+    <word id="w4" lemma="Norbert" pos="SSms2">Norberta</word>
+    <word id="w5" lemma="Javorčíka" pos="SSms2">Javorčíka</word>
+    <word id="w6" lemma="pripísať" pos="VLdpcf+">pripísali</word>
+    <word id="w7" lemma="druhý" pos="NAns4">druhé</word>
+    <word id="w8" lemma="víťazstvo" pos="SSns4">víťazstvo</word>
+    <word id="w9" lemma="na" pos="Eu6">na</word>
+    <word id="w10" lemma="turnaj" pos="SSis6">turnaji</word>
+    <word id="w11" lemma="a" pos="O">a</word>
+    <word id="w12" lemma="do" pos="Eu2">do</word>
+    <word id="w13" lemma="štvťfinále" pos="SSfp2">štvťfinále</word>
+    <word id="w14" lemma="postúpiť" pos="VLdpcm+">postúpili</word>
+    <word id="w15" lemma="z" pos="Eu2">z</word>
+    <word id="w16" lemma="tretí" pos="NAns2">tretieho</word>
+    <word id="w17" lemma="miesto" pos="SSns2">miesta</word>
+    <word id="w18" lemma="v" pos="Eu6">v</word>
+    <word id="w19" lemma="a" pos="Q">A</word>
+    <word id="w20" lemma="-" pos="Z">-</word>
+    <word id="w21" lemma="skupina" pos="SSfs3">skupine</word>
+    <word id="w22" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Norbert Javorčík , tréner SR : &quot; Dnes to bolo veľmi dramatické .">
+    <word id="w1" lemma="Norbert" pos="SSms1">Norbert</word>
+    <word id="w2" lemma="Javorčík" pos="SSms1">Javorčík</word>
+    <word id="w3" lemma="," pos="Z">,</word>
+    <word id="w4" lemma="tréner" pos="SSms1">tréner</word>
+    <word id="w5" lemma="SR" pos="W">SR</word>
+    <word id="w6" lemma=":" pos="Z">:</word>
+    <word id="w7" lemma="&quot;" pos="Z">"</word>
+    <word id="w8" lemma="dnes" pos="Dx">Dnes</word>
+    <word id="w9" lemma="to" pos="PFns1">to</word>
+    <word id="w10" lemma="byť" pos="VLescn+">bolo</word>
+    <word id="w11" lemma="veľmi" pos="Dx">veľmi</word>
+    <word id="w12" lemma="dramatický" pos="AAns1x">dramatické</word>
+    <word id="w13" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Švajčiari takisto vedeli , o čo ide , a nastúpili dobre pripravení .">
+    <word id="w1" lemma="švajčiar" pos="SSmp1">Švajčiari</word>
+    <word id="w2" lemma="takisto" pos="PD">takisto</word>
+    <word id="w3" lemma="vedieť" pos="VLepcm+">vedeli</word>
+    <word id="w4" lemma="," pos="Z">,</word>
+    <word id="w5" lemma="o" pos="Eu4">o</word>
+    <word id="w6" lemma="čo" pos="PFns4">čo</word>
+    <word id="w7" lemma="ísť" pos="VKesc+">ide</word>
+    <word id="w8" lemma="," pos="Z">,</word>
+    <word id="w9" lemma="a" pos="O">a</word>
+    <word id="w10" lemma="nastúpiť" pos="VLdpcm+">nastúpili</word>
+    <word id="w11" lemma="dobre" pos="Dx">dobre</word>
+    <word id="w12" lemma="pripravený" pos="Gtmp1x">pripravení</word>
+    <word id="w13" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Zvíťazili sme vďaka nezlomnej vôli .">
+    <word id="w1" lemma="zvíťaziť" pos="VLdpah+">Zvíťazili</word>
+    <word id="w2" lemma="byť" pos="VKepa+">sme</word>
+    <word id="w3" lemma="vďaka" pos="Eu3">vďaka</word>
+    <word id="w4" negator="atr" lemma="nezlomný" pos="AAfs3x">nezlomnej</word>
+    <word id="w5" scope="w4" lemma="vôľa" pos="SSfs3">vôli</word>
+    <word id="w6" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Pred šampionátom sme si dali za cieľ odohrať dobré zápasy .">
+    <word id="w1" lemma="pred" pos="Eu7">Pred</word>
+    <word id="w2" lemma="šampionát" pos="SSis7">šampionátom</word>
+    <word id="w3" lemma="byť" pos="VKepa+">sme</word>
+    <word id="w4" lemma="si" pos="R">si</word>
+    <word id="w5" lemma="dať" pos="VLjpah+">dali</word>
+    <word id="w6" lemma="za" pos="Eu4">za</word>
+    <word id="w7" lemma="cieľ" pos="SSis4">cieľ</word>
+    <word id="w8" lemma="odohrať" pos="VId+">odohrať</word>
+    <word id="w9" lemma="dobrý" pos="AAip4x">dobré</word>
+    <word id="w10" lemma="zápas" pos="SSip4">zápasy</word>
+    <word id="w11" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="To bola naša najdôležitejšia úloha .">
+    <word id="w1" lemma="to" pos="PFns1">To</word>
+    <word id="w2" lemma="byť" pos="VLescf+">bola</word>
+    <word id="w3" lemma="náš" pos="PFfs1">naša</word>
+    <word id="w4" lemma="dôležitý" pos="AAfs1z">najdôležitejšia</word>
+    <word id="w5" lemma="úloha" pos="SSfs1">úloha</word>
+    <word id="w6" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Spoločne sme ju splnili .">
+    <word id="w1" lemma="spoločne" pos="Dx">Spoločne</word>
+    <word id="w2" lemma="byť" pos="VKepa+">sme</word>
+    <word id="w3" lemma="ona" pos="PFfs4">ju</word>
+    <word id="w4" lemma="splniť" pos="VLdpah+">splnili</word>
+    <word id="w5" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Hra v každom jednom zápase bola mimoriadne kvalitná .">
+    <word id="w1" lemma="hra" pos="SSfs1">Hra</word>
+    <word id="w2" lemma="v" pos="Eu6">v</word>
+    <word id="w3" lemma="každý" pos="PAis6">každom</word>
+    <word id="w4" lemma="jeden" pos="NFis6">jednom</word>
+    <word id="w5" lemma="zápas" pos="SSis6">zápase</word>
+    <word id="w6" lemma="byť" pos="VLescf+">bola</word>
+    <word id="w7" negator="adv" lemma="mimoriadne" pos="Dx">mimoriadne</word>
+    <word id="w8" lemma="kvalitný" pos="AAfs1x">kvalitná</word>
+    <word id="w9" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Rusi budú naozaj ťažký štvrťfinálový súper . &quot;">
+    <word id="w1" lemma="Rus" pos="SSmp1">Rusi</word>
+    <word id="w2" lemma="byť" pos="VBepc+">budú</word>
+    <word id="w3" lemma="naozaj" pos="T">naozaj</word>
+    <word id="w4" lemma="ťažký" pos="AAms1x">ťažký</word>
+    <word id="w5" lemma="štvrťfinálový" pos="AAms1x">štvrťfinálový</word>
+    <word id="w6" lemma="súper" pos="SSms1">súper</word>
+    <word id="w7" lemma="." pos="Z">.</word>
+    <word id="w8" lemma="&quot;" pos="Z">"</word>
+  </sentence>
+  <sentence text="Marek Korenčík , obranca , strelec víťazného gólu : &quot; Pri víťaznom góle sa mi puk odrazil od korčule .">
+    <word id="w1" lemma="marek" pos="SSms1">Marek</word>
+    <word id="w2" lemma="Korenčík" pos="SSms1">Korenčík</word>
+    <word id="w3" lemma="," pos="Z">,</word>
+    <word id="w4" lemma="obranca" pos="SSms1">obranca</word>
+    <word id="w5" lemma="," pos="Z">,</word>
+    <word id="w6" lemma="strelec" pos="SSms1">strelec</word>
+    <word id="w7" lemma="víťazný" pos="AAis2x">víťazného</word>
+    <word id="w8" lemma="gól" pos="SSis2">gólu</word>
+    <word id="w9" lemma=":" pos="Z">:</word>
+    <word id="w10" lemma="&quot;" pos="Z">"</word>
+    <word id="w11" lemma="pri" pos="Eu6">Pri</word>
+    <word id="w12" lemma="víťazný" pos="AAis6x">víťaznom</word>
+    <word id="w13" lemma="gól" pos="SSis6">góle</word>
+    <word id="w14" lemma="sa" pos="R">sa</word>
+    <word id="w15" lemma="ja" pos="PPhs3">mi</word>
+    <word id="w16" lemma="puk" pos="SSis1">puk</word>
+    <word id="w17" lemma="odraziť" pos="VLdsci+">odrazil</word>
+    <word id="w18" lemma="od" pos="Eu2">od</word>
+    <word id="w19" lemma="korčuľa" pos="SSfs2">korčule</word>
+    <word id="w20" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Myslím si , že ja som bol autor toho gólu , ale to nie je dôležité .">
+    <word id="w1" lemma="myslieť" pos="VKesa+">Myslím</word>
+    <word id="w2" lemma="si" pos="R">si</word>
+    <word id="w3" lemma="," pos="Z">,</word>
+    <word id="w4" lemma="že" pos="O">že</word>
+    <word id="w5" lemma="ja" pos="PPhs1">ja</word>
+    <word id="w6" lemma="byť" pos="VKesa+">som</word>
+    <word id="w7" lemma="byť" pos="VLesam+">bol</word>
+    <word id="w8" lemma="autor" pos="SSms1">autor</word>
+    <word id="w9" lemma="ten" pos="PFis2">toho</word>
+    <word id="w10" lemma="gól" pos="SSis2">gólu</word>
+    <word id="w11" lemma="," pos="Z">,</word>
+    <word id="w12" lemma="ale" pos="O">ale</word>
+    <word id="w13" scope="w15" lemma="to" pos="PFns1">to</word>
+    <word id="w14" negator="nie" lemma="nie" pos="T">nie</word>
+    <word id="w15" negator="pre" scope="w14" lemma="byť" pos="VKesc+">je</word>
+    <word id="w16" scope="w15" lemma="dôležitý" pos="AAns1x">dôležité</word>
+    <word id="w17" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Dôležité je , že sme zvíťazili a ideme do štvrťfinále pozitívne naladení . &quot;">
+    <word id="w1" lemma="dôležitý" pos="AAns1x">Dôležité</word>
+    <word id="w2" lemma="byť" pos="VKesc+">je</word>
+    <word id="w3" lemma="," pos="Z">,</word>
+    <word id="w4" lemma="že" pos="O">že</word>
+    <word id="w5" lemma="byť" pos="VKepa+">sme</word>
+    <word id="w6" lemma="zvíťaziť" pos="VLdpah+">zvíťazili</word>
+    <word id="w7" lemma="a" pos="O">a</word>
+    <word id="w8" lemma="ísť" pos="VKepa+">ideme</word>
+    <word id="w9" lemma="do" pos="Eu2">do</word>
+    <word id="w10" lemma="štvrťfinále" pos="SUns2">štvrťfinále</word>
+    <word id="w11" lemma="pozitívne" pos="Dx">pozitívne</word>
+    <word id="w12" lemma="naladený" pos="Gtmp1x">naladení</word>
+    <word id="w13" lemma="." pos="Z">.</word>
+    <word id="w14" lemma="&quot;" pos="Z">"</word>
+  </sentence>
+  <sentence text="Jozef Baláž , útočník SR : &quot; Bol to ťažký zápas .">
+    <word id="w1" lemma="jozef" pos="SSms1">Jozef</word>
+    <word id="w2" lemma="baláž" pos="SSms1">Baláž</word>
+    <word id="w3" lemma="," pos="Z">,</word>
+    <word id="w4" lemma="útočník" pos="SSms1">útočník</word>
+    <word id="w5" lemma="SR" pos="W">SR</word>
+    <word id="w6" lemma=":" pos="Z">:</word>
+    <word id="w7" lemma="&quot;" pos="Z">"</word>
+    <word id="w8" lemma="byť" pos="VLesci+">Bol</word>
+    <word id="w9" lemma="to" pos="PFns1">to</word>
+    <word id="w10" lemma="ťažký" pos="AAis1x">ťažký</word>
+    <word id="w11" lemma="zápas" pos="SSis1">zápas</word>
+    <word id="w12" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Snažili sme sa v ňom hrať svoju hru .">
+    <word id="w1" lemma="snažiť" pos="VLepah+">Snažili</word>
+    <word id="w2" lemma="byť" pos="VKepa+">sme</word>
+    <word id="w3" lemma="sa" pos="R">sa</word>
+    <word id="w4" lemma="v" pos="Eu6">v</word>
+    <word id="w5" lemma="on" pos="PFms6">ňom</word>
+    <word id="w6" lemma="hrať" pos="VIe+">hrať</word>
+    <word id="w7" lemma="svoj" pos="PFfs4">svoju</word>
+    <word id="w8" lemma="hra" pos="SSfs4">hru</word>
+    <word id="w9" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="To sme dodržiavali a sme radi , že to vyšlo .">
+    <word id="w1" lemma="to" pos="PFns4">To</word>
+    <word id="w2" lemma="byť" pos="VKepa+">sme</word>
+    <word id="w3" lemma="dodržiavať" pos="VLepah+">dodržiavali</word>
+    <word id="w4" lemma="a" pos="O">a</word>
+    <word id="w5" lemma="byť" pos="VKepa+">sme</word>
+    <word id="w6" lemma="rád" pos="AUmp1x">radi</word>
+    <word id="w7" lemma="," pos="Z">,</word>
+    <word id="w8" lemma="že" pos="O">že</word>
+    <word id="w9" lemma="to" pos="PFns1">to</word>
+    <word id="w10" lemma="vyjsť" pos="VLdscn+">vyšlo</word>
+    <word id="w11" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Sme radi , že sme sa vyhli USA a vo štvrťfinále spravíme všetko pre postup . &quot;">
+    <word id="w1" lemma="byť" pos="VKepa+">Sme</word>
+    <word id="w2" lemma="rád" pos="AUmp1x">radi</word>
+    <word id="w3" lemma="," pos="Z">,</word>
+    <word id="w4" lemma="že" pos="O">že</word>
+    <word id="w5" lemma="byť" pos="VKepa+">sme</word>
+    <word id="w6" lemma="sa" pos="R">sa</word>
+    <word id="w7" lemma="vyhnúť" pos="VLdpah+">vyhli</word>
+    <word id="w8" lemma="USA" pos="W">USA</word>
+    <word id="w9" lemma="a" pos="O">a</word>
+    <word id="w10" lemma="v" pos="Ev6">vo</word>
+    <word id="w11" lemma="štvrťfinále" pos="SUns6">štvrťfinále</word>
+    <word id="w12" lemma="spraviť" pos="VKdpa+">spravíme</word>
+    <word id="w13" lemma="všetok" pos="PFns4">všetko</word>
+    <word id="w14" lemma="pre" pos="Eu4">pre</word>
+    <word id="w15" lemma="postup" pos="SSis4">postup</word>
+    <word id="w16" lemma="." pos="Z">.</word>
+    <word id="w17" lemma="&quot;" pos="Z">"</word>
+  </sentence>
+</document>
+

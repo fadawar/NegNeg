@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <sentence text="POPRAD .">
+    <word id="w1" lemma="poprad" pos="SSis1">POPRAD</word>
+    <word id="w2" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="SPIŠSKÁ NOVÁ VES .">
+    <word id="w1" lemma="spišský" pos="AAfs1x">SPIŠSKÁ</word>
+    <word id="w2" lemma="nový" pos="AAfs1x">NOVÁ</word>
+    <word id="w3" lemma="VES" pos="%">VES</word>
+    <word id="w4" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Najproduktívnejším hráčom MS do 18 rokov v hokeji je po skončení základných skupín suverénne fínsky útočník Kristian Vesalainen so šiestimi gólmi a piatimi asistenciami .">
+    <word id="w1" lemma="produktívny" pos="AAms7z">Najproduktívnejším</word>
+    <word id="w2" lemma="hráč" pos="SSms7">hráčom</word>
+    <word id="w3" lemma="MS" pos="W">MS</word>
+    <word id="w4" lemma="do" pos="Eu2">do</word>
+    <word id="w5" lemma="18" pos="0">18</word>
+    <word id="w6" lemma="rok" pos="SSip2">rokov</word>
+    <word id="w7" lemma="v" pos="Eu6">v</word>
+    <word id="w8" lemma="hokej" pos="SSis6">hokeji</word>
+    <word id="w9" lemma="byť" pos="VKesc+">je</word>
+    <word id="w10" lemma="po" pos="Eu6">po</word>
+    <word id="w11" lemma="skončenie" pos="SSns6">skončení</word>
+    <word id="w12" lemma="základný" pos="AAfp2x">základných</word>
+    <word id="w13" lemma="skupina" pos="SSfp2">skupín</word>
+    <word id="w14" lemma="suverénne" pos="Dx">suverénne</word>
+    <word id="w15" lemma="fínsky" pos="AAms1x">fínsky</word>
+    <word id="w16" lemma="útočník" pos="SSms1">útočník</word>
+    <word id="w17" lemma="Kristian" pos="SSms1">Kristian</word>
+    <word id="w18" lemma="Vesalainen" pos="SSms1">Vesalainen</word>
+    <word id="w19" lemma="s" pos="Ev7">so</word>
+    <word id="w20" lemma="šesť" pos="NUfp7">šiestimi</word>
+    <word id="w21" lemma="gól" pos="SSip7">gólmi</word>
+    <word id="w22" lemma="s" pos="Eu7">a</word>
+    <word id="w23" lemma="päť" pos="NUfp7">piatimi</word>
+    <word id="w24" lemma="asistencia" pos="SSfp7">asistenciami</word>
+    <word id="w25" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Vďaka hetriku , ktorý strelil v poslednom zápase prvej fázy turnaja Kanade , sa vyšvihol aj na čelo poradia najlepších strelcov .">
+    <word id="w1" lemma="vďaka" pos="Eu3">Vďaka</word>
+    <word id="w2" lemma="hetrik" pos="SSis3">hetriku</word>
+    <word id="w3" lemma="," pos="Z">,</word>
+    <word id="w4" lemma="ktorý" pos="PAis1">ktorý</word>
+    <word id="w5" lemma="streliť" pos="VLdsci+">strelil</word>
+    <word id="w6" lemma="v" pos="Eu6">v</word>
+    <word id="w7" lemma="posledný" pos="AAis6x">poslednom</word>
+    <word id="w8" lemma="zápas" pos="SSis6">zápase</word>
+    <word id="w9" lemma="prvý" pos="NAfs2">prvej</word>
+    <word id="w10" lemma="fáza" pos="SSfs2">fázy</word>
+    <word id="w11" lemma="turnaj" pos="SSis2">turnaja</word>
+    <word id="w12" lemma="kanada" pos="SSfs6">Kanade</word>
+    <word id="w13" lemma="," pos="Z">,</word>
+    <word id="w14" lemma="sa" pos="R">sa</word>
+    <word id="w15" lemma="vyšvihnúť" pos="VLdscm+">vyšvihol</word>
+    <word id="w16" lemma="aj" pos="T">aj</word>
+    <word id="w17" lemma="na" pos="Eu4">na</word>
+    <word id="w18" lemma="čelo" pos="SSns4">čelo</word>
+    <word id="w19" lemma="poradiť" pos="VKdpc+">poradia</word>
+    <word id="w20" lemma="dobrý" pos="AAmp2z">najlepších</word>
+    <word id="w21" lemma="strelec" pos="SSmp2">strelcov</word>
+    <word id="w22" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Zo Slovákov je stále najproduktívnejší so štyrmi bodmi ( 3 + 1 ) Patrik Hrehorčák na 19 .">
+    <word id="w1" lemma="z" pos="Ev2">Zo</word>
+    <word id="w2" lemma="slovák" pos="SSmp2">Slovákov</word>
+    <word id="w3" lemma="byť" pos="VKesc+">je</word>
+    <word id="w4" lemma="stále" pos="Dx">stále</word>
+    <word id="w5" lemma="produktívny" pos="AAis1z">najproduktívnejší</word>
+    <word id="w6" lemma="s" pos="Ev7">so</word>
+    <word id="w7" lemma="štyri" pos="NNip7">štyrmi</word>
+    <word id="w8" lemma="bod" pos="SSip7">bodmi</word>
+    <word id="w9" lemma="(" pos="Z">(</word>
+    <word id="w10" lemma="3" pos="0">3</word>
+    <word id="w11" lemma="+" pos="Z">+</word>
+    <word id="w12" lemma="1" pos="0">1</word>
+    <word id="w13" lemma=")" pos="Z">)</word>
+    <word id="w14" lemma="patrik" pos="SSms1">Patrik</word>
+    <word id="w15" lemma="Hrehorčák" pos="SSms1">Hrehorčák</word>
+    <word id="w16" lemma="na" pos="Eu6">na</word>
+    <word id="w17" lemma="19" pos="0">19</word>
+    <word id="w18" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="mieste , bodovo sa však naňho dotiahli Adam Liška ( 2 + 2 ) a Adam Ružička ( 1 + 3 ) .">
+    <word id="w1" lemma="miesto" pos="SSns6">mieste</word>
+    <word id="w2" lemma="," pos="Z">,</word>
+    <word id="w3" lemma="bodovo" pos="Dx">bodovo</word>
+    <word id="w4" lemma="sa" pos="R">sa</word>
+    <word id="w5" lemma="však" pos="T">však</word>
+    <word id="w6" lemma="na_on" pos="PFms4g">naňho</word>
+    <word id="w7" lemma="dotiahnuť" pos="VLdpcm+">dotiahli</word>
+    <word id="w8" lemma="adam" pos="SSms1">Adam</word>
+    <word id="w9" lemma="Liška" pos="SSms1">Liška</word>
+    <word id="w10" lemma="(" pos="Z">(</word>
+    <word id="w11" lemma="2" pos="0">2</word>
+    <word id="w12" lemma="+" pos="Z">+</word>
+    <word id="w13" lemma="2" pos="0">2</word>
+    <word id="w14" lemma=")" pos="Z">)</word>
+    <word id="w15" lemma="a" pos="O">a</word>
+    <word id="w16" lemma="adam" pos="SSms1">Adam</word>
+    <word id="w17" lemma="Ružička" pos="SSms1">Ružička</word>
+    <word id="w18" lemma="(" pos="Z">(</word>
+    <word id="w19" lemma="1" pos="0">1</word>
+    <word id="w20" lemma="+" pos="Z">+</word>
+    <word id="w21" lemma="3" pos="0">3</word>
+    <word id="w22" lemma=")" pos="Z">)</word>
+    <word id="w23" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Kristian Vesalainen , Miro Heiskanen a Joni Ikonen figurujú v kanadskom bodovaní na prvých troch miestach .">
+    <word id="w1" lemma="Kristian" pos="SSms1">Kristian</word>
+    <word id="w2" lemma="Vesalainen" pos="SAms1">Vesalainen</word>
+    <word id="w3" lemma="," pos="Z">,</word>
+    <word id="w4" lemma="miro" pos="SSms1">Miro</word>
+    <word id="w5" lemma="Heiskanen" pos="SSms1">Heiskanen</word>
+    <word id="w6" lemma="a" pos="O">a</word>
+    <word id="w7" lemma="joni" pos="SUfs1">Joni</word>
+    <word id="w8" lemma="Ikonen" pos="SUfs1">Ikonen</word>
+    <word id="w9" lemma="figurovať" pos="VKepc+">figurujú</word>
+    <word id="w10" lemma="v" pos="Eu6">v</word>
+    <word id="w11" lemma="kanadský" pos="AAns6x">kanadskom</word>
+    <word id="w12" lemma="bodovanie" pos="SSns6">bodovaní</word>
+    <word id="w13" lemma="na" pos="Eu6">na</word>
+    <word id="w14" lemma="prvý" pos="NAnp6">prvých</word>
+    <word id="w15" lemma="tri" pos="NNnp6">troch</word>
+    <word id="w16" lemma="miesto" pos="SSnp6">miestach</word>
+    <word id="w17" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Kristianovi Vesalainenovi sa darilo už v úvodnom vystúpení proti slovenským reprezentantom , keď vsietil dva góly .">
+    <word id="w1" lemma="Kristianovi" pos="SSms3">Kristianovi</word>
+    <word id="w2" lemma="Vesalainenovi" pos="SSms3">Vesalainenovi</word>
+    <word id="w3" lemma="sa" pos="R">sa</word>
+    <word id="w4" lemma="dariť" pos="VLescn+">darilo</word>
+    <word id="w5" lemma="už" pos="T">už</word>
+    <word id="w6" lemma="v" pos="Eu6">v</word>
+    <word id="w7" lemma="úvodný" pos="AAns6x">úvodnom</word>
+    <word id="w8" lemma="vystúpenie" pos="SSns6">vystúpení</word>
+    <word id="w9" lemma="proti" pos="Eu3">proti</word>
+    <word id="w10" lemma="slovenský" pos="AAmp3x">slovenským</word>
+    <word id="w11" lemma="reprezentant" pos="SSmp3">reprezentantom</word>
+    <word id="w12" lemma="," pos="Z">,</word>
+    <word id="w13" lemma="keď" pos="O">keď</word>
+    <word id="w14" lemma="vsietiť" pos="VLdscm+">vsietil</word>
+    <word id="w15" lemma="dva" pos="NNip4">dva</word>
+    <word id="w16" lemma="gól" pos="SSip4">góly</word>
+    <word id="w17" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Dve asistencie si pripísal v zápase so Švajčiarmi .">
+    <word id="w1" lemma="dva" pos="NNfp1">Dve</word>
+    <word id="w2" lemma="asistencia" pos="SSfp1">asistencie</word>
+    <word id="w3" lemma="si" pos="R">si</word>
+    <word id="w4" lemma="pripísať" pos="VLdscm+">pripísal</word>
+    <word id="w5" lemma="v" pos="Eu6">v</word>
+    <word id="w6" lemma="zápas" pos="SSis6">zápase</word>
+    <word id="w7" lemma="s" pos="Ev7">so</word>
+    <word id="w8" lemma="Švajčiarmi" pos="SSmp7">Švajčiarmi</word>
+    <word id="w9" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Najväčší bodový prídel ( 1 + 3 ) získal v dueli s Lotyšskom , no a v súboji o prvé miesto v A - skupine proti Kanade sa predviedol hetrikom .">
+    <word id="w1" lemma="veľký" pos="AAis1z">Najväčší</word>
+    <word id="w2" lemma="bodový" pos="AAis1x">bodový</word>
+    <word id="w3" lemma="prídel" pos="SSis1">prídel</word>
+    <word id="w4" lemma="(" pos="Z">(</word>
+    <word id="w5" lemma="1" pos="0">1</word>
+    <word id="w6" lemma="+" pos="Z">+</word>
+    <word id="w7" lemma="3" pos="0">3</word>
+    <word id="w8" lemma=")" pos="Z">)</word>
+    <word id="w9" lemma="získať" pos="VLdscm+">získal</word>
+    <word id="w10" lemma="v" pos="Eu6">v</word>
+    <word id="w11" lemma="duel" pos="SSis6">dueli</word>
+    <word id="w12" lemma="s" pos="Eu7">s</word>
+    <word id="w13" lemma="Lotyšsko" pos="SSns7">Lotyšskom</word>
+    <word id="w14" lemma="," pos="Z">,</word>
+    <word id="w15" lemma="no" pos="O">no</word>
+    <word id="w16" lemma="a" pos="O">a</word>
+    <word id="w17" lemma="v" pos="Eu6">v</word>
+    <word id="w18" lemma="súboj" pos="SSis6">súboji</word>
+    <word id="w19" lemma="o" pos="Eu4">o</word>
+    <word id="w20" lemma="prvý" pos="NAns4">prvé</word>
+    <word id="w21" lemma="miesto" pos="SSns4">miesto</word>
+    <word id="w22" lemma="v" pos="Eu6">v</word>
+    <word id="w23" lemma="a" pos="Q">A</word>
+    <word id="w24" lemma="-" pos="Z">-</word>
+    <word id="w25" lemma="skupina" pos="SSfs3">skupine</word>
+    <word id="w26" lemma="proti" pos="Eu3">proti</word>
+    <word id="w27" lemma="kanada" pos="SSfs6">Kanade</word>
+    <word id="w28" lemma="sa" pos="R">sa</word>
+    <word id="w29" lemma="predviesť" pos="VLdscm+">predviedol</word>
+    <word id="w30" lemma="hetrik" pos="SSis7">hetrikom</word>
+    <word id="w31" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Na druhom a treťom mieste v kanadskom bodovaní figurujú jeho spoluhráči z prvej formácie , obranca Miro Heiskanen a center Joni Ikonen .">
+    <word id="w1" lemma="na" pos="Eu6">Na</word>
+    <word id="w2" lemma="druhý" pos="NAns6">druhom</word>
+    <word id="w3" lemma="a" pos="O">a</word>
+    <word id="w4" lemma="tretí" pos="NAns6">treťom</word>
+    <word id="w5" lemma="miesto" pos="SSns6">mieste</word>
+    <word id="w6" lemma="v" pos="Eu6">v</word>
+    <word id="w7" lemma="kanadský" pos="AAns6x">kanadskom</word>
+    <word id="w8" lemma="bodovanie" pos="SSns6">bodovaní</word>
+    <word id="w9" lemma="figurovať" pos="VKepc+">figurujú</word>
+    <word id="w10" lemma="jeho" pos="PUmp1">jeho</word>
+    <word id="w11" lemma="spoluhráč" pos="SSmp1">spoluhráči</word>
+    <word id="w12" lemma="z" pos="Eu2">z</word>
+    <word id="w13" lemma="prvý" pos="NAfs2">prvej</word>
+    <word id="w14" lemma="formácia" pos="SSfs2">formácie</word>
+    <word id="w15" lemma="," pos="Z">,</word>
+    <word id="w16" lemma="obranca" pos="SSms1">obranca</word>
+    <word id="w17" lemma="miro" pos="SSms1">Miro</word>
+    <word id="w18" lemma="Heiskanen" pos="SSms1">Heiskanen</word>
+    <word id="w19" lemma="a" pos="O">a</word>
+    <word id="w20" lemma="center" pos="SSms1">center</word>
+    <word id="w21" lemma="joni" pos="SUfs1">Joni</word>
+    <word id="w22" lemma="Ikonen" pos="SUfs1">Ikonen</word>
+    <word id="w23" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Heiskanen je takisto najproduktívnejší medzi bekmi a na konte má spomedzi všetkých hráčov najviac asistencií .">
+    <word id="w1" lemma="Heiskanen" pos="SSms1">Heiskanen</word>
+    <word id="w2" lemma="byť" pos="VKesc+">je</word>
+    <word id="w3" lemma="takisto" pos="PD">takisto</word>
+    <word id="w4" lemma="produktívny" pos="AAis1z">najproduktívnejší</word>
+    <word id="w5" lemma="medzi" pos="Eu7">medzi</word>
+    <word id="w6" lemma="bekmi" pos="SSip7">bekmi</word>
+    <word id="w7" lemma="a" pos="O">a</word>
+    <word id="w8" lemma="na" pos="Eu6">na</word>
+    <word id="w9" lemma="konto" pos="SSns6">konte</word>
+    <word id="w10" lemma="mať" pos="VKesc+">má</word>
+    <word id="w11" lemma="spomedzi" pos="Eu2">spomedzi</word>
+    <word id="w12" lemma="všetok" pos="PFmp2">všetkých</word>
+    <word id="w13" lemma="hráč" pos="SSmp2">hráčov</word>
+    <word id="w14" lemma="mnoho" pos="Dz">najviac</word>
+    <word id="w15" lemma="asistencia" pos="SSfp2">asistencií</word>
+    <word id="w16" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Patrik Hrehorčák bodoval v prvých troch zápasoch Slovenska .">
+    <word id="w1" lemma="patrik" pos="SSms1">Patrik</word>
+    <word id="w2" lemma="Hrehorčák" pos="SSms1">Hrehorčák</word>
+    <word id="w3" lemma="bodovať" pos="VLescm+">bodoval</word>
+    <word id="w4" lemma="v" pos="Eu6">v</word>
+    <word id="w5" lemma="prvý" pos="NAip6">prvých</word>
+    <word id="w6" lemma="tri" pos="NNip6">troch</word>
+    <word id="w7" lemma="zápas" pos="SSip6">zápasoch</word>
+    <word id="w8" lemma="slovensko" pos="SSns2">Slovenska</word>
+    <word id="w9" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Proti Fínom dosiahol dva presné zásahy , gól strelil aj Kanade .">
+    <word id="w1" lemma="proti" pos="Eu3">Proti</word>
+    <word id="w2" lemma="Fínom" pos="SSip3">Fínom</word>
+    <word id="w3" lemma="dosiahnuť" pos="VLdscm+">dosiahol</word>
+    <word id="w4" lemma="dva" pos="NNip4">dva</word>
+    <word id="w5" lemma="presný" pos="AAip4x">presné</word>
+    <word id="w6" lemma="zásah" pos="SSip4">zásahy</word>
+    <word id="w7" lemma="," pos="Z">,</word>
+    <word id="w8" lemma="gól" pos="SSis4">gól</word>
+    <word id="w9" lemma="streliť" pos="VLdscm+">strelil</word>
+    <word id="w10" lemma="aj" pos="O">aj</word>
+    <word id="w11" lemma="kanada" pos="SSfs6">Kanade</word>
+    <word id="w12" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="V pondelkovom dueli s Lotyšmi má v oficiálnych štatistikách iba jednu asistenciu , na gól však prihrával aj Milošovi Romanovi a asistencie mal mať dve .">
+    <word id="w1" lemma="v" pos="Eu6">V</word>
+    <word id="w2" lemma="pondelkový" pos="AAis6x">pondelkovom</word>
+    <word id="w3" lemma="duel" pos="SSis6">dueli</word>
+    <word id="w4" lemma="s" pos="Eu7">s</word>
+    <word id="w5" lemma="Lotyšmi" pos="SSmp7">Lotyšmi</word>
+    <word id="w6" lemma="mať" pos="VKesc+">má</word>
+    <word id="w7" lemma="v" pos="Eu6">v</word>
+    <word id="w8" lemma="oficiálny" pos="AAfp6x">oficiálnych</word>
+    <word id="w9" lemma="štatistika" pos="SSfp6">štatistikách</word>
+    <word id="w10" lemma="iba" pos="T">iba</word>
+    <word id="w11" lemma="jeden" pos="NFfs4">jednu</word>
+    <word id="w12" lemma="asistencia" pos="SSfs4">asistenciu</word>
+    <word id="w13" lemma="," pos="Z">,</word>
+    <word id="w14" lemma="na" pos="Eu4">na</word>
+    <word id="w15" lemma="gól" pos="SSis4">gól</word>
+    <word id="w16" lemma="však" pos="O">však</word>
+    <word id="w17" lemma="prihrávať" pos="VLescm+">prihrával</word>
+    <word id="w18" lemma="aj" pos="T">aj</word>
+    <word id="w19" lemma="Miloš" pos="SSms3">Milošovi</word>
+    <word id="w20" lemma="roman" pos="SSms3">Romanovi</word>
+    <word id="w21" lemma="a" pos="O">a</word>
+    <word id="w22" lemma="asistencia" pos="SSfs2">asistencie</word>
+    <word id="w23" lemma="mať" pos="VLescm+">mal</word>
+    <word id="w24" lemma="mať" pos="VIe+">mať</word>
+    <word id="w25" lemma="dva" pos="NNnp1">dve</word>
+    <word id="w26" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Vďaka trom gólom sa v poradí strelcov delí o 7 . miesto s ďalšími ôsmimi hráčmi .">
+    <word id="w1" lemma="vďaka" pos="Eu3">Vďaka</word>
+    <word id="w2" lemma="tri" pos="NNnp3">trom</word>
+    <word id="w3" lemma="gól" pos="SSip3">gólom</word>
+    <word id="w4" lemma="sa" pos="R">sa</word>
+    <word id="w5" lemma="v" pos="Eu6">v</word>
+    <word id="w6" lemma="poradie" pos="SSns6">poradí</word>
+    <word id="w7" lemma="strelec" pos="SSmp2">strelcov</word>
+    <word id="w8" lemma="deliť" pos="VKesc+">delí</word>
+    <word id="w9" lemma="o" pos="Eu6">o</word>
+    <word id="w10" lemma="7" pos="0">7</word>
+    <word id="w11" lemma="." pos="Z">.</word>
+    <word id="w12" lemma="miesto" pos="SSns4">miesto</word>
+    <word id="w13" lemma="s" pos="Eu7">s</word>
+    <word id="w14" lemma="ďalší" pos="AAmp7x">ďalšími</word>
+    <word id="w15" lemma="osem" pos="NUmp7">ôsmimi</word>
+    <word id="w16" lemma="hráč" pos="SSmp7">hráčmi</word>
+    <word id="w17" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="V súboji o tretiu priečku v skupine so Švajčiarmi vyšiel bodovo naprázdno .">
+    <word id="w1" lemma="v" pos="Eu6">V</word>
+    <word id="w2" lemma="súboj" pos="SSis6">súboji</word>
+    <word id="w3" lemma="o" pos="Eu4">o</word>
+    <word id="w4" lemma="tretí" pos="NAfs4">tretiu</word>
+    <word id="w5" lemma="priečka" pos="SSfs4">priečku</word>
+    <word id="w6" lemma="v" pos="Eu6">v</word>
+    <word id="w7" lemma="skupina" pos="SSfs6">skupine</word>
+    <word id="w8" lemma="s" pos="Ev7">so</word>
+    <word id="w9" lemma="Švajčiarmi" pos="SSmp7">Švajčiarmi</word>
+    <word id="w10" lemma="vyjsť" pos="VLdscm+">vyšiel</word>
+    <word id="w11" lemma="bodovo" pos="Dx">bodovo</word>
+    <word id="w12" lemma="naprázdno" pos="Dx">naprázdno</word>
+    <word id="w13" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Naopak , po asistencii zaznamenali Adamovia z prvého útoku Liška a Ružička , a na konte majú už takisto štyri kanadské body , no nižší počet dosiahnutých gólov .">
+    <word id="w1" lemma="naopak" pos="T">Naopak</word>
+    <word id="w2" lemma="," pos="Z">,</word>
+    <word id="w3" lemma="po" pos="Eu6">po</word>
+    <word id="w4" lemma="asistencia" pos="SSfs6">asistencii</word>
+    <word id="w5" lemma="zaznamenať" pos="VLdpcm+">zaznamenali</word>
+    <word id="w6" lemma="Adam" pos="SSmp1">Adamovia</word>
+    <word id="w7" lemma="z" pos="Eu2">z</word>
+    <word id="w8" lemma="prvý" pos="NAis2">prvého</word>
+    <word id="w9" lemma="útok" pos="SSis2">útoku</word>
+    <word id="w10" lemma="Liška" pos="SSfs1">Liška</word>
+    <word id="w11" lemma="a" pos="O">a</word>
+    <word id="w12" lemma="ružička" pos="SSfs1">Ružička</word>
+    <word id="w13" lemma="," pos="Z">,</word>
+    <word id="w14" lemma="a" pos="O">a</word>
+    <word id="w15" lemma="na" pos="Eu6">na</word>
+    <word id="w16" lemma="konto" pos="SSns6">konte</word>
+    <word id="w17" lemma="mať" pos="VKepc+">majú</word>
+    <word id="w18" lemma="už" pos="T">už</word>
+    <word id="w19" lemma="takisto" pos="T">takisto</word>
+    <word id="w20" lemma="štyri" pos="NNip4">štyri</word>
+    <word id="w21" lemma="kanadský" pos="AAip4x">kanadské</word>
+    <word id="w22" lemma="bod" pos="SSip4">body</word>
+    <word id="w23" lemma="," pos="Z">,</word>
+    <word id="w24" lemma="no" pos="O">no</word>
+    <word id="w25" lemma="nízky" pos="AAis1y">nižší</word>
+    <word id="w26" lemma="počet" pos="SSis1">počet</word>
+    <word id="w27" lemma="dosiahnutý" pos="Gtip2x">dosiahnutých</word>
+    <word id="w28" lemma="gól" pos="SSip2">gólov</word>
+    <word id="w29" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Brankárskym štatistikám kraľuje Slovák Jakub Kostelný , ktorý inkasoval za necelých 102 minút v bránke len jediný raz a má vysokú percentuálnu úspešnosť zákrokov , až 97 , 44 percent .">
+    <word id="w1" lemma="brankársky" pos="AAfp3x">Brankárskym</word>
+    <word id="w2" lemma="štatistika" pos="SSfp3">štatistikám</word>
+    <word id="w3" lemma="kraľovať" pos="VKesc+">kraľuje</word>
+    <word id="w4" lemma="slovák" pos="SSms1">Slovák</word>
+    <word id="w5" lemma="jakub" pos="SSms1">Jakub</word>
+    <word id="w6" scope="w11" lemma="kostelný" pos="SAms1">Kostelný</word>
+    <word id="w7" lemma="," pos="Z">,</word>
+    <word id="w8" lemma="ktorý" pos="PAis1">ktorý</word>
+    <word id="w9" lemma="inkasovať" pos="VLjsci+">inkasoval</word>
+    <word id="w10" lemma="za" pos="Eu2">za</word>
+    <word id="w11" negator="sub" lemma="necelý" pos="AAfp2x">necelých</word>
+    <word id="w12" lemma="102" pos="0">102</word>
+    <word id="w13" lemma="minúta" pos="SSfp2">minút</word>
+    <word id="w14" lemma="v" pos="Eu6">v</word>
+    <word id="w15" lemma="bránka" pos="SSfs6">bránke</word>
+    <word id="w16" lemma="len" pos="T">len</word>
+    <word id="w17" lemma="jediný" pos="NAis4">jediný</word>
+    <word id="w18" lemma="raz" pos="NSis4">raz</word>
+    <word id="w19" lemma="a" pos="O">a</word>
+    <word id="w20" lemma="mať" pos="VKesc+">má</word>
+    <word id="w21" lemma="vysoký" pos="AAfs4x">vysokú</word>
+    <word id="w22" lemma="percentuálny" pos="AAfs4x">percentuálnu</word>
+    <word id="w23" lemma="úspešnosť" pos="SSfs4">úspešnosť</word>
+    <word id="w24" lemma="zákrok" pos="SSip2">zákrokov</word>
+    <word id="w25" lemma="," pos="Z">,</word>
+    <word id="w26" lemma="až" pos="T">až</word>
+    <word id="w27" lemma="97" pos="0">97</word>
+    <word id="w28" lemma="," pos="Z">,</word>
+    <word id="w29" lemma="44" pos="0">44</word>
+    <word id="w30" lemma="percento" pos="SSnp2">percent</word>
+    <word id="w31" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Kostelný sa dostal medzi tri žrde až v druhej tretine súboja s Kanadou .">
+    <word id="w1" lemma="kostelný" pos="SAms1">Kostelný</word>
+    <word id="w2" lemma="sa" pos="R">sa</word>
+    <word id="w3" lemma="dostať" pos="VLdscm+">dostal</word>
+    <word id="w4" lemma="medzi" pos="Eu4">medzi</word>
+    <word id="w5" lemma="tri" pos="NNfp4">tri</word>
+    <word id="w6" lemma="žrď" pos="SSfp4">žrde</word>
+    <word id="w7" lemma="až" pos="T">až</word>
+    <word id="w8" lemma="v" pos="Eu6">v</word>
+    <word id="w9" lemma="druhý" pos="NAfs6">druhej</word>
+    <word id="w10" lemma="tretina" pos="SSfs6">tretine</word>
+    <word id="w11" lemma="súboj" pos="SSis2">súboja</word>
+    <word id="w12" lemma="s" pos="Eu7">s</word>
+    <word id="w13" lemma="kanada" pos="SSfs7">Kanadou</word>
+    <word id="w14" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Od kanadských mladíkov dostal iba jeden gól v predĺžení , okrem neho kryl 23 striel .">
+    <word id="w1" lemma="od" pos="Eu2">Od</word>
+    <word id="w2" lemma="kanadský" pos="AAmp2x">kanadských</word>
+    <word id="w3" lemma="mladík" pos="SSmp2">mladíkov</word>
+    <word id="w4" lemma="dostať" pos="VLdsci+">dostal</word>
+    <word id="w5" lemma="iba" pos="T">iba</word>
+    <word id="w6" lemma="jeden" pos="NFis1">jeden</word>
+    <word id="w7" lemma="gól" pos="SSis1">gól</word>
+    <word id="w8" lemma="v" pos="Eu6">v</word>
+    <word id="w9" lemma="predĺženie" pos="SSns6">predĺžení</word>
+    <word id="w10" lemma="," pos="Z">,</word>
+    <word id="w11" negator="gen" lemma="okrem" pos="Eu2">okrem</word>
+    <word id="w12" scope="w11" lemma="on" pos="PFms2">neho</word>
+    <word id="w13" lemma="kryť" pos="VLescm+">kryl</word>
+    <word id="w14" lemma="23" pos="0">23</word>
+    <word id="w15" lemma="strela" pos="SSfp2">striel</word>
+    <word id="w16" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Proti Lotyšsku sa postavil do bránky znova , vychytal nulu a nepustil za seba žiaden z 15 pokusov súpera .">
+    <word id="w1" lemma="proti" pos="Eu3">Proti</word>
+    <word id="w2" lemma="Lotyšsko" pos="SSns3">Lotyšsku</word>
+    <word id="w3" lemma="sa" pos="R">sa</word>
+    <word id="w4" lemma="postaviť" pos="VLdscm+">postavil</word>
+    <word id="w5" lemma="do" pos="Eu2">do</word>
+    <word id="w6" lemma="bránka" pos="SSfs2">bránky</word>
+    <word id="w7" lemma="znova" pos="Dx">znova</word>
+    <word id="w8" lemma="," pos="Z">,</word>
+    <word id="w9" lemma="vychytať" pos="VLdscm+">vychytal</word>
+    <word id="w10" lemma="nula" pos="SSfs4">nulu</word>
+    <word id="w11" lemma="a" pos="O">a</word>
+    <word id="w12" negator="pre" lemma="nepustiť" pos="VLdscm-">nepustil</word>
+    <word id="w13" scope="w12" lemma="za" pos="Eu4">za</word>
+    <word id="w14" scope="w12" lemma="seba" pos="PPhs4">seba</word>
+    <word id="w15" scope="w12" lemma="žiaden" pos="PFms1">žiaden</word>
+    <word id="w16" scope="w12" lemma="z" pos="Eu2">z</word>
+    <word id="w17" scope="w12" lemma="15" pos="0">15</word>
+    <word id="w18" scope="w12" lemma="pokus" pos="SSip2">pokusov</word>
+    <word id="w19" scope="w12" lemma="súper" pos="SSms4">súpera</word>
+    <word id="w20" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="V záverečnom zápase základnej skupiny so Švajčiarmi sedel na striedačke .">
+    <word id="w1" lemma="v" pos="Eu6">V</word>
+    <word id="w2" lemma="záverečný" pos="AAis6x">záverečnom</word>
+    <word id="w3" lemma="zápas" pos="SSis6">zápase</word>
+    <word id="w4" lemma="základný" pos="AAfs2x">základnej</word>
+    <word id="w5" lemma="skupina" pos="SSfs2">skupiny</word>
+    <word id="w6" lemma="s" pos="Ev7">so</word>
+    <word id="w7" lemma="Švajčiarmi" pos="SSmp7">Švajčiarmi</word>
+    <word id="w8" lemma="sedieť" pos="VLescm+">sedel</word>
+    <word id="w9" lemma="na" pos="Eu6">na</word>
+    <word id="w10" lemma="striedačka" pos="SSfs6">striedačke</word>
+    <word id="w11" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Prednosť dostal Juraj Sklenár .">
+    <word id="w1" lemma="prednosť" pos="SSfs4">Prednosť</word>
+    <word id="w2" lemma="dostať" pos="VLdscm+">dostal</word>
+    <word id="w3" lemma="juraj" pos="SSms1">Juraj</word>
+    <word id="w4" lemma="Sklenár" pos="SSms1">Sklenár</word>
+    <word id="w5" lemma="." pos="Z">.</word>
+  </sentence>
+</document>
+

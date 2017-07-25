@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <sentence text="Nikon Coolpix S 51 Nikon Coolpix S 51 je štýlový , ultra kompaktný digitálny fotoaparát , ktorý vyniká hlavne rozmermi a hmotnosťou .">
+    <word id="w1" lemma="nikon" pos="SSms1">Nikon</word>
+    <word id="w2" lemma="Coolpix" pos="SSms1">Coolpix</word>
+    <word id="w3" lemma="s" pos="Eu7">S</word>
+    <word id="w4" lemma="51" pos="0">51</word>
+    <word id="w5" lemma="nikon" pos="SSms1">Nikon</word>
+    <word id="w6" lemma="Coolpix" pos="SSms1">Coolpix</word>
+    <word id="w7" lemma="s" pos="Eu7">S</word>
+    <word id="w8" lemma="51" pos="0">51</word>
+    <word id="w9" lemma="byť" pos="VKesc+">je</word>
+    <word id="w10" lemma="štýlový" pos="AAis1x">štýlový</word>
+    <word id="w11" lemma="," pos="Z">,</word>
+    <word id="w12" lemma="ultra" pos="Q">ultra</word>
+    <word id="w13" lemma="kompaktný" pos="AAis1x">kompaktný</word>
+    <word id="w14" lemma="digitálny" pos="AAis1x">digitálny</word>
+    <word id="w15" lemma="fotoaparát" pos="SSis1">fotoaparát</word>
+    <word id="w16" lemma="," pos="Z">,</word>
+    <word id="w17" lemma="ktorý" pos="PAis1">ktorý</word>
+    <word id="w18" lemma="vynikať" pos="VKesc+">vyniká</word>
+    <word id="w19" lemma="hlavne" pos="T">hlavne</word>
+    <word id="w20" lemma="rozmer" pos="SSip7">rozmermi</word>
+    <word id="w21" lemma="a" pos="O">a</word>
+    <word id="w22" lemma="hmotnosť" pos="SSfs7">hmotnosťou</word>
+    <word id="w23" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Fotoaparát ďalej ponúka dobrú výbavu , hlavne čo sa týka systémov , ktoré sú zamerané na kvalitu fotografií a veľký LCD displej , ktorý je zároveň hľadáčikom .">
+    <word id="w1" lemma="fotoaparát" pos="SSis1">Fotoaparát</word>
+    <word id="w2" lemma="ďalej" pos="Dx">ďalej</word>
+    <word id="w3" lemma="ponúkať" pos="VKesc+">ponúka</word>
+    <word id="w4" lemma="dobrý" pos="AAfs4x">dobrú</word>
+    <word id="w5" lemma="výbava" pos="SSfs4">výbavu</word>
+    <word id="w6" lemma="," pos="Z">,</word>
+    <word id="w7" lemma="hlavne" pos="T">hlavne</word>
+    <word id="w8" lemma="čo" pos="PFns1">čo</word>
+    <word id="w9" lemma="sa" pos="R">sa</word>
+    <word id="w10" lemma="týkať" pos="VKesc+">týka</word>
+    <word id="w11" lemma="systém" pos="SSip2">systémov</word>
+    <word id="w12" lemma="," pos="Z">,</word>
+    <word id="w13" lemma="ktorý" pos="PAip1">ktoré</word>
+    <word id="w14" lemma="byť" pos="VKepc+">sú</word>
+    <word id="w15" lemma="zameraný" pos="Gtip1x">zamerané</word>
+    <word id="w16" lemma="na" pos="Eu4">na</word>
+    <word id="w17" lemma="kvalita" pos="SSfs4">kvalitu</word>
+    <word id="w18" lemma="fotografia" pos="SSfp2">fotografií</word>
+    <word id="w19" lemma="a" pos="O">a</word>
+    <word id="w20" lemma="veľký" pos="AAis1x">veľký</word>
+    <word id="w21" lemma="LCD" pos="W">LCD</word>
+    <word id="w22" lemma="displej" pos="SSis4">displej</word>
+    <word id="w23" lemma="," pos="Z">,</word>
+    <word id="w24" lemma="ktorý" pos="PAis1">ktorý</word>
+    <word id="w25" lemma="byť" pos="VKesc+">je</word>
+    <word id="w26" lemma="zároveň" pos="Dx">zároveň</word>
+    <word id="w27" lemma="hľadáčik" pos="SSis7">hľadáčikom</word>
+    <word id="w28" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Tak , ako väčšina digitálnych fotoaparátov v dnešnej dobe , aj Coolpix S 51 má veľmi malú vstavanú pamäť a musíte ju rozšíriť pomocou pamäťovej karty .">
+    <word id="w1" lemma="tak" pos="PD">Tak</word>
+    <word id="w2" lemma="," pos="Z">,</word>
+    <word id="w3" lemma="ako" pos="O">ako</word>
+    <word id="w4" lemma="väčšina" pos="SSfs1">väčšina</word>
+    <word id="w5" lemma="digitálny" pos="AAip2x">digitálnych</word>
+    <word id="w6" lemma="fotoaparát" pos="SSip2">fotoaparátov</word>
+    <word id="w7" lemma="v" pos="Eu6">v</word>
+    <word id="w8" lemma="dnešný" pos="AAfs6x">dnešnej</word>
+    <word id="w9" lemma="doba" pos="SSfs6">dobe</word>
+    <word id="w10" lemma="," pos="Z">,</word>
+    <word id="w11" lemma="aj" pos="O">aj</word>
+    <word id="w12" lemma="Coolpix" pos="SSms1">Coolpix</word>
+    <word id="w13" lemma="s" pos="Eu7">S</word>
+    <word id="w14" lemma="51" pos="0">51</word>
+    <word id="w15" lemma="mať" pos="VKesc+">má</word>
+    <word id="w16" lemma="veľmi" pos="Dx">veľmi</word>
+    <word id="w17" lemma="malý" pos="AAfs4x">malú</word>
+    <word id="w18" lemma="vstavanú" pos="AAfs4x">vstavanú</word>
+    <word id="w19" lemma="pamäť" pos="SSfs4">pamäť</word>
+    <word id="w20" lemma="a" pos="O">a</word>
+    <word id="w21" lemma="musieť" pos="VKepb+">musíte</word>
+    <word id="w22" lemma="ona" pos="PFfs4">ju</word>
+    <word id="w23" lemma="rozšíriť" pos="VId+">rozšíriť</word>
+    <word id="w24" lemma="pomocou" pos="Eu2">pomocou</word>
+    <word id="w25" lemma="pamäťový" pos="AAfs2x">pamäťovej</word>
+    <word id="w26" lemma="karta" pos="SSfs2">karty</word>
+    <word id="w27" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Tentokrát je to len 13 MB , čo stačí v najvyššom rozlíšení naozaj len na 3 fotografie .">
+    <word id="w1" lemma="tentokrát" pos="Dx">Tentokrát</word>
+    <word id="w2" lemma="byť" pos="VKesc+">je</word>
+    <word id="w3" lemma="to" pos="PFns1">to</word>
+    <word id="w4" lemma="len" pos="T">len</word>
+    <word id="w5" lemma="13" pos="0">13</word>
+    <word id="w6" lemma="MB" pos="W">MB</word>
+    <word id="w7" lemma="," pos="Z">,</word>
+    <word id="w8" lemma="čo" pos="O">čo</word>
+    <word id="w9" lemma="stačiť" pos="VKjsc+">stačí</word>
+    <word id="w10" lemma="v" pos="Eu6">v</word>
+    <word id="w11" lemma="vysoký" pos="AAns6z">najvyššom</word>
+    <word id="w12" lemma="rozlíšenie" pos="SSns6">rozlíšení</word>
+    <word id="w13" lemma="naozaj" pos="T">naozaj</word>
+    <word id="w14" lemma="len" pos="T">len</word>
+    <word id="w15" lemma="na" pos="Eu4">na</word>
+    <word id="w16" lemma="3" pos="0">3</word>
+    <word id="w17" lemma="fotografia" pos="SSfp4">fotografie</word>
+    <word id="w18" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="O pohon prístroja sa stará veľmi tenká batéria EN - EL 8 typu lithium - ion , ktorá vám umožní na plné nabitie vyfotografovať zhruba 150 snímok .">
+    <word id="w1" lemma="o" pos="Eu4">O</word>
+    <word id="w2" lemma="pohon" pos="SSis4">pohon</word>
+    <word id="w3" lemma="prístroj" pos="SSis2">prístroja</word>
+    <word id="w4" lemma="sa" pos="R">sa</word>
+    <word id="w5" lemma="starať" pos="VKesc+">stará</word>
+    <word id="w6" lemma="veľmi" pos="Dx">veľmi</word>
+    <word id="w7" lemma="tenký" pos="AAfs1x">tenká</word>
+    <word id="w8" lemma="batéria" pos="SSfs1">batéria</word>
+    <word id="w9" lemma="EN" pos="W">EN</word>
+    <word id="w10" lemma="-" pos="Z">-</word>
+    <word id="w11" lemma="EL" pos="W">EL</word>
+    <word id="w12" lemma="8" pos="0">8</word>
+    <word id="w13" lemma="typ" pos="SSis2">typu</word>
+    <word id="w14" lemma="lithium" pos="%">lithium</word>
+    <word id="w15" lemma="-" pos="Z">-</word>
+    <word id="w16" lemma="ion" pos="%">ion</word>
+    <word id="w17" lemma="," pos="Z">,</word>
+    <word id="w18" lemma="ktorý" pos="PAfs1">ktorá</word>
+    <word id="w19" lemma="vy" pos="PPhp3">vám</word>
+    <word id="w20" lemma="umožniť" pos="VKdsc+">umožní</word>
+    <word id="w21" lemma="na" pos="Eu4">na</word>
+    <word id="w22" lemma="plný" pos="AAns4x">plné</word>
+    <word id="w23" lemma="nabitie" pos="SSns4">nabitie</word>
+    <word id="w24" lemma="vyfotografovať" pos="VId+">vyfotografovať</word>
+    <word id="w25" lemma="zhruba" pos="T">zhruba</word>
+    <word id="w26" lemma="150" pos="0">150</word>
+    <word id="w27" lemma="snímka" pos="SSfp2">snímok</word>
+    <word id="w28" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="To je skôr podpriemerná hodnota a väčšina konkurenčných fotoaparátov je na tom oveľa lepšie .">
+    <word id="w1" lemma="to" pos="PFns1">To</word>
+    <word id="w2" lemma="byť" pos="VKesc+">je</word>
+    <word id="w3" lemma="skôr" pos="T">skôr</word>
+    <word id="w4" lemma="podpriemerný" pos="AAfs1x">podpriemerná</word>
+    <word id="w5" lemma="hodnota" pos="SSfs1">hodnota</word>
+    <word id="w6" lemma="a" pos="O">a</word>
+    <word id="w7" lemma="väčšina" pos="SSfs1">väčšina</word>
+    <word id="w8" lemma="konkurenčný" pos="AAip2x">konkurenčných</word>
+    <word id="w9" lemma="fotoaparát" pos="SSip2">fotoaparátov</word>
+    <word id="w10" lemma="byť" pos="VKesc+">je</word>
+    <word id="w11" lemma="na" pos="Eu6">na</word>
+    <word id="w12" lemma="to" pos="PFns6">tom</word>
+    <word id="w13" lemma="oveľa" pos="Dx">oveľa</word>
+    <word id="w14" lemma="dobre" pos="Dy">lepšie</word>
+    <word id="w15" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Batéria sa nabije na plný stav za 2 hodiny .">
+    <word id="w1" lemma="batéria" pos="SSfs1">Batéria</word>
+    <word id="w2" lemma="sa" pos="R">sa</word>
+    <word id="w3" lemma="nabiť" pos="VKdsc+">nabije</word>
+    <word id="w4" lemma="na" pos="Eu4">na</word>
+    <word id="w5" lemma="plný" pos="AAis4x">plný</word>
+    <word id="w6" lemma="stav" pos="SSis4">stav</word>
+    <word id="w7" lemma="za" pos="Eu4">za</word>
+    <word id="w8" lemma="2" pos="0">2</word>
+    <word id="w9" lemma="hodina" pos="SSfp4">hodiny</word>
+    <word id="w10" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Vzhľadom k tomu , že po pripojení prístroja do počítača sa fotoaparát neprihlási ako prenosný flash disk , budete k presunu fotografií potrebovať nejaký program .">
+    <word id="w1" lemma="vzhľad" pos="SSis7">Vzhľadom</word>
+    <word id="w2" lemma="k" pos="Eu3">k</word>
+    <word id="w3" lemma="to" pos="PFns3">tomu</word>
+    <word id="w4" lemma="," pos="Z">,</word>
+    <word id="w5" lemma="že" pos="O">že</word>
+    <word id="w6" scope="w13" lemma="po" pos="Eu6">po</word>
+    <word id="w7" scope="w13" lemma="pripojenie" pos="SSns6">pripojení</word>
+    <word id="w8" scope="w13" lemma="prístroj" pos="SSis2">prístroja</word>
+    <word id="w9" scope="w13" lemma="do" pos="Eu2">do</word>
+    <word id="w10" scope="w13" lemma="počítač" pos="SSis2">počítača</word>
+    <word id="w11" scope="w13" lemma="sa" pos="R">sa</word>
+    <word id="w12" scope="w13" lemma="fotoaparát" pos="SSis1">fotoaparát</word>
+    <word id="w13" negator="pre" lemma="neprihlásiť" pos="VKdsc-">neprihlási</word>
+    <word id="w14" scope="w13" lemma="ako" pos="O">ako</word>
+    <word id="w15" scope="w13" lemma="prenosný" pos="AAis1x">prenosný</word>
+    <word id="w16" scope="w13" lemma="flash" pos="%">flash</word>
+    <word id="w17" scope="w13" lemma="disk" pos="SSis4">disk</word>
+    <word id="w18" lemma="," pos="Z">,</word>
+    <word id="w19" lemma="byť" pos="VBepb+">budete</word>
+    <word id="w20" lemma="k" pos="Eu3">k</word>
+    <word id="w21" lemma="presun" pos="SSis3">presunu</word>
+    <word id="w22" lemma="fotografia" pos="SSfp2">fotografií</word>
+    <word id="w23" lemma="potrebovať" pos="VIe+">potrebovať</word>
+    <word id="w24" lemma="nejaký" pos="PAis4">nejaký</word>
+    <word id="w25" lemma="program" pos="SSis4">program</word>
+    <word id="w26" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Ten sa nazýva Nikon Transfer a dostanete ho na CD ako súčasť balenia .">
+    <word id="w1" lemma="ten" pos="PFms1">Ten</word>
+    <word id="w2" lemma="sa" pos="R">sa</word>
+    <word id="w3" lemma="nazývať" pos="VKesc+">nazýva</word>
+    <word id="w4" lemma="nikon" pos="SSms1">Nikon</word>
+    <word id="w5" lemma="Transfer" pos="SSms1">Transfer</word>
+    <word id="w6" lemma="a" pos="O">a</word>
+    <word id="w7" lemma="dostať" pos="VKdpb+">dostanete</word>
+    <word id="w8" lemma="on" pos="PFms4">ho</word>
+    <word id="w9" lemma="na" pos="Eu6">na</word>
+    <word id="w10" lemma="CD" pos="W">CD</word>
+    <word id="w11" lemma="ako" pos="O">ako</word>
+    <word id="w12" lemma="súčasť" pos="SSfs4">súčasť</word>
+    <word id="w13" lemma="balenie" pos="SSns2">balenia</word>
+    <word id="w14" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Jeho ovládanie je veľmi jednoduché , proste vyberiete fotografie , ktoré chcete skopírovať do počítača a stlačíte tlačítko transfer .">
+    <word id="w1" lemma="jeho" pos="PUns1">Jeho</word>
+    <word id="w2" lemma="ovládanie" pos="SSns1">ovládanie</word>
+    <word id="w3" lemma="byť" pos="VKesc+">je</word>
+    <word id="w4" lemma="veľmi" pos="Dx">veľmi</word>
+    <word id="w5" lemma="jednoduchý" pos="AAns1x">jednoduché</word>
+    <word id="w6" lemma="," pos="Z">,</word>
+    <word id="w7" lemma="proste" pos="T">proste</word>
+    <word id="w8" lemma="vybrať" pos="VKdpb+">vyberiete</word>
+    <word id="w9" lemma="fotografia" pos="SSfp4">fotografie</word>
+    <word id="w10" lemma="," pos="Z">,</word>
+    <word id="w11" lemma="ktorý" pos="PAfp4">ktoré</word>
+    <word id="w12" lemma="chcieť" pos="VKepb+">chcete</word>
+    <word id="w13" lemma="skopírovať" pos="VIe+">skopírovať</word>
+    <word id="w14" lemma="do" pos="Eu2">do</word>
+    <word id="w15" lemma="počítač" pos="SSis2">počítača</word>
+    <word id="w16" lemma="a" pos="O">a</word>
+    <word id="w17" lemma="stlačiť" pos="VKdpb+">stlačíte</word>
+    <word id="w18" lemma="tlačítko" pos="SSns4">tlačítko</word>
+    <word id="w19" lemma="transfer" pos="SSis1">transfer</word>
+    <word id="w20" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Samozrejme najskôr musíte vybrať cieľové umiestnenie fotografií .">
+    <word id="w1" lemma="samozrejme" pos="T">Samozrejme</word>
+    <word id="w2" lemma="najskôr" pos="Dx">najskôr</word>
+    <word id="w3" lemma="musieť" pos="VKepb+">musíte</word>
+    <word id="w4" lemma="vybrať" pos="VId+">vybrať</word>
+    <word id="w5" lemma="cieľový" pos="AAns4x">cieľové</word>
+    <word id="w6" lemma="umiestnenie" pos="SSns4">umiestnenie</word>
+    <word id="w7" lemma="fotografia" pos="SSfp2">fotografií</word>
+    <word id="w8" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Telo fotoaparátu je vytvorené sčasti z plastu , ale z väčšej časti z kovu .">
+    <word id="w1" lemma="telo" pos="SSns1">Telo</word>
+    <word id="w2" lemma="fotoaparát" pos="SSis2">fotoaparátu</word>
+    <word id="w3" lemma="byť" pos="VKesc+">je</word>
+    <word id="w4" lemma="vytvorený" pos="Gtns1x">vytvorené</word>
+    <word id="w5" lemma="sčasti" pos="Dx">sčasti</word>
+    <word id="w6" lemma="z" pos="Eu2">z</word>
+    <word id="w7" lemma="plast" pos="SSis2">plastu</word>
+    <word id="w8" lemma="," pos="Z">,</word>
+    <word id="w9" lemma="ale" pos="O">ale</word>
+    <word id="w10" lemma="z" pos="Eu2">z</word>
+    <word id="w11" lemma="veľký" pos="AAfs2y">väčšej</word>
+    <word id="w12" lemma="časť" pos="SSfs2">časti</word>
+    <word id="w13" lemma="z" pos="Eu2">z</word>
+    <word id="w14" lemma="kov" pos="SSis2">kovu</word>
+    <word id="w15" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="V ruke pôsobí veľmi dobre a kvalita spracovania je na vysoko nadpriemernej úrovni .">
+    <word id="w1" lemma="v" pos="Eu6">V</word>
+    <word id="w2" lemma="ruka" pos="SSfs6">ruke</word>
+    <word id="w3" lemma="pôsobiť" pos="VKesc+">pôsobí</word>
+    <word id="w4" lemma="veľmi" pos="Dx">veľmi</word>
+    <word id="w5" lemma="dobre" pos="Dx">dobre</word>
+    <word id="w6" lemma="a" pos="O">a</word>
+    <word id="w7" lemma="kvalita" pos="SSfs1">kvalita</word>
+    <word id="w8" lemma="spracovanie" pos="SSns2">spracovania</word>
+    <word id="w9" lemma="byť" pos="VKesc+">je</word>
+    <word id="w10" lemma="na" pos="Eu6">na</word>
+    <word id="w11" lemma="vysoko" pos="Dx">vysoko</word>
+    <word id="w12" lemma="nadpriemerný" pos="AAfs6x">nadpriemernej</word>
+    <word id="w13" lemma="úroveň" pos="SSfs6">úrovni</word>
+    <word id="w14" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Bez problémov môžete Coolpix S 51 nosit vo vrecku nohavíc a vôbec nebude prekážať .">
+    <word id="w1" negator="gen" lemma="bez" pos="Eu2">Bez</word>
+    <word id="w2" scope="w1" lemma="problém" pos="SSip2">problémov</word>
+    <word id="w3" lemma="môcť" pos="VKepb+">môžete</word>
+    <word id="w4" lemma="Coolpix" pos="%">Coolpix</word>
+    <word id="w5" lemma="S" pos="W">S</word>
+    <word id="w6" lemma="51" pos="0">51</word>
+    <word id="w7" lemma="nosit" pos="SSfp2">nosit</word>
+    <word id="w8" lemma="v" pos="Ev6">vo</word>
+    <word id="w9" lemma="vrecko" pos="SSns6">vrecku</word>
+    <word id="w10" lemma="nohavica" pos="SSfp2">nohavíc</word>
+    <word id="w11" lemma="a" pos="O">a</word>
+    <word id="w12" scope="w13" lemma="vôbec" pos="T">vôbec</word>
+    <word id="w13" negator="pre" lemma="nebyť" pos="VBesc-">nebude</word>
+    <word id="w14" scope="w13" lemma="prekážať" pos="VIe+">prekážať</word>
+    <word id="w15" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Rozmery fotoaparátu sú 9 . 1 x 5 . 8 x 2 cm a hmotnosť je 125 g .">
+    <word id="w1" lemma="rozmer" pos="SSip1">Rozmery</word>
+    <word id="w2" lemma="fotoaparát" pos="SSis2">fotoaparátu</word>
+    <word id="w3" lemma="byť" pos="VKepc+">sú</word>
+    <word id="w4" lemma="9" pos="0">9</word>
+    <word id="w5" lemma="." pos="Z">.</word>
+    <word id="w6" lemma="1" pos="0">1</word>
+    <word id="w7" lemma="x" pos="#">x</word>
+    <word id="w8" lemma="5" pos="0">5</word>
+    <word id="w9" lemma="." pos="Z">.</word>
+    <word id="w10" lemma="8" pos="0">8</word>
+    <word id="w11" lemma="x" pos="#">x</word>
+    <word id="w12" lemma="2" pos="0">2</word>
+    <word id="w13" lemma="cm" pos="W">cm</word>
+    <word id="w14" lemma="a" pos="O">a</word>
+    <word id="w15" lemma="hmotnosť" pos="SSfs1">hmotnosť</word>
+    <word id="w16" lemma="byť" pos="VKesc+">je</word>
+    <word id="w17" lemma="125" pos="0">125</word>
+    <word id="w18" lemma="g" pos="W">g</word>
+    <word id="w19" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Takže v tejto triede je to jeden z najkompaktnejších a najľahších prístrojov .">
+    <word id="w1" lemma="takže" pos="T">Takže</word>
+    <word id="w2" lemma="v" pos="Eu6">v</word>
+    <word id="w3" lemma="táto" pos="PFfs6">tejto</word>
+    <word id="w4" lemma="trieda" pos="SSfs6">triede</word>
+    <word id="w5" lemma="byť" pos="VKesc+">je</word>
+    <word id="w6" lemma="to" pos="PFns1">to</word>
+    <word id="w7" lemma="jeden" pos="NFis1">jeden</word>
+    <word id="w8" lemma="z" pos="Eu2">z</word>
+    <word id="w9" lemma="kompaktný" pos="AAip2z">najkompaktnejších</word>
+    <word id="w10" lemma="a" pos="O">a</word>
+    <word id="w11" lemma="ľahký" pos="AAmp2z">najľahších</word>
+    <word id="w12" lemma="prístroj" pos="SSip2">prístrojov</word>
+    <word id="w13" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Bohužiaľ , tlačítka sú príliš malé a ovládateľnosť tak trocha utrpela , hlavne na zadnej strane .">
+    <word id="w1" lemma="bohužiaľ" pos="T">Bohužiaľ</word>
+    <word id="w2" lemma="," pos="Z">,</word>
+    <word id="w3" lemma="tlačítka" pos="SSfs5">tlačítka</word>
+    <word id="w4" lemma="byť" pos="VKepc+">sú</word>
+    <word id="w5" lemma="príliš" pos="Dx">príliš</word>
+    <word id="w6" lemma="malý" pos="AAfp1x">malé</word>
+    <word id="w7" lemma="a" pos="O">a</word>
+    <word id="w8" lemma="ovládateľnosť" pos="SSfs1">ovládateľnosť</word>
+    <word id="w9" lemma="tak" pos="PD">tak</word>
+    <word id="w10" lemma="trocha" pos="Dx">trocha</word>
+    <word id="w11" lemma="utrpieť" pos="VLdscf+">utrpela</word>
+    <word id="w12" lemma="," pos="Z">,</word>
+    <word id="w13" lemma="hlavne" pos="T">hlavne</word>
+    <word id="w14" lemma="na" pos="Eu6">na</word>
+    <word id="w15" lemma="zadný" pos="AAfs6x">zadnej</word>
+    <word id="w16" lemma="strana" pos="SSfs6">strane</word>
+    <word id="w17" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Ešte sme nehovorili o šošovke .">
+    <word id="w1" scope="w3" lemma="ešte" pos="T">Ešte</word>
+    <word id="w2" scope="w3" lemma="byť" pos="VKepa+">sme</word>
+    <word id="w3" negator="pre" lemma="nehovoriť" pos="VLepah-">nehovorili</word>
+    <word id="w4" scope="w3" lemma="o" pos="Eu6">o</word>
+    <word id="w5" scope="w3" lemma="šošovka" pos="SSfs6">šošovke</word>
+    <word id="w6" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Tá má rozlíšenie 8 . 1 MPx a ponúka 3 x optický zoom .">
+    <word id="w1" lemma="tá" pos="PFfs1">Tá</word>
+    <word id="w2" lemma="mať" pos="VKesc+">má</word>
+    <word id="w3" lemma="rozlíšenie" pos="SSns1">rozlíšenie</word>
+    <word id="w4" lemma="8" pos="0">8</word>
+    <word id="w5" lemma="." pos="Z">.</word>
+    <word id="w6" lemma="1" pos="0">1</word>
+    <word id="w7" lemma="MPx" pos="SSms1">MPx</word>
+    <word id="w8" lemma="a" pos="O">a</word>
+    <word id="w9" lemma="ponúkať" pos="VKesc+">ponúka</word>
+    <word id="w10" lemma="3" pos="0">3</word>
+    <word id="w11" lemma="x" pos="#">x</word>
+    <word id="w12" lemma="optický" pos="AAis4x">optický</word>
+    <word id="w13" lemma="zoom" pos="SSis4">zoom</word>
+    <word id="w14" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Na zadnej strane nájdete veľký , 3 palcový LCD displej so zobrazením 230 tisíc pixelov , ktorý je skoro cez celý fotoaparát .">
+    <word id="w1" lemma="na" pos="Eu6">Na</word>
+    <word id="w2" lemma="zadný" pos="AAfs6x">zadnej</word>
+    <word id="w3" lemma="strana" pos="SSfs6">strane</word>
+    <word id="w4" lemma="nájsť" pos="VKdpb+">nájdete</word>
+    <word id="w5" lemma="veľký" pos="AAis4x">veľký</word>
+    <word id="w6" lemma="," pos="Z">,</word>
+    <word id="w7" lemma="3" pos="0">3</word>
+    <word id="w8" lemma="palcový" pos="AAis1x">palcový</word>
+    <word id="w9" lemma="LCD" pos="W">LCD</word>
+    <word id="w10" lemma="displej" pos="SSis4">displej</word>
+    <word id="w11" lemma="s" pos="Ev7">so</word>
+    <word id="w12" lemma="zobrazenie" pos="SSns7">zobrazením</word>
+    <word id="w13" lemma="230" pos="0">230</word>
+    <word id="w14" lemma="tisíc" pos="NUns4">tisíc</word>
+    <word id="w15" lemma="pixelov" pos="SSip2">pixelov</word>
+    <word id="w16" lemma="," pos="Z">,</word>
+    <word id="w17" lemma="ktorý" pos="PAis1">ktorý</word>
+    <word id="w18" lemma="byť" pos="VKesc+">je</word>
+    <word id="w19" lemma="skoro" pos="T">skoro</word>
+    <word id="w20" lemma="cez" pos="Eu4">cez</word>
+    <word id="w21" lemma="celý" pos="AAis4x">celý</word>
+    <word id="w22" lemma="fotoaparát" pos="SSis4">fotoaparát</word>
+    <word id="w23" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Optický hľadáčik tu nenájdete , ale vďaka kvalitnému displeju to vôbec nevadí .">
+    <word id="w1" scope="w4" lemma="optický" pos="AAis1x">Optický</word>
+    <word id="w2" scope="w4" lemma="hľadáčik" pos="SSis1">hľadáčik</word>
+    <word id="w3" scope="w4" lemma="tu" pos="PD">tu</word>
+    <word id="w4" negator="pre" lemma="nenájsť" pos="VKdpb-">nenájdete</word>
+    <word id="w5" lemma="," pos="Z">,</word>
+    <word id="w6" lemma="ale" pos="O">ale</word>
+    <word id="w7" scope="w12" lemma="vďaka" pos="Eu3">vďaka</word>
+    <word id="w8" scope="w12" lemma="kvalitný" pos="AAis3x">kvalitnému</word>
+    <word id="w9" scope="w12" lemma="displej" pos="SSis3">displeju</word>
+    <word id="w10" scope="w12" lemma="to" pos="PFns1">to</word>
+    <word id="w11" scope="w12" lemma="vôbec" pos="T">vôbec</word>
+    <word id="w12" negator="pre" lemma="nevadiť" pos="VKesc-">nevadí</word>
+    <word id="w13" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Poďme sa teraz pozrieť na kvalitu fotografií a rýchlosť .">
+    <word id="w1" lemma="ísť" pos="VMepa+">Poďme</word>
+    <word id="w2" lemma="sa" pos="R">sa</word>
+    <word id="w3" lemma="teraz" pos="Dx">teraz</word>
+    <word id="w4" lemma="pozrieť" pos="VId+">pozrieť</word>
+    <word id="w5" lemma="na" pos="Eu4">na</word>
+    <word id="w6" lemma="kvalita" pos="SSfs4">kvalitu</word>
+    <word id="w7" lemma="fotografia" pos="SSfp2">fotografií</word>
+    <word id="w8" lemma="a" pos="O">a</word>
+    <word id="w9" lemma="rýchlosť" pos="SSfs1">rýchlosť</word>
+    <word id="w10" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Začneme rýchlosťou .">
+    <word id="w1" lemma="začať" pos="VKdpa+">Začneme</word>
+    <word id="w2" lemma="rýchlosť" pos="SSfs7">rýchlosťou</word>
+    <word id="w3" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Tá je na veľmi dobrej úrovni a fotoaparát je pripravený fotografovať za 1 . 6 sekundy , čo je mierne nadpriemerná hodnota .">
+    <word id="w1" lemma="tá" pos="PFfs1">Tá</word>
+    <word id="w2" lemma="byť" pos="VKesc+">je</word>
+    <word id="w3" lemma="na" pos="Eu6">na</word>
+    <word id="w4" lemma="veľmi" pos="Dx">veľmi</word>
+    <word id="w5" lemma="dobrý" pos="AAfs6x">dobrej</word>
+    <word id="w6" lemma="úroveň" pos="SSfs6">úrovni</word>
+    <word id="w7" lemma="a" pos="O">a</word>
+    <word id="w8" lemma="fotoaparát" pos="SSis1">fotoaparát</word>
+    <word id="w9" lemma="byť" pos="VKesc+">je</word>
+    <word id="w10" lemma="pripravený" pos="Gtis1x">pripravený</word>
+    <word id="w11" lemma="fotografovať" pos="VIe+">fotografovať</word>
+    <word id="w12" lemma="za" pos="Eu4">za</word>
+    <word id="w13" lemma="1" pos="0">1</word>
+    <word id="w14" lemma="." pos="Z">.</word>
+    <word id="w15" lemma="6" pos="0">6</word>
+    <word id="w16" lemma="sekunda" pos="SSfs2">sekundy</word>
+    <word id="w17" lemma="," pos="Z">,</word>
+    <word id="w18" lemma="čo" pos="PFns1">čo</word>
+    <word id="w19" lemma="byť" pos="VKesc+">je</word>
+    <word id="w20" lemma="mierne" pos="Dx">mierne</word>
+    <word id="w21" lemma="nadpriemerný" pos="AAfs1x">nadpriemerná</word>
+    <word id="w22" lemma="hodnota" pos="SSfs1">hodnota</word>
+    <word id="w23" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Čas autofocusu je 0 . 3 až 0 . 5 sekundy , čo je dobré , ale v horších svetelných podmienkach sa tento čas výrazne zvýši .">
+    <word id="w1" lemma="čas" pos="SSis1">Čas</word>
+    <word id="w2" lemma="autofocusu" pos="SSis2">autofocusu</word>
+    <word id="w3" lemma="byť" pos="VKesc+">je</word>
+    <word id="w4" lemma="0" pos="0">0</word>
+    <word id="w5" lemma="." pos="Z">.</word>
+    <word id="w6" lemma="3" pos="0">3</word>
+    <word id="w7" lemma="až" pos="T">až</word>
+    <word id="w8" lemma="0" pos="0">0</word>
+    <word id="w9" lemma="." pos="Z">.</word>
+    <word id="w10" lemma="5" pos="0">5</word>
+    <word id="w11" lemma="sekunda" pos="SSfs2">sekundy</word>
+    <word id="w12" lemma="," pos="Z">,</word>
+    <word id="w13" lemma="čo" pos="PFns1">čo</word>
+    <word id="w14" lemma="byť" pos="VKesc+">je</word>
+    <word id="w15" lemma="dobrý" pos="AAns1x">dobré</word>
+    <word id="w16" lemma="," pos="Z">,</word>
+    <word id="w17" lemma="ale" pos="O">ale</word>
+    <word id="w18" lemma="v" pos="Eu6">v</word>
+    <word id="w19" lemma="zlý" pos="AAfp6y">horších</word>
+    <word id="w20" lemma="svetelný" pos="AAfp6x">svetelných</word>
+    <word id="w21" lemma="podmienka" pos="SSfp6">podmienkach</word>
+    <word id="w22" lemma="sa" pos="R">sa</word>
+    <word id="w23" lemma="tento" pos="PFis1">tento</word>
+    <word id="w24" lemma="čas" pos="SSis1">čas</word>
+    <word id="w25" lemma="výrazne" pos="Dx">výrazne</word>
+    <word id="w26" lemma="zvýšiť" pos="VKdsc+">zvýši</word>
+    <word id="w27" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Fotoaparát obsahuje množstvo systémov , ktoré sú zamerané priamo na kvalitu fotografií .">
+    <word id="w1" lemma="fotoaparát" pos="SSis1">Fotoaparát</word>
+    <word id="w2" lemma="obsahovať" pos="VKesc+">obsahuje</word>
+    <word id="w3" lemma="množstvo" pos="SSns4">množstvo</word>
+    <word id="w4" lemma="systém" pos="SSip2">systémov</word>
+    <word id="w5" lemma="," pos="Z">,</word>
+    <word id="w6" lemma="ktorý" pos="PAip1">ktoré</word>
+    <word id="w7" lemma="byť" pos="VKepc+">sú</word>
+    <word id="w8" lemma="zameraný" pos="Gtip1x">zamerané</word>
+    <word id="w9" lemma="priamo" pos="Dx">priamo</word>
+    <word id="w10" lemma="na" pos="Eu4">na</word>
+    <word id="w11" lemma="kvalita" pos="SSfs4">kvalitu</word>
+    <word id="w12" lemma="fotografia" pos="SSfp2">fotografií</word>
+    <word id="w13" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Nájdete tu napríklad stabilizátor obrazu , systém face detection a automatické vyváženie bielej farby .">
+    <word id="w1" lemma="nájsť" pos="VKdpb+">Nájdete</word>
+    <word id="w2" lemma="tu" pos="PD">tu</word>
+    <word id="w3" lemma="napríklad" pos="T">napríklad</word>
+    <word id="w4" lemma="stabilizátor" pos="SSis1">stabilizátor</word>
+    <word id="w5" lemma="obraz" pos="SSis2">obrazu</word>
+    <word id="w6" lemma="," pos="Z">,</word>
+    <word id="w7" lemma="systém" pos="SSis1">systém</word>
+    <word id="w8" lemma="face" pos="Dx">face</word>
+    <word id="w9" lemma="detection" pos="AAns4x">detection</word>
+    <word id="w10" lemma="a" pos="O">a</word>
+    <word id="w11" lemma="automatický" pos="AAns4x">automatické</word>
+    <word id="w12" lemma="vyváženie" pos="SSns4">vyváženie</word>
+    <word id="w13" lemma="biely" pos="AAfs2x">bielej</word>
+    <word id="w14" lemma="farba" pos="SSfs2">farby</word>
+    <word id="w15" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Tieto systémy fungujú dohromady veľmi dobre a kvalita fotografií je tak na ľahko nadpriemernej úrovni .">
+    <word id="w1" lemma="tento" pos="PFip1">Tieto</word>
+    <word id="w2" lemma="systém" pos="SSip1">systémy</word>
+    <word id="w3" lemma="fungovať" pos="VKepc+">fungujú</word>
+    <word id="w4" lemma="dohromady" pos="Dx">dohromady</word>
+    <word id="w5" lemma="veľmi" pos="Dx">veľmi</word>
+    <word id="w6" lemma="dobre" pos="Dx">dobre</word>
+    <word id="w7" lemma="a" pos="O">a</word>
+    <word id="w8" lemma="kvalita" pos="SSfs1">kvalita</word>
+    <word id="w9" lemma="fotografia" pos="SSfp2">fotografií</word>
+    <word id="w10" lemma="byť" pos="VKesc+">je</word>
+    <word id="w11" lemma="tak" pos="T">tak</word>
+    <word id="w12" lemma="na" pos="Eu6">na</word>
+    <word id="w13" lemma="ľahko" pos="Dx">ľahko</word>
+    <word id="w14" lemma="nadpriemerný" pos="AAfs6x">nadpriemernej</word>
+    <word id="w15" lemma="úroveň" pos="SSfs6">úrovni</word>
+    <word id="w16" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Ruchy a šumy sa zobrazujú už od použitia nastavenia citlivosti ISO 400 .">
+    <word id="w1" lemma="ruch" pos="SSip1">Ruchy</word>
+    <word id="w2" lemma="a" pos="O">a</word>
+    <word id="w3" lemma="šum" pos="SSip1">šumy</word>
+    <word id="w4" lemma="sa" pos="R">sa</word>
+    <word id="w5" lemma="zobrazovať" pos="VKepc+">zobrazujú</word>
+    <word id="w6" lemma="už" pos="T">už</word>
+    <word id="w7" lemma="od" pos="Eu2">od</word>
+    <word id="w8" lemma="použitie" pos="SSns2">použitia</word>
+    <word id="w9" lemma="nastavenie" pos="SSns2">nastavenia</word>
+    <word id="w10" lemma="citlivosť" pos="SSfs2">citlivosti</word>
+    <word id="w11" lemma="ISO" pos="W">ISO</word>
+    <word id="w12" lemma="400" pos="0">400</word>
+    <word id="w13" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Video môžete natáčať v najvyššom rozlíšení 640 x 480 pri rýchlosti 30 snímok za sekundu ( fps ) .">
+    <word id="w1" lemma="video" pos="SSns1">Video</word>
+    <word id="w2" lemma="môcť" pos="VKepb+">môžete</word>
+    <word id="w3" lemma="natáčať" pos="VIe+">natáčať</word>
+    <word id="w4" lemma="v" pos="Eu6">v</word>
+    <word id="w5" lemma="vysoký" pos="AAns6z">najvyššom</word>
+    <word id="w6" lemma="rozlíšenie" pos="SSns6">rozlíšení</word>
+    <word id="w7" lemma="640" pos="0">640</word>
+    <word id="w8" lemma="x" pos="#">x</word>
+    <word id="w9" lemma="480" pos="0">480</word>
+    <word id="w10" lemma="pri" pos="Eu6">pri</word>
+    <word id="w11" lemma="rýchlosť" pos="SSfs6">rýchlosti</word>
+    <word id="w12" lemma="30" pos="0">30</word>
+    <word id="w13" lemma="snímka" pos="SSfp2">snímok</word>
+    <word id="w14" lemma="za" pos="Eu4">za</word>
+    <word id="w15" lemma="sekunda" pos="SSfs4">sekundu</word>
+    <word id="w16" lemma="(" pos="Z">(</word>
+    <word id="w17" lemma="fps" pos="%">fps</word>
+    <word id="w18" lemma=")" pos="Z">)</word>
+    <word id="w19" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Celkovo je Nikon Coolpix S 51 napriemerný kompaktný fotoaparát , ktorý sa nám zapáčil hlavne svojím designom a skutočne kompaktnými rozmermi .">
+    <word id="w1" lemma="celkovo" pos="Dx">Celkovo</word>
+    <word id="w2" lemma="byť" pos="VKesc+">je</word>
+    <word id="w3" lemma="nikon" pos="SSms1">Nikon</word>
+    <word id="w4" lemma="Coolpix" pos="SSms1">Coolpix</word>
+    <word id="w5" lemma="s" pos="Eu7">S</word>
+    <word id="w6" lemma="51" pos="0">51</word>
+    <word id="w7" lemma="napriemerný" pos="AAis4x">napriemerný</word>
+    <word id="w8" lemma="kompaktný" pos="AAis4x">kompaktný</word>
+    <word id="w9" lemma="fotoaparát" pos="SSis4">fotoaparát</word>
+    <word id="w10" lemma="," pos="Z">,</word>
+    <word id="w11" lemma="ktorý" pos="PAis1">ktorý</word>
+    <word id="w12" lemma="sa" pos="R">sa</word>
+    <word id="w13" lemma="my" pos="PPhp3">nám</word>
+    <word id="w14" lemma="zapáčiť" pos="VLdscm+">zapáčil</word>
+    <word id="w15" lemma="hlavne" pos="T">hlavne</word>
+    <word id="w16" lemma="svoj" pos="PFis7">svojím</word>
+    <word id="w17" lemma="design" pos="SSis7">designom</word>
+    <word id="w18" lemma="a" pos="O">a</word>
+    <word id="w19" lemma="skutočne" pos="Dx">skutočne</word>
+    <word id="w20" lemma="kompaktný" pos="AAip7x">kompaktnými</word>
+    <word id="w21" lemma="rozmer" pos="SSip7">rozmermi</word>
+    <word id="w22" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Nájdete tu tak isto aj skvelý LCD displej , ale fotoaparát by si určite zaslúžil výkonnejšiu batériu a lepšie tlačítka na zadnej strane .">
+    <word id="w1" lemma="nájsť" pos="VKdpb+">Nájdete</word>
+    <word id="w2" lemma="tu" pos="PD">tu</word>
+    <word id="w3" lemma="tak" pos="PD">tak</word>
+    <word id="w4" lemma="isto" pos="T">isto</word>
+    <word id="w5" lemma="aj" pos="T">aj</word>
+    <word id="w6" lemma="skvelý" pos="AAms1x">skvelý</word>
+    <word id="w7" lemma="LCD" pos="W">LCD</word>
+    <word id="w8" lemma="displej" pos="SSis4">displej</word>
+    <word id="w9" lemma="," pos="Z">,</word>
+    <word id="w10" lemma="ale" pos="O">ale</word>
+    <word id="w11" lemma="fotoaparát" pos="SSis1">fotoaparát</word>
+    <word id="w12" lemma="by" pos="Y">by</word>
+    <word id="w13" lemma="si" pos="R">si</word>
+    <word id="w14" lemma="určite" pos="T">určite</word>
+    <word id="w15" lemma="zaslúžiť" pos="VLdscm+">zaslúžil</word>
+    <word id="w16" lemma="výkonný" pos="AAfs4y">výkonnejšiu</word>
+    <word id="w17" lemma="batéria" pos="SSfs4">batériu</word>
+    <word id="w18" lemma="a" pos="O">a</word>
+    <word id="w19" lemma="dobrý" pos="AAip4y">lepšie</word>
+    <word id="w20" lemma="tlačítka" pos="SSfs1">tlačítka</word>
+    <word id="w21" lemma="na" pos="Eu6">na</word>
+    <word id="w22" lemma="zadný" pos="AAfs6x">zadnej</word>
+    <word id="w23" lemma="strana" pos="SSfs6">strane</word>
+    <word id="w24" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="4">
+    <word id="w1" lemma="4" pos="0">4</word>
+  </sentence>
+</document>
+

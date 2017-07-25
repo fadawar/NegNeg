@@ -11,6 +11,16 @@ There are 4 versions of classifier:
 * _sco-bow_ - detecting negation scope with feautures from "bag of words"
 * _sco_ - detecting negation scope
 
+
+Web app
+-------
+There is simple web app. You can use it to find negation signal/scope.
+
+Install packages from `requirements.txt` and run it with `python web_app.py`
+
+![Screenshot](images/screenshot.png)
+
+
 Useful commands
 ---------------
 **Show dataframes side by side**

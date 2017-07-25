@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <sentence text="Vo švédskom BK Rögle už nepočítajú so službami slovenského hokejového reprezentanta Dominika Graňáka .">
+    <word id="w1" scope="w6" lemma="v" pos="Ev6">Vo</word>
+    <word id="w2" scope="w6" lemma="švédsky" pos="AAns6x">švédskom</word>
+    <word id="w3" scope="w6" lemma="BK" pos="W">BK</word>
+    <word id="w4" scope="w6" lemma="Rögle" pos="SSip1">Rögle</word>
+    <word id="w5" scope="w6" lemma="už" pos="T">už</word>
+    <word id="w6" negator="pre" lemma="nepočítať" pos="VKepc-">nepočítajú</word>
+    <word id="w7" scope="w6" lemma="s" pos="Ev7">so</word>
+    <word id="w8" scope="w6" lemma="služba" pos="SSfp7">službami</word>
+    <word id="w9" scope="w6" lemma="slovenský" pos="AAms4x">slovenského</word>
+    <word id="w10" scope="w6" lemma="hokejový" pos="AAms4x">hokejového</word>
+    <word id="w11" scope="w6" lemma="reprezentant" pos="SSms4">reprezentanta</word>
+    <word id="w12" scope="w6" lemma="dominika" pos="SSfs1">Dominika</word>
+    <word id="w13" scope="w6" lemma="Graňáka" pos="SAfs1">Graňáka</word>
+    <word id="w14" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Okrem skúseného obrancu v klube v novej sezóne nebudú pôsobiť ani Oscar Danish , Patrick Cehlin , Viktor Lindgren , Victor Laz , Matt Fraser , Felix Schütz a kapitán Christopher Lacas .">
+    <word id="w1" negator="gen" scope="w9" lemma="okrem" pos="Eu2">Okrem</word>
+    <word id="w2" scope="w9" lemma="skúsený" pos="AAms2x">skúseného</word>
+    <word id="w3" scope="w1,w9" lemma="obranca" pos="SSms2">obrancu</word>
+    <word id="w4" scope="w9" lemma="v" pos="Eu6">v</word>
+    <word id="w5" scope="w9" lemma="klub" pos="SSis6">klube</word>
+    <word id="w6" scope="w9" lemma="v" pos="Eu6">v</word>
+    <word id="w7" scope="w9" lemma="nový" pos="AAfs6x">novej</word>
+    <word id="w8" scope="w9" lemma="sezóna" pos="SSfs6">sezóne</word>
+    <word id="w9" negator="pre" lemma="nebyť" pos="VBepc-">nebudú</word>
+    <word id="w10" scope="w9" lemma="pôsobiť" pos="VIe+">pôsobiť</word>
+    <word id="w11" scope="w9" lemma="ani" pos="T">ani</word>
+    <word id="w12" scope="w9" lemma="oscar" pos="SSms1">Oscar</word>
+    <word id="w13" scope="w9" lemma="Danish" pos="%">Danish</word>
+    <word id="w14" scope="w9" lemma="," pos="Z">,</word>
+    <word id="w15" scope="w9" lemma="patrick" pos="SSms1">Patrick</word>
+    <word id="w16" scope="w9" lemma="Cehlin" pos="SSms1">Cehlin</word>
+    <word id="w17" scope="w9" lemma="," pos="Z">,</word>
+    <word id="w18" scope="w9" lemma="viktor" pos="SSms1">Viktor</word>
+    <word id="w19" scope="w9" lemma="Lindgren" pos="SSms1">Lindgren</word>
+    <word id="w20" scope="w9" lemma="," pos="Z">,</word>
+    <word id="w21" scope="w9" lemma="victor" pos="SSms1">Victor</word>
+    <word id="w22" scope="w9" lemma="Laz" pos="SSms1">Laz</word>
+    <word id="w23" scope="w9" lemma="," pos="Z">,</word>
+    <word id="w24" scope="w9" lemma="Matt" pos="SSms1">Matt</word>
+    <word id="w25" scope="w9" lemma="Fraser" pos="SSms1">Fraser</word>
+    <word id="w26" scope="w9" lemma="," pos="Z">,</word>
+    <word id="w27" scope="w9" lemma="felix" pos="SSms1">Felix</word>
+    <word id="w28" scope="w9" lemma="Schütz" pos="SSms1">Schütz</word>
+    <word id="w29" scope="w9" lemma="a" pos="O">a</word>
+    <word id="w30" scope="w9" lemma="kapitán" pos="SSms1">kapitán</word>
+    <word id="w31" scope="w9" lemma="christoph" pos="SSms1">Christopher</word>
+    <word id="w32" scope="w9" lemma="Lacas" pos="SSms1">Lacas</word>
+    <word id="w33" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Pre švédsky denník Expressen to potvrdil športový riaditeľ Anders &quot; Mask &quot; Carlsson .">
+    <word id="w1" lemma="pre" pos="Eu4">Pre</word>
+    <word id="w2" lemma="švédsky" pos="AAis4x">švédsky</word>
+    <word id="w3" lemma="denník" pos="SSis4">denník</word>
+    <word id="w4" lemma="Expressen" pos="SSms1">Expressen</word>
+    <word id="w5" lemma="to" pos="PFns4">to</word>
+    <word id="w6" lemma="potvrdiť" pos="VLdscm+">potvrdil</word>
+    <word id="w7" lemma="športový" pos="AAms1x">športový</word>
+    <word id="w8" lemma="riaditeľ" pos="SSms1">riaditeľ</word>
+    <word id="w9" lemma="anders" pos="SSms1">Anders</word>
+    <word id="w10" lemma="&quot;" pos="Z">"</word>
+    <word id="w11" lemma="mask" pos="%">Mask</word>
+    <word id="w12" lemma="&quot;" pos="Z">"</word>
+    <word id="w13" lemma="Carlsson" pos="%">Carlsson</word>
+    <word id="w14" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="&quot; Chápem , že naše rozhodnutie ukončiť spoluprácu s ôsmimi hráčmi vyvolalo u mnohých zmiešané pocity .">
+    <word id="w1" lemma="&quot;" pos="Z">"</word>
+    <word id="w2" lemma="chápať" pos="VKesa+">Chápem</word>
+    <word id="w3" lemma="," pos="Z">,</word>
+    <word id="w4" lemma="že" pos="O">že</word>
+    <word id="w5" lemma="náš" pos="PFns4">naše</word>
+    <word id="w6" lemma="rozhodnutie" pos="SSns4">rozhodnutie</word>
+    <word id="w7" lemma="ukončiť" pos="VId+">ukončiť</word>
+    <word id="w8" lemma="spolupráca" pos="SSfs4">spoluprácu</word>
+    <word id="w9" lemma="s" pos="Eu7">s</word>
+    <word id="w10" lemma="osem" pos="NUnp7">ôsmimi</word>
+    <word id="w11" lemma="hráč" pos="SSmp7">hráčmi</word>
+    <word id="w12" lemma="vyvolať" pos="VLdscn+">vyvolalo</word>
+    <word id="w13" lemma="u" pos="Eu2">u</word>
+    <word id="w14" lemma="mnohý" pos="NAip2">mnohých</word>
+    <word id="w15" lemma="zmiešaný" pos="Gtip4x">zmiešané</word>
+    <word id="w16" lemma="pocit" pos="SSip4">pocity</word>
+    <word id="w17" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="K tomuto kroku sme však nepristúpili bez záujmu o dobro klubu , &quot; zdôraznil Carlsson .">
+    <word id="w1" scope="w6" lemma="k" pos="Eu3">K</word>
+    <word id="w2" scope="w6" lemma="tento" pos="PFis3">tomuto</word>
+    <word id="w3" scope="w6" lemma="krok" pos="SSis3">kroku</word>
+    <word id="w4" scope="w6" lemma="byť" pos="VKepa+">sme</word>
+    <word id="w5" scope="w6" lemma="však" pos="T">však</word>
+    <word id="w6" negator="pre" lemma="nepristúpiť" pos="VLdpah-">nepristúpili</word>
+    <word id="w7" negator="gen" scope="w6" lemma="bez" pos="Eu2">bez</word>
+    <word id="w8" scope="w6,w7" lemma="záujem" pos="SSis2">záujmu</word>
+    <word id="w9" scope="w6" lemma="o" pos="Eu4">o</word>
+    <word id="w10" scope="w6" lemma="dobro" pos="SSns4">dobro</word>
+    <word id="w11" scope="w6" lemma="klub" pos="SSis2">klubu</word>
+    <word id="w12" scope="w6" lemma="," pos="Z">,</word>
+    <word id="w13" scope="w6" lemma="&quot;" pos="Z">"</word>
+    <word id="w14" lemma="zdôrazniť" pos="VLdscm+">zdôraznil</word>
+    <word id="w15" lemma="Carlsson" pos="SSms1">Carlsson</word>
+    <word id="w16" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Kapitána Lacasa , ktorý priviedol Rögle z záchrane v Elitserien , rozhodnutie vedenia klubu zaskočilo : &quot; Ťažko sa mi k tomu vyjadruje , cítim smútok a prázdnotu . &quot;">
+    <word id="w1" lemma="kapitán" pos="SSms4">Kapitána</word>
+    <word id="w2" lemma="Lacasa" pos="SSms4">Lacasa</word>
+    <word id="w3" lemma="," pos="Z">,</word>
+    <word id="w4" lemma="ktorý" pos="PAms1">ktorý</word>
+    <word id="w5" lemma="priviesť" pos="VLdscm+">priviedol</word>
+    <word id="w6" lemma="Rögle" pos="SSms1">Rögle</word>
+    <word id="w7" lemma="z" pos="Eu2">z</word>
+    <word id="w8" lemma="záchrana" pos="SSfs6">záchrane</word>
+    <word id="w9" lemma="v" pos="Eu6">v</word>
+    <word id="w10" lemma="Elitserien" pos="SSis6">Elitserien</word>
+    <word id="w11" lemma="," pos="Z">,</word>
+    <word id="w12" lemma="rozhodnutie" pos="SSns1">rozhodnutie</word>
+    <word id="w13" lemma="vedenie" pos="SSns2">vedenia</word>
+    <word id="w14" lemma="klub" pos="SSis2">klubu</word>
+    <word id="w15" lemma="zaskočiť" pos="VLdscn+">zaskočilo</word>
+    <word id="w16" lemma=":" pos="Z">:</word>
+    <word id="w17" lemma="&quot;" pos="Z">"</word>
+    <word id="w18" lemma="ťažko" pos="Dx">Ťažko</word>
+    <word id="w19" lemma="sa" pos="R">sa</word>
+    <word id="w20" lemma="ja" pos="PPhs3">mi</word>
+    <word id="w21" lemma="k" pos="Eu3">k</word>
+    <word id="w22" lemma="to" pos="PFns3">tomu</word>
+    <word id="w23" lemma="vyjadrovať" pos="VKesc+">vyjadruje</word>
+    <word id="w24" lemma="," pos="Z">,</word>
+    <word id="w25" lemma="cítiť" pos="VKesa+">cítim</word>
+    <word id="w26" lemma="smútok" pos="SSis4">smútok</word>
+    <word id="w27" lemma="a" pos="O">a</word>
+    <word id="w28" lemma="prázdnota" pos="SSfs4">prázdnotu</word>
+    <word id="w29" lemma="." pos="Z">.</word>
+    <word id="w30" lemma="&quot;" pos="Z">"</word>
+  </sentence>
+  <sentence text="Graňák prišiel do Rögle v roku 2015 .">
+    <word id="w1" lemma="Graňák" pos="SSms1">Graňák</word>
+    <word id="w2" lemma="prísť" pos="VLdscm+">prišiel</word>
+    <word id="w3" lemma="do" pos="Eu2">do</word>
+    <word id="w4" lemma="Rögle" pos="SSfs2">Rögle</word>
+    <word id="w5" lemma="v" pos="Eu6">v</word>
+    <word id="w6" lemma="rok" pos="SSis6">roku</word>
+    <word id="w7" lemma="2015" pos="0">2015</word>
+    <word id="w8" lemma="." pos="Z">.</word>
+  </sentence>
+  <sentence text="Predtým pôsobil vo Fribourgu , Linköpingu a Diname Moskva , s ktorým v KHL dvakrát získal Gagarinov pohár .">
+    <word id="w1" lemma="predtým" pos="Dx">Predtým</word>
+    <word id="w2" lemma="pôsobiť" pos="VLescm+">pôsobil</word>
+    <word id="w3" lemma="v" pos="Ev6">vo</word>
+    <word id="w4" lemma="Fribourgu" pos="SSis6">Fribourgu</word>
+    <word id="w5" lemma="," pos="Z">,</word>
+    <word id="w6" lemma="Linköpingu" pos="SSis6">Linköpingu</word>
+    <word id="w7" lemma="a" pos="O">a</word>
+    <word id="w8" lemma="Diname" pos="AAfs1x">Diname</word>
+    <word id="w9" lemma="moskva" pos="SSfs1">Moskva</word>
+    <word id="w10" lemma="," pos="Z">,</word>
+    <word id="w11" lemma="s" pos="Eu7">s</word>
+    <word id="w12" lemma="ktorý" pos="PAms7">ktorým</word>
+    <word id="w13" lemma="v" pos="Eu6">v</word>
+    <word id="w14" lemma="KHL" pos="SSfs6">KHL</word>
+    <word id="w15" lemma="dvakrát" pos="ND">dvakrát</word>
+    <word id="w16" lemma="získať" pos="VLdscm+">získal</word>
+    <word id="w17" lemma="Gagarinov" pos="AFis4x">Gagarinov</word>
+    <word id="w18" lemma="pohár" pos="SSis4">pohár</word>
+    <word id="w19" lemma="." pos="Z">.</word>
+  </sentence>
+</document>
+
